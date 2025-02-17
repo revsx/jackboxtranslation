@@ -14,7 +14,7 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Zastanawiacie sie dlaczego jestem taki zly"
+     "signpost": "Zastanawiacie sie, dlaczego jestem taki zly"
     },
     {
      "position": "middle",
@@ -38,11 +38,11 @@
     },
     {
      "position": "middle",
-     "signpost": "Wciaz pamietam ten moment w gimbazjonie, gdy wpadlem na ten plan..."
+     "signpost": "Wciaz pamietam ten moment w gimnazjum, gdy wpadlem na ten plan..."
     },
     {
      "position": "end",
-     "signpost": "Co zrobie jak juz moj plan sie wypelni? Juz wam mowie"
+     "signpost": "Co zrobie, jak juz moj plan sie wypelni? Juz wam mowie"
     }
    ],
    "title": "Ukleknijcie przede mna, bo nic nie powstrzyma mojego planu <BLANK>!",
@@ -122,7 +122,7 @@
     "catchable lightning"
    ],
    "signposts": [],
-   "title": "The Power of <BLANK>",
+   "title": "Potega <BLANK>",
    "x": false
   },
   {
@@ -133,7 +133,7 @@
     "dancing too hard"
    ],
    "signposts": [],
-   "title": "Jak <BLANK> moze zniszczyc Ci zycie",
+   "title": "Jak <BLANK> moze zniszczyc ci zycie",
    "x": false
   },
   {
@@ -188,7 +188,7 @@
     "Alexa"
    ],
    "signposts": [],
-   "title": "<BLANK> probuje Cie zabic!",
+   "title": "<BLANK> probuje cie zabic!",
    "x": false
   },
   {
@@ -199,7 +199,7 @@
     "better underwear"
    ],
    "signposts": [],
-   "title": "Zalatw sobie <BLANK>, Zarabiaj na tym",
+   "title": "Zalatw sobie <BLANK>, zarabiaj na tym",
    "x": false
   },
   {
@@ -210,7 +210,7 @@
     "A Deep Hole"
    ],
    "signposts": [],
-   "title": "<BLANK> i dlaczego to takie zajebiste",
+   "title": "<BLANK> i dlaczego to takie niesamowite",
    "x": false
   },
   {
@@ -243,7 +243,7 @@
     "Bacon"
    ],
    "signposts": [],
-   "title": "<BLANK> i ja: Nowoczena historia milosna",
+   "title": "<BLANK> i ja: Nowoczesna historia milosna",
    "x": false
   },
   {
@@ -320,7 +320,7 @@
     "A Dolphin Who is Now My Best Friend"
    ],
    "signposts": [],
-   "title": "Jak uratowalem zycie <BLANK> ",
+   "title": "Jak uratowalem zycie <BLANK>",
    "x": false
   },
   {
@@ -342,7 +342,7 @@
     "to go to bed because I'm still awake"
    ],
    "signposts": [],
-   "title": "Gdy bylem w Twoim wieku to chcialbym, zeby ktos powiedzial mi, ze <BLANK>",
+   "title": "Gdy bylem w twoim wieku, chcialbym, zeby ktos powiedzial mi, ze <BLANK>",
    "x": false
   },
   {
@@ -353,7 +353,7 @@
     "sneeze, fart and cough at the same time. I'm serious."
    ],
    "signposts": [],
-   "title": "Moja porada dla Ciebie: nigdy <BLANK>",
+   "title": "Moja porada dla ciebie: nigdy <BLANK>",
    "x": false
   },
   {
@@ -364,7 +364,7 @@
     "nightmares"
    ],
    "signposts": [],
-   "title": "Walcz z <BLANK> majac usmiech na twarzy!",
+   "title": "Walcz z <BLANK>, majac usmiech na twarzy!",
    "x": false
   },
   {
@@ -408,7 +408,7 @@
     "eat that bug"
    ],
    "signposts": [],
-   "title": "Dlaczego zrobilem <BLANK>? Juz Ci mowie",
+   "title": "Dlaczego zrobilem <BLANK>? Juz ci mowie",
    "x": false
   },
   {
@@ -606,7 +606,7 @@
     "Coffee Table"
    ],
    "signposts": [],
-   "title": "Klekjnicie przed moim zastraszajacym <BLANK>",
+   "title": "Kleknijcie przed moim zastraszajacym <BLANK>",
    "x": false
   },
   {
@@ -683,7 +683,7 @@
     "Teenage Angst"
    ],
    "signposts": [],
-   "title": "Szykuj sie, zabieram Cie do miasta <BLANK>",
+   "title": "Szykuj sie, zabieram cie do miasta <BLANK>",
    "x": false
   },
   {
@@ -694,7 +694,7 @@
     "Tickling"
    ],
    "signposts": [],
-   "title": "Could <BLANK> jest sekretem niesmiertelnosci?",
+   "title": "Czy <BLANK> jest sekretem niesmiertelnosci?",
    "x": false
   },
   {
@@ -705,7 +705,7 @@
     "Dentist"
    ],
    "signposts": [],
-   "title": "Jak oszczedzac pieniadze bedac <BLANK>",
+   "title": "Jak oszczedzac pieniadze, bedac <BLANK>",
    "x": false
   },
   {
@@ -716,7 +716,7 @@
     "Read Magazines"
    ],
    "signposts": [],
-   "title": "Jesli nie zrobisz <BLANK>, zniszcze Cie",
+   "title": "Jesli nie zrobisz <BLANK>, zniszcze cie",
    "x": false
   },
   {
@@ -727,7 +727,7 @@
     "Imprison"
    ],
    "signposts": [],
-   "title": "<BLANK>, To proste jak liczenie!",
+   "title": "<BLANK>, to proste jak liczenie!",
    "x": false
   },
   {
@@ -738,7 +738,7 @@
     "The Moon"
    ],
    "signposts": [],
-   "title": "Jesli kontrolowalbym <BLANK> To by sie duzo zmienilo",
+   "title": "Jesli kontrolowalbym <BLANK>, to by sie duzo zmienilo",
    "x": false
   },
   {
@@ -771,11 +771,11 @@
     },
     {
      "position": "end",
-     "signpost": "Pozwolcie nam, POLAKOM wykrzyczec to co chce kazdy..."
+     "signpost": "Pozwolcie nam, POLAKOM, wykrzyczec to, co chce kazdy..."
     },
     {
      "position": "end",
-     "signpost": "Na zakonczenie pozwole sobie nadmienic, ze ptaki, pizza i komputery lacza sie z tematem poniewaz..."
+     "signpost": "Na zakonczenie pozwole sobie nadmienic, ze ptaki, pizza i komputery lacza sie z tematem, poniewaz..."
     },
     {
      "position": "middle",
@@ -790,7 +790,7 @@
      "signpost": "Z daleka nie widac, zeby to zdjecie mialo jakikolwiek sens, ale popatrzcie blizej..."
     }
    ],
-   "title": "Rasizm, homoseksualizm, antysemintyzm: oto rzeczy, ktore zostaly uzyte do stworzenia <BLANK>",
+   "title": "Rasizm, homoseksualizm, antysemityzm: oto rzeczy, ktore zostaly uzyte do stworzenia <BLANK>",
    "x": false
   },
   {
@@ -813,7 +813,7 @@
     "missing"
    ],
    "signposts": [],
-   "title": "Bedziesz w szoku gdy dowiesz sie, ze moj najlepszy przyjaciel <BLANK>",
+   "title": "Bedziesz w szoku, gdy dowiesz sie, ze moj najlepszy przyjaciel <BLANK>",
    "x": false
   },
   {
@@ -834,7 +834,7 @@
     "Rocking Chairs"
    ],
    "signposts": [],
-   "title": "Zapomnij o wszystkim co znasz: <BLANK> to nowa moda",
+   "title": "Zapomnij o wszystkim, co znasz: <BLANK> to nowa moda",
    "x": false
   },
   {
@@ -844,7 +844,7 @@
     "Dog"
    ],
    "signposts": [],
-   "title": "Rzuc wszystko i pojedz  <BLANK>",
+   "title": "Rzuc wszystko i pojedz <BLANK>",
    "x": false
   },
   {
@@ -877,7 +877,7 @@
     "Robots"
    ],
    "signposts": [],
-   "title": "Jak znalezc milosc jesli ma sie <BLANK>",
+   "title": "Jak znalezc milosc, jesli ma sie <BLANK>",
    "x": false
   },
   {
@@ -894,7 +894,7 @@
     },
     {
      "position": "end",
-     "signpost": "Wszyscy wiedza jak ta historia sie skonczy..."
+     "signpost": "Wszyscy wiedza, jak ta historia sie skonczy..."
     },
     {
      "position": "middle",
@@ -906,11 +906,11 @@
     },
     {
      "position": "middle",
-     "signpost": "Tutaj powod dlaczego odmowiono wspolpracy przy tworzeniu tej prezentacji..."
+     "signpost": "Tutaj powod, dlaczego odmowiono wspolpracy przy tworzeniu tej prezentacji..."
     },
     {
      "position": "end",
-     "signpost": "Jesli nie zostane pozwany, kolejnym tematem, ktory bede rozpatrywal bedzie..."
+     "signpost": "Jesli nie zostane pozwany, kolejnym tematem, ktory bede rozpatrywal, bedzie..."
     },
     {
      "position": "end",
@@ -918,7 +918,7 @@
     },
     {
      "position": "end",
-     "signpost": "Ponad wszystko, dziedzictwo opsisuje ten obraz..."
+     "signpost": "Ponad wszystko, dziedzictwo opisuje ten obraz..."
     },
     {
      "position": "end",
@@ -958,7 +958,7 @@
     "improved typing speed"
    ],
    "signposts": [],
-   "title": "Jak porpawic swoje zycie poprzez <BLANK>",
+   "title": "Jak poprawic swoje zycie poprzez <BLANK>",
    "x": false
   },
   {
@@ -969,7 +969,7 @@
     "Their Words"
    ],
    "signposts": [],
-   "title": "<BLANK>: To cos co kazdy powinien sprobowac!",
+   "title": "<BLANK>: To cos, co kazdy powinien sprobowac!",
    "x": false
   },
   {
@@ -991,7 +991,7 @@
     "Bake Bad Bread"
    ],
    "signposts": [],
-   "title": "Nie badzcie zli gdy mowie, ze najlepszya droga to sukcesu jest <BLANK>",
+   "title": "Nie badzcie zli, gdy mowie, ze najlepsza droga do sukcesu to <BLANK>",
    "x": false
   },
   {
@@ -1016,7 +1016,7 @@
     },
     {
      "position": "end",
-     "signpost": "Co ja, normalny czlowiek, moze zrobic by pomoc?"
+     "signpost": "Co ja, normalny czlowiek, moge zrobic, by pomoc?"
     },
     {
      "position": "end",
@@ -1024,7 +1024,7 @@
     },
     {
      "position": "end",
-     "signpost": "Teraz kiedy juz wiecie, oto wasza nagroda!"
+     "signpost": "Teraz, kiedy juz wiecie, oto wasza nagroda!"
     },
     {
      "position": "middle",
@@ -1032,18 +1032,18 @@
     },
     {
      "position": "middle",
-     "signpost": "Jakby to bylo zbyt trudnie to spiesze z wyjasnieniem..."
+     "signpost": "Jakby to bylo zbyt trudne, to spiesze z wyjasnieniem..."
     },
     {
      "position": "middle",
-     "signpost": "Bylem normalnym czlowiekiem, tak jak wy, teraz wyjasniam dlaczego to sie zmienilo..."
+     "signpost": "Bylem normalnym czlowiekiem, tak jak wy, teraz wyjasniam, dlaczego to sie zmienilo..."
     },
     {
      "position": "end",
-     "signpost": "Teraz, gdy juz jestescie eksperami, mozecie uzyc tego..."
+     "signpost": "Teraz, gdy juz jestescie ekspertami, mozecie uzyc tego..."
     }
    ],
-   "title": "<BLANK> : Dla was normalni ludzie",
+   "title": "<BLANK>: Dla was, normalni ludzie",
    "x": false
   },
   {
@@ -1065,7 +1065,7 @@
     "too much coffee"
    ],
    "signposts": [],
-   "title": "Powdoj swoj portfel dzieki ciezkiej pracy, uporczywosci i <BLANK>",
+   "title": "Podwoj swoj portfel dzieki ciezkiej pracy, uporczywosci i <BLANK>",
    "x": false
   },
   {
@@ -1097,7 +1097,7 @@
     },
     {
      "position": "middle",
-     "signpost": "Najczestrza pomylka interpretujac to jest..."
+     "signpost": "Najczestsza pomylka w interpretacji tego to..."
     },
     {
      "position": "end",
@@ -1109,7 +1109,7 @@
     },
     {
      "position": "end",
-     "signpost": "Jak skonczysz to mozesz uzyc tego..."
+     "signpost": "Jak skonczysz, to mozesz uzyc tego..."
     },
     {
      "position": "middle",
@@ -1121,7 +1121,7 @@
     },
     {
      "position": "end",
-     "signpost": "Now that I'm done, here's what I'll tackle next..."
+     "signpost": "Teraz, gdy skonczylem, oto, czym sie zajme dalej..."
     }
    ],
    "title": "Budowanie idealnego <BLANK> od poczatku do konca",
@@ -1146,7 +1146,7 @@
     "Yum Yum Yum"
    ],
    "signposts": [],
-   "title": "Zaczynaj dzien od patrzenia w lusto i krzyczenia: <BLANK>",
+   "title": "Zaczynaj dzien od patrzenia w lustro i krzyczenia: <BLANK>",
    "x": false
   },
   {
@@ -1168,7 +1168,7 @@
     },
     {
      "position": "middle",
-     "signpost": "Czas przedstawic Ci to co kryje sie w srodku..."
+     "signpost": "Czas przedstawic Ci to, co kryje sie w srodku..."
     },
     {
      "position": "middle",
@@ -1201,11 +1201,11 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Idealne miejsce na radnke to..."
+     "signpost": "Idealne miejsce na randke to..."
     },
     {
      "position": "end",
-     "signpost": "Pamietaj, zeby skonczyc wieczór z ..."
+     "signpost": "Pamietaj, zeby skonczyc wieczor z ..."
     },
     {
      "position": "middle",
@@ -1213,7 +1213,7 @@
     },
     {
      "position": "end",
-     "signpost": "Zamiast buziaka spróbuj tego..."
+     "signpost": "Zamiast buziaka sprobuj tego..."
     },
     {
      "position": "end",
@@ -1221,7 +1221,7 @@
     },
     {
      "position": "middle",
-     "signpost": "Jedyna droga do serca drugiej osoby jest..."
+     "signpost": "Jedyna droga do serca drugiej osoby to..."
     },
     {
      "position": "middle",
@@ -1250,7 +1250,7 @@
     "Fish"
    ],
    "signposts": [],
-   "title": "Nerdy powstancie, nie potrzebujecie juz <BLANK>",
+   "title": "Nerdy, powstancie! Nie potrzebujecie juz <BLANK>",
    "x": false
   },
   {
@@ -1261,7 +1261,7 @@
     "dreaming while I'm awake"
    ],
    "signposts": [],
-   "title": "Moje zycie bedzie lepsze, gdy  zaczne <BLANK>",
+   "title": "Moje zycie bedzie lepsze, gdy zaczne <BLANK>",
    "x": false
   },
   {
@@ -1272,7 +1272,7 @@
     "lucid dreaming"
    ],
    "signposts": [],
-   "title": "Więc co?! Mam obsesje na punkcie <BLANK>",
+   "title": "Wiec co?! Mam obsesje na punkcie <BLANK>",
    "x": false
   },
   {
@@ -1294,7 +1294,7 @@
     "owning a monster truck"
    ],
    "signposts": [],
-   "title": "Przestan mówić o <BLANK>! To niemile!",
+   "title": "Przestan mowic o <BLANK>! To niemile!",
    "x": false
   },
   {
@@ -1327,7 +1327,7 @@
     "Captain Get Wild"
    ],
    "signposts": [],
-   "title": "Powód dlaczego wszyscy nazywaja mnie <BLANK>",
+   "title": "Powod, dlaczego wszyscy nazywaja mnie <BLANK>",
    "x": false
   },
   {
@@ -1338,7 +1338,7 @@
     "Their Managerial Skills"
    ],
    "signposts": [],
-   "title": "Jeden czlowiek moze przertwac w samotnosci w <BLANK>",
+   "title": "Jeden czlowiek moze przetrwac w samotnosci w <BLANK>",
    "x": false
   },
   {
@@ -1349,7 +1349,7 @@
     "cha-cha slide"
    ],
    "signposts": [],
-   "title": " <BLANK> jak totalnie zajebisty typ",
+   "title": "<BLANK>: Jak totalnie zajebisty typ",
    "x": false
   },
   {
@@ -1360,7 +1360,7 @@
     "danced with the devil in the pale moonlight"
    ],
    "signposts": [],
-   "title": "Nie zyjesz w pelni, jesli Ty <BLANK>",
+   "title": "Nie zyjesz w pelni, jesli ty <BLANK>",
    "x": false
   },
   {
@@ -1426,7 +1426,7 @@
     "Toes"
    ],
    "signposts": [],
-   "title": "Uzywales swojego <BLANK> zle przez cale zycie, Ty pajacu",
+   "title": "Uzywales swojego <BLANK> zle przez cale zycie, ty pajacu",
    "x": false
   },
   {
@@ -1439,46 +1439,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "But the whole story shifts with the entrance of this wild new character..."
+     "signpost": "Ale cala historia zmienia sie wraz z pojawieniem sie tego nowego, szalonego bohatera..."
     },
     {
      "position": "middle",
-     "signpost": "But hold on, you weren't expecting this shocking plot twist..."
+     "signpost": "Ale chwila, nie spodziewaliscie sie tego szokujacego zwrotu akcji..."
     },
     {
      "position": "middle",
-     "signpost": "Meanwhile, in the deepest reaches of space..."
+     "signpost": "Tymczasem, w najdalszych zakatkach kosmosu..."
     },
     {
      "position": "middle",
-     "signpost": "Suddenly the story flashes forward twenty years..."
+     "signpost": "Nagle historia przenosi sie o dwadziescia lat do przodu..."
     },
     {
      "position": "end",
-     "signpost": "It seems like there's no way this movie could have a satisfying ending, but guess what... it does!"
+     "signpost": "Wydaje sie, ze ten film nie moze miec satysfakcjonujacego zakonczenia, ale zgadnijcie co... ma!"
     },
     {
      "position": "end",
-     "signpost": "The final scene will blow your friggin' mind!"
+     "signpost": "Ostatnia scena rozwali wam umysl!"
     },
     {
      "position": "end",
-     "signpost": "Anyway, it goes on like that for a while. But I'd like to end by talking about merchandising opportunities."
+     "signpost": "W kazdym razie, tak to trwa jeszcze przez chwile. Ale chcialbym zakonczyc, mowiac o mozliwosciach merchandisingowych."
     },
     {
      "position": "end",
-     "signpost": "Did I mention there are vampires? That's important for the ending."
+     "signpost": "Czy wspomnialem, ze sa tu wampiry? To wazne dla zakonczenia."
     },
     {
      "position": "middle",
-     "signpost": "Suddenly a car drives up and out steps..."
+     "signpost": "Nagle podjezdza samochod i wysiada z niego..."
     },
     {
      "position": "end",
-     "signpost": "Abruptly the credits roll. But then after the credits..."
+     "signpost": "Nagle napisy koncowe. Ale potem, po napisach..."
     }
    ],
-   "title": "I will now describe the full plot of the action packed screenplay I've written, entitled, \"<BLANK>\"",
+   "title": "Opowiem teraz cala fabule mojego ekscytujacego scenariusza, zatytulowanego: \"<BLANK>\"",
    "x": false
   },
   {
@@ -1491,46 +1491,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "When I was your age I had some misconceptions about the real world..."
+     "signpost": "Gdy bylem w waszym wieku, mialem pewne bledne wyobrazenia o prawdziwym swiecie..."
     },
     {
      "position": "middle",
-     "signpost": "Some of you have asked why I am your graduation speaker and I'll tell you the truth..."
+     "signpost": "Niektorzy z was pytali, dlaczego to ja jestem waszym mowca na zakonczenie i powiem wam prawde..."
     },
     {
      "position": "end",
-     "signpost": "You all have a lot of weird things to be proud of..."
+     "signpost": "Macie wiele dziwnych rzeczy, z ktorych mozecie byc dumni..."
     },
     {
      "position": "end",
-     "signpost": "I'd like to leave you with a quote from my favorite song..."
+     "signpost": "Chcialbym zostawic was z cytatem z mojej ulubionej piosenki..."
     },
     {
      "position": "end",
-     "signpost": "Finally, as you go out into the world, there's one thing you should take with you always..."
+     "signpost": "Na koniec, gdy wkraczacie w swiat, jest jedna rzecz, ktora powinniscie zawsze pamietac..."
     },
     {
      "position": "middle",
-     "signpost": "I hope you remember fondly your time here and our unusual school mascot..."
+     "signpost": "Mam nadzieje, ze bedziecie cieplo wspominac czas spedzony tutaj i nasza nietypowa maskotke szkolna..."
     },
     {
      "position": "end",
-     "signpost": "Finally, I will recite our school motto in Latin, and then explain what it means..."
+     "signpost": "Na zakonczenie, pozwolcie mi wyrecytowac nasza szkolna maksyme po lacinie, a nastepnie wyjasnic jej znaczenie..."
     },
     {
      "position": "end",
-     "signpost": "To close it out, let's sing our school song together, \"Forever And Ever Benton True\""
+     "signpost": "A teraz, na zakonczenie, zaspiewajmy nasza szkolna piosenke razem, 'Na zawsze i na wieki Benton True'."
     },
     {
      "position": "middle",
-     "signpost": "Let's give it up for everybody's favorite teacher..."
+     "signpost": "Zrobmy halas dla ulubionego nauczyciela wszystkich..."
     },
     {
      "position": "middle",
-     "signpost": "Every student here will miss attending this class..."
+     "signpost": "Kazdy uczen tutaj bedzie tesknil za uczeszczaniem na te zajecia..."
     }
    ],
-   "title": "My advice to the graduating class of Liberty Benton High School is this: <BLANK>",
+   "title": "Moja rada dla klasy konczacej szkole: <BLANK>",
    "x": false
   },
   {
@@ -1541,7 +1541,7 @@
     "Carpenters"
    ],
    "signposts": [],
-   "title": "Underestimate <BLANK> At Your Own Peril!",
+   "title": "Zlekcewaz <BLANK> na wlasne ryzyko!",
    "x": false
   },
   {
@@ -1552,7 +1552,7 @@
     "Me"
    ],
    "signposts": [],
-   "title": "It's Time for Society to Stop Ignoring <BLANK>",
+   "title": "Czas, by spoleczenstwo przestalo ignorowac <BLANK>",
    "x": false
   },
   {
@@ -1563,7 +1563,7 @@
     "Kissing"
    ],
    "signposts": [],
-   "title": "I Believe <BLANK> Is a Modern-Day Miracle",
+   "title": "Uwazam, ze <BLANK> to wspolczesny cud",
    "x": false
   },
   {
@@ -1574,7 +1574,7 @@
     "lizards"
    ],
    "signposts": [],
-   "title": "How I Learned To Let Go And Love <BLANK>",
+   "title": "Jak nauczylem sie odpuszczac i pokochalem <BLANK>",
    "x": false
   },
   {
@@ -1585,7 +1585,7 @@
     "Sugar"
    ],
    "signposts": [],
-   "title": "<BLANK>: It Makes The World Go 'Round",
+   "title": "<BLANK>: To sprawia, ze swiat sie kreci",
    "x": false
   },
   {
@@ -1596,7 +1596,7 @@
     "two horses"
    ],
    "signposts": [],
-   "title": "<BLANK>: The Perfect Gift For Any Occasion",
+   "title": "<BLANK>: Idealny prezent na kazda okazje",
    "x": false
   },
   {
@@ -1609,50 +1609,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "To the people trying to stop me..."
+     "signpost": "Dla ludzi, ktorzy probuja mnie powstrzymac..."
     },
     {
      "position": "middle",
-     "signpost": "How did I get so powerful?"
+     "signpost": "Jak stalem sie tak potezny?"
     },
     {
      "position": "end",
-     "signpost": "And now, the crown jewel of my plan..."
+     "signpost": "A teraz, klejnot korony mojego planu..."
     },
     {
      "position": "end",
-     "signpost": "Does my plan have ANY flaws?"
+     "signpost": "Czy moj plan ma JAKIEKOLWIEK wady?"
     },
     {
      "position": "end",
-     "signpost": "What will I do when I succeed?"
+     "signpost": "Co zrobie, gdy odniose sukces?"
     },
     {
      "position": "middle",
-     "signpost": "Allow me to explain my intricate scheme..."
+     "signpost": "Pozwolcie mi wyjasnic moj misterny plan..."
     },
     {
      "position": "end",
-     "signpost": "My plan has one flaw. THIS..."
+     "signpost": "Moj plan ma jedna wade. TO..."
     },
     {
      "position": "end",
-     "signpost": "Join me, or this will happen to you..."
+     "signpost": "Dolaczcie do mnie, albo to was spotka..."
     },
     {
      "position": "end",
-     "signpost": "And just to make sure nothing goes wrong, my plan has this built-in security measure..."
+     "signpost": "I zeby upewnic sie, ze nic nie pojdzie nie tak, moj plan ma ten wbudowany srodek bezpieczenstwa..."
     },
     {
      "position": "middle",
-     "signpost": "This plan will work much better than my last plot..."
+     "signpost": "Ten plan bedzie dzialal znacznie lepiej niz moj ostatni spisek..."
     },
     {
      "position": "middle",
-     "signpost": "They said it couldn't be done, but now they stand in awe of this..."
+     "signpost": "Mowili, ze to sie nie uda, ale teraz patrza z podziwem na to..."
     }
    ],
-   "title": "It's Too Late! My Plan for <BLANK> Is Already In Motion!",
+   "title": "Juz za pozno! Moj plan dla <BLANK> jest juz w ruchu!",
    "x": false
   },
   {
@@ -1663,7 +1663,7 @@
     "Chipotle"
    ],
    "signposts": [],
-   "title": "How I Made Everyone At <BLANK> Fall In Love With Me",
+   "title": "Jak sprawilem, ze wszyscy w <BLANK> zakochali sie we mnie",
    "x": false
   },
   {
@@ -1674,7 +1674,7 @@
     "talking to anyone older than you"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Is A Total Waste Of Time",
+   "title": "Dlaczego <BLANK> to totalna strata czasu",
    "x": false
   },
   {
@@ -1685,7 +1685,7 @@
     "a refreshing glass of lemonade"
    ],
    "signposts": [],
-   "title": "Who will save us? <BLANK>, of Course!",
+   "title": "Kto nas uratuje? <BLANK>, oczywiscie!",
    "x": false
   },
   {
@@ -1696,7 +1696,7 @@
     "treasure hunter"
    ],
    "signposts": [],
-   "title": "The Joys of Being A <BLANK>",
+   "title": "Radosci bycia <BLANK>",
    "x": false
   },
   {
@@ -1707,7 +1707,7 @@
     "my birthday"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Should Be A New National Holiday",
+   "title": "Dlaczego <BLANK> powinno byc nowym swietem narodowym",
    "x": false
   },
   {
@@ -1718,7 +1718,7 @@
     "master's degree"
    ],
    "signposts": [],
-   "title": "Surprise! I'm Having A <BLANK>",
+   "title": "Niespodzianka! Mam <BLANK>",
    "x": false
   },
   {
@@ -1729,7 +1729,7 @@
     "snuggling"
    ],
    "signposts": [],
-   "title": "A Beginner's Guide to Competitive <BLANK>",
+   "title": "Poradnik dla poczatkujacych: <BLANK>",
    "x": false
   },
   {
@@ -1740,7 +1740,7 @@
     "Garbage Fire"
    ],
    "signposts": [],
-   "title": "How To Turn Every Party Into a <BLANK>",
+   "title": "Jak kazda impreze zamienic w <BLANK>",
    "x": false
   },
   {
@@ -1751,7 +1751,7 @@
     "Swarm of Bees"
    ],
    "signposts": [],
-   "title": "You Have to Stop Hiding Behind That <BLANK>",
+   "title": "Musisz przestac ukrywac sie za <BLANK>",
    "x": false
   },
   {
@@ -1762,7 +1762,7 @@
     "Keeping Birds"
    ],
    "signposts": [],
-   "title": "Everything You Know About <BLANK> Is Dead Wrong",
+   "title": "Wszystko, co wiesz o <BLANK>, jest calkowicie bledne",
    "x": false
   },
   {
@@ -1773,7 +1773,7 @@
     "musical theater"
    ],
    "signposts": [],
-   "title": "How <BLANK> Pulled Me Out Of the Gutter And Into A New Life",
+   "title": "Jak <BLANK> wyciagnelo mnie z dna i dalo nowe zycie",
    "x": false
   },
   {
@@ -1788,34 +1788,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "And that's step one. Here's step two..."
+     "signpost": "I to jest pierwszy krok. A oto krok drugi..."
     },
     {
      "position": "middle",
-     "signpost": "Here's a little secret step..."
+     "signpost": "Oto maly sekretny krok..."
     },
     {
      "position": "middle",
-     "signpost": "The next step is a little dangerous..."
+     "signpost": "Nastepny krok jest troche niebezpieczny..."
     },
     {
      "position": "end",
-     "signpost": "That leaves, you guessed it, step three..."
+     "signpost": "To zostawia, zgadliscie, krok trzeci..."
     },
     {
      "position": "end",
-     "signpost": "What step was I on? Anyway, here's the last part..."
+     "signpost": "Na ktorym kroku bylem? W kazdym razie, oto ostatnia czesc..."
     },
     {
      "position": "end",
-     "signpost": "Step three is the most difficult..."
+     "signpost": "Krok trzeci jest najtrudniejszy..."
     },
     {
      "position": "end",
-     "signpost": "Let me show you the best part of the last step..."
+     "signpost": "Pozwolcie, ze pokaze wam najlepsza czesc ostatniego kroku..."
     }
    ],
-   "title": "Three Easy Steps To Achieving <BLANK>",
+   "title": "Trzy proste kroki do osiagniecia <BLANK>",
    "x": false
   },
   {
@@ -1826,7 +1826,7 @@
     "a bad meatloaf"
    ],
    "signposts": [],
-   "title": "How <BLANK> Finally Convinced Me To Leave Society",
+   "title": "Jak <BLANK> w koncu przekonalo mnie do opuszczenia spoleczenstwa",
    "x": false
   },
   {
@@ -1837,7 +1837,7 @@
     "Superman"
    ],
    "signposts": [],
-   "title": "Why I Gave Up My Job To Become <BLANK>",
+   "title": "Dlaczego porzucilem prace, by zostac <BLANK>",
    "x": false
   },
   {
@@ -1848,7 +1848,7 @@
     "beans"
    ],
    "signposts": [],
-   "title": "One Word Changed My Life, And It Was <BLANK>",
+   "title": "Jedno slowo zmienilo moje zycie, a bylo to <BLANK>",
    "x": false
   },
   {
@@ -1859,7 +1859,7 @@
     "Vampire"
    ],
    "signposts": [],
-   "title": "That's Right, I'm Secretly A <BLANK>. Don't Tell Anyone!",
+   "title": "Tak, zgadza sie, w tajemnicy jestem <BLANK>. Nie mow nikomu!",
    "x": false
   },
   {
@@ -1873,38 +1873,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Here is what I have done for you, ungrateful peasants!"
+     "signpost": "Oto, co dla was zrobilem, niewdzieczni poddani!"
     },
     {
      "position": "middle",
-     "signpost": "How will this benefit my kingdom?"
+     "signpost": "Jak to przyniesie korzysci mojemu krolestwu?"
     },
     {
      "position": "end",
-     "signpost": "Don't forget the sacred words of my royal house..."
+     "signpost": "Nie zapomnijcie o swietych slowach mojego rodu..."
     },
     {
      "position": "end",
-     "signpost": "What will happen to those who rebel?"
+     "signpost": "Co stanie sie z tymi, ktorzy sie zbuntuja?"
     },
     {
      "position": "end",
-     "signpost": "Obey my whims and you shall be rewarded with this..."
+     "signpost": "Spelniajcie moje zachcianki, a zostaniecie nagrodzeni tym..."
     },
     {
      "position": "end",
-     "signpost": "Let me show you how I am different from other kings..."
+     "signpost": "Pozwolcie, ze pokaze, czym roznie sie od innych krolow..."
     },
     {
      "position": "middle",
-     "signpost": "Behold, I did receive the following gift..."
+     "signpost": "Patrzcie, oto dar, ktory otrzymalem..."
     },
     {
      "position": "middle",
-     "signpost": "Come on, this isn't as hard as my last royal demand..."
+     "signpost": "Dalej, to nie jest tak trudne jak moje ostatnie krolewskie zadanie..."
     }
    ],
-   "title": "As Your King, I Have Only One Demand: <BLANK>",
+   "title": "Jako wasz krol mam tylko jedno zadanie: <BLANK>",
    "x": false
   },
   {
@@ -1915,7 +1915,7 @@
     "this mountain of garbage"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Is All Your Fault",
+   "title": "Dlaczego <BLANK> to wszystko wasza wina",
    "x": false
   },
   {
@@ -1926,7 +1926,7 @@
     "faking it until you make it"
    ],
    "signposts": [],
-   "title": "Become An Expert On <BLANK> In Less Than Five Minutes",
+   "title": "Zostan ekspertem w <BLANK> w mniej niz piec minut",
    "x": false
   },
   {
@@ -1937,7 +1937,7 @@
     "ferris wheel"
    ],
    "signposts": [],
-   "title": "The Secret To The Perfect House? <BLANK>!",
+   "title": "Sekret do idealnego domu? <BLANK>!",
    "x": false
   },
   {
@@ -1948,7 +1948,7 @@
     "Which Pizza Was The Best"
    ],
    "signposts": [],
-   "title": "The Only Thing I Learned In College Was <BLANK>",
+   "title": "Jedyna rzecz, ktorej nauczylem sie na studiach, to <BLANK>",
    "x": false
   },
   {
@@ -1959,7 +1959,7 @@
     "Tons of Ghosts"
    ],
    "signposts": [],
-   "title": "How I Became Best Friends With <BLANK>",
+   "title": "Jak zostalem najlepszym przyjacielem <BLANK>",
    "x": false
   },
   {
@@ -1970,7 +1970,7 @@
     "tons of spiders"
    ],
    "signposts": [],
-   "title": "The Bad Boy's Guide to <BLANK>",
+   "title": "Poradnik zlego chlopca do <BLANK>",
    "x": false
   },
   {
@@ -1983,38 +1983,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "What led to this ultimatum?"
+     "signpost": "Co doprowadzilo do tego ultimatum?"
     },
     {
      "position": "middle",
-     "signpost": "How would I describe our love?"
+     "signpost": "Jak opisalbym nasza milosc?"
     },
     {
      "position": "middle",
-     "signpost": "How can I be blamed when my partner was obsessed with this..."
+     "signpost": "Jak moge byc winny, skoro moj partner byl obsesyjnie skupiony na tym..."
     },
     {
      "position": "end",
-     "signpost": "Is there a third option?"
+     "signpost": "Czy istnieje trzecia opcja?"
     },
     {
      "position": "end",
-     "signpost": "The only compromise I'll accept is..."
+     "signpost": "Jedynym kompromisem, jaki zaakceptuje, jest..."
     },
     {
      "position": "end",
-     "signpost": "What do I do now?"
+     "signpost": "Co mam teraz zrobic?"
     },
     {
      "position": "end",
-     "signpost": "In the end I feel free. Take a look at me now..."
+     "signpost": "Na koncu czuje sie wolny. Spojrzcie na mnie teraz..."
     },
     {
      "position": "middle",
-     "signpost": "What was the biggest sign things were falling apart?"
+     "signpost": "Jaki byl najwiekszy znak, ze wszystko sie rozpada?"
     }
    ],
-   "title": "I Told My Partner To Decide: It's Either Me Or <BLANK>",
+   "title": "Powiedzialem mojemu partnerowi, zeby wybral: albo ja, albo <BLANK>",
    "x": true
   },
   {
@@ -2025,7 +2025,7 @@
     "constant crying"
    ],
    "signposts": [],
-   "title": "Using <BLANK> To Become Your Best Self",
+   "title": "Uzywanie <BLANK>, by stac sie najlepsza wersja siebie",
    "x": false
   },
   {
@@ -2036,7 +2036,7 @@
     "beefy husbands"
    ],
    "signposts": [],
-   "title": "True Life: My House Is Full Of <BLANK>",
+   "title": "Prawdziwa historia: moj dom jest pelen <BLANK>",
    "x": false
   },
   {
@@ -2047,7 +2047,7 @@
     "all of human history"
    ],
    "signposts": [],
-   "title": "The Disgusting Truth About <BLANK>",
+   "title": "Odrazajaca prawda o <BLANK>",
    "x": false
   },
   {
@@ -2058,7 +2058,7 @@
     "a purpose-driven life"
    ],
    "signposts": [],
-   "title": "Finding <BLANK> While I Was Searching For My Socks",
+   "title": "Znalazlem <BLANK>, szukajac swoich skarpet",
    "x": false
   },
   {
@@ -2069,7 +2069,7 @@
     "very sad person"
    ],
    "signposts": [],
-   "title": "Soon, I Will Reach My Final Form As A <BLANK>",
+   "title": "Wkrotce osiagne swoja ostateczna forme jako <BLANK>",
    "x": false
   },
   {
@@ -2080,7 +2080,7 @@
     "doing the dishes"
    ],
    "signposts": [],
-   "title": "The Complete Guide to <BLANK> On A Budget!",
+   "title": "Pelny przewodnik po <BLANK> w budzetowej wersji!",
    "x": false
   },
   {
@@ -2091,7 +2091,7 @@
     "fish kisser"
    ],
    "signposts": [],
-   "title": "It's Never Too Late To Become A Professional <BLANK>",
+   "title": "Nigdy nie jest za pozno, by zostac profesjonalnym <BLANK>",
    "x": false
   },
   {
@@ -2105,30 +2105,30 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Prepare yourself for the beauty I'm about to show you..."
+     "signpost": "Przygotujcie sie na piekno, ktore zaraz wam pokaze..."
     },
     {
      "position": "middle",
-     "signpost": "I'm no art critic, but here are my credentials..."
+     "signpost": "Nie jestem krytykiem sztuki, ale oto moje kwalifikacje..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what's on display at our local museum..."
+     "signpost": "Oto, co mozna zobaczyc w naszym lokalnym muzeum..."
     },
     {
      "position": "end",
-     "signpost": "What this tells us about the future of culture is this..."
+     "signpost": "To dzielo mowi nam wiele o przyszlosci kultury..."
     },
     {
      "position": "end",
-     "signpost": "We have to agree that this piece of art is at least as valuable as..."
+     "signpost": "Musimy sie zgodzic, ze ten element sztuki jest przynajmniej tak samo wartosciowy jak..."
     },
     {
      "position": "end",
-     "signpost": "All other art is garbage! Especially this..."
+     "signpost": "Wszystka inna sztuka to smieci! Zwlaszcza to..."
     }
    ],
-   "title": "Why <BLANK> Is The Greatest Work Of Art Of Our Time",
+   "title": "Dlaczego <BLANK> to najwieksze dzielo sztuki naszych czasow",
    "x": false
   },
   {
@@ -2141,7 +2141,7 @@
     "pogs"
    ],
    "signposts": [],
-   "title": "Now Is The Time To Panic About <BLANK>",
+   "title": "Teraz jest czas, aby panikowac z powodu <BLANK>",
    "x": false
   },
   {
@@ -2152,7 +2152,7 @@
     "freshed-baked cookies"
    ],
    "signposts": [],
-   "title": "Why I Gave Up Absolutely Everything For <BLANK>",
+   "title": "Dlaczego porzucilem wszystko dla <BLANK>",
    "x": false
   },
   {
@@ -2165,34 +2165,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "We used to have great times, like..."
+     "signpost": "Kiedys mielismy swietne czasy, jak..."
     },
     {
      "position": "end",
-     "signpost": "One day they will move on to a new life with..."
+     "signpost": "Pewnego dnia przejda do nowego zycia z..."
     },
     {
      "position": "middle",
-     "signpost": "Here's the reason it all became too much for me..."
+     "signpost": "Oto powod, dla ktorego to wszystko stalo sie dla mnie zbyt wiele..."
     },
     {
      "position": "end",
-     "signpost": "I've found a new love of my life..."
+     "signpost": "Znalazlem nowa milosc mojego zycia..."
     },
     {
      "position": "middle",
-     "signpost": "I know the saying, \"love the one you're with,\" but the saying should be..."
+     "signpost": "Znam powiedzenie 'kochaj tego, z kim jestes', ale powinno ono brzmiec..."
     },
     {
      "position": "middle",
-     "signpost": "Let me show you this moment from our photo album..."
+     "signpost": "Pozwolcie, ze pokaze wam ten moment z naszego albumu rodzinnego..."
     },
     {
      "position": "end",
-     "signpost": "This frees up my time for my true passion..."
+     "signpost": "To uwalnia moj czas na moja prawdziwa pasje..."
     }
    ],
-   "title": "Why I'm Breaking Up With <BLANK>",
+   "title": "Dlaczego zrywam z <BLANK>",
    "x": false
   },
   {
@@ -2203,7 +2203,7 @@
     "Netflix"
    ],
    "signposts": [],
-   "title": "Here's What I Will Do To You If You Steal My <BLANK>",
+   "title": "Oto, co zrobie, jesli ukradniesz moje <BLANK>",
    "x": false
   },
   {
@@ -2214,7 +2214,7 @@
     "My New Novel"
    ],
    "signposts": [],
-   "title": "A Thrilling Journey Through The World Of <BLANK>",
+   "title": "Ekscytujaca podroz przez swiat <BLANK>",
    "x": false
   },
   {
@@ -2225,7 +2225,7 @@
     "Soda Streams"
    ],
    "signposts": [],
-   "title": "All Of The Reasons I Find <BLANK> Terrifying",
+   "title": "Wszystkie powody, dla ktorych <BLANK> mnie przeraza",
    "x": false
   },
   {
@@ -2238,42 +2238,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Here's a metaphor that perfectly describes love..."
+     "signpost": "Oto metafora, ktora doskonale opisuje milosc..."
     },
     {
      "position": "middle",
-     "signpost": "Even though my heart is filled with love, I'm still annoyed by this..."
+     "signpost": "Mimo ze moje serce jest pelne milosci, nadal irytuje mnie to..."
     },
     {
      "position": "middle",
-     "signpost": "How do I define love?"
+     "signpost": "Jak definiuje milosc?"
     },
     {
      "position": "end",
-     "signpost": "I can't wait to spend the rest of my days doing our favorite thing..."
+     "signpost": "Nie moge sie doczekac, by spedzic reszte swoich dni, robiac nasza ulubiona rzecz..."
     },
     {
      "position": "end",
-     "signpost": "How does it feel when we're together?"
+     "signpost": "Jak sie czujemy, gdy jestesmy razem?"
     },
     {
      "position": "end",
-     "signpost": "Find someone who treats you like this..."
+     "signpost": "Znajdz kogos, kto traktuje cie w ten sposob..."
     },
     {
      "position": "middle",
-     "signpost": "If you love something, this is what you do..."
+     "signpost": "Jesli kochasz cos, to powinienes..."
     },
     {
      "position": "end",
-     "signpost": "If your life is loveless, here's what you can do to fix it..."
+     "signpost": "Jesli twoje zycie jest bez milosci, oto co mozesz zrobic, by to naprawic..."
     },
     {
      "position": "end",
-     "signpost": "There's something else I love too..."
+     "signpost": "Jest jeszcze cos, co kocham..."
     }
    ],
-   "title": "I Didn't Know True Love Until I Met <BLANK>",
+   "title": "Nie znalem prawdziwej milosci, dopoki nie spotkalem <BLANK>",
    "x": true
   },
   {
@@ -2286,30 +2286,30 @@
    "signposts": [
     {
      "position": "end",
-     "signpost": "Before I go, your mother wanted me to tell you one last thing..."
+     "signpost": "Zanim odejde, twoja matka chciala, zebym ci przekazal jedna ostatnia rzecz..."
     },
     {
      "position": "middle",
-     "signpost": "I was just like you once..."
+     "signpost": "Kiedys bylem taki jak ty..."
     },
     {
      "position": "end",
-     "signpost": "I feel awkward bringing it up, but your mother won't stop talking about..."
+     "signpost": "Czuje sie niezrecznie poruszajac ten temat, ale twoja matka nie przestaje mowic o..."
     },
     {
      "position": "middle",
-     "signpost": "You are going down a bad path, a path to this..."
+     "signpost": "Idziesz zla droga, droga prowadzaca do tego..."
     },
     {
      "position": "end",
-     "signpost": "Why am I here really? Your mom and I are connected by this..."
+     "signpost": "Dlaczego tu naprawde jestem? Twoja mama i ja jestesmy zwiazani przez to..."
     },
     {
      "position": "middle",
-     "signpost": "This might be confusing for you. Let me simplify it with a little story..."
+     "signpost": "To moze byc dla ciebie mylace. Pozwol, ze uproszcze to krotka historia..."
     }
    ],
-   "title": "Kids, Your Mother Brought Me Here To Talk To You About <BLANK>",
+   "title": "Dzieci, wasza matka sprowadzila mnie tu, by porozmawiac z wami o <BLANK>",
    "x": true
   },
   {
@@ -2320,7 +2320,7 @@
     "A Nintendo Switch"
    ],
    "signposts": [],
-   "title": "I Used To Be A Shell Of A Person. I Still Am, But Now I Have <BLANK>",
+   "title": "Kiedys bylem wrakiem czlowieka. Nadal nim jestem, ale teraz mam <BLANK>",
    "x": false
   },
   {
@@ -2331,7 +2331,7 @@
     "dog parent"
    ],
    "signposts": [],
-   "title": "Hey Pal, Be The <BLANK> You Want To See In The World",
+   "title": "Hej kolego, badz <BLANK>, ktorego chcesz widziec na swiecie",
    "x": false
   },
   {
@@ -2342,7 +2342,7 @@
     "the podcast about you"
    ],
    "signposts": [],
-   "title": "Why It's Not You, It's <BLANK>",
+   "title": "To nie ty, to <BLANK>",
    "x": false
   },
   {
@@ -2353,7 +2353,7 @@
     "about my essential oils"
    ],
    "signposts": [],
-   "title": "I Am A Ghost, And My Unfinished Business Is That I Need To Tell You <BLANK>",
+   "title": "Jestem duchem, a moja niedokonczona sprawa to powiedzenie ci o <BLANK>",
    "x": false
   },
   {
@@ -2366,30 +2366,30 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "You won't be chuckling when I show you this..."
+     "signpost": "Nie bedziecie sie smiac, gdy pokaze wam to..."
     },
     {
      "position": "end",
-     "signpost": "I will now share with you something that is actually quite humorous..."
+     "signpost": "Teraz podziele sie z wami czyms, co jest naprawde zabawne..."
     },
     {
      "position": "end",
-     "signpost": "Also, stop crying. And stop..."
+     "signpost": "A takze, przestancie plakac. I przestancie..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what you should be laughing at instead..."
+     "signpost": "Oto, z czego naprawde powinniscie sie smiac..."
     },
     {
      "position": "middle",
-     "signpost": "I'm going to tell you something about people who find this kind of thing funny..."
+     "signpost": "Zamierzam powiedziec wam cos o ludziach, ktorzy uwazaja ten rodzaj rzeczy za zabawny..."
     },
     {
      "position": "end",
-     "signpost": "Hold on, I've changed my mind. It is funny and here's why..."
+     "signpost": "Czekajcie, zmienilem zdanie. To jest zabawne i oto dlaczego..."
     }
    ],
-   "title": "<BLANK> Isn't a Joke, So Stop Laughing",
+   "title": "<BLANK> to nie zart, wiec przestan sie smiac",
    "x": false
   },
   {
@@ -2400,7 +2400,7 @@
     "wolves"
    ],
    "signposts": [],
-   "title": "There's No Such Thing as Bad <BLANK>",
+   "title": "Nie ma czegos takiego jak zle <BLANK>",
    "x": false
   },
   {
@@ -2413,46 +2413,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "What makes a teen like me so cool?"
+     "signpost": "Co sprawia, ze taki nastolatek jak ja jest tak fajny?"
     },
     {
      "position": "end",
-     "signpost": "What can old people like you learn from this?"
+     "signpost": "Czego starzy ludzie jak ty moga sie nauczyc z tego?"
     },
     {
      "position": "end",
-     "signpost": "Be sure to tell a Cool Teen in your life the following..."
+     "signpost": "Pamietajcie, by powiedziec fajnemu nastolatkowi w swoim zyciu to..."
     },
     {
      "position": "middle",
-     "signpost": "I'm taking a break from skateboarding to tell you this..."
+     "signpost": "Robie sobie przerwe od jazdy na deskorolce, by wam to powiedziec..."
     },
     {
      "position": "middle",
-     "signpost": "Here are some teen slang words you old squares don't know about..."
+     "signpost": "Oto kilka slangowych slow, ktorych nie znacie, bo jestescie starzy..."
     },
     {
      "position": "middle",
-     "signpost": "This next thing is so totally uncool..."
+     "signpost": "Ta kolejna rzecz jest totalnie niefajna..."
     },
     {
      "position": "middle",
-     "signpost": "Everyone at school is texting this next photo to everyone..."
+     "signpost": "Wszyscy w szkole wysylaja ten nastepny obrazek kazdemu..."
     },
     {
      "position": "end",
-     "signpost": "If you tell anyone what I've told you here today, I'll just say..."
+     "signpost": "Jesli komus powiecie, co wam dzis powiedzialem, powiem tylko..."
     },
     {
      "position": "end",
-     "signpost": "You only wish you could be like this..."
+     "signpost": "Chcialbys byc taki jak ja..."
     },
     {
      "position": "end",
-     "signpost": "Later losers, I have to go do this awesome thing..."
+     "signpost": "Do zobaczenia, przegrywy, ide robic cos epickiego..."
     }
    ],
-   "title": "Why Are All the Cool Teens Talking About <BLANK>? I Am A Cool Teen So I'll Tell You.",
+   "title": "Dlaczego wszyscy fajni nastolatkowie mowia o <BLANK>? Jestem fajnym nastolatkiem, wiec ci powiem.",
    "x": true
   },
   {
@@ -2463,7 +2463,7 @@
     "Where's Waldo"
    ],
    "signposts": [],
-   "title": "<BLANK> is a Mystery Worth Solving",
+   "title": "<BLANK> to zagadka warta rozwiazania",
    "x": false
   },
   {
@@ -2474,7 +2474,7 @@
     "Candy"
    ],
    "signposts": [],
-   "title": "Why I Deserve All the <BLANK>",
+   "title": "Dlaczego zasluguje na cale <BLANK>",
    "x": false
   },
   {
@@ -2485,7 +2485,7 @@
     "be giving away my millions of dollars"
    ],
    "signposts": [],
-   "title": "I Am Sorry To Announce That I Will No Longer <BLANK>",
+   "title": "Przykro mi oglosic, ze juz nigdy nie bede <BLANK>",
    "x": false
   },
   {
@@ -2496,7 +2496,7 @@
     "assassins"
    ],
    "signposts": [],
-   "title": "Where Have All The <BLANK> Gone? The Answer May Surprise You",
+   "title": "Gdzie sie podzialo cale <BLANK>? Odpowiedz moze cie zaskoczyc",
    "x": false
   },
   {
@@ -2507,7 +2507,7 @@
     "eat tomatoes"
    ],
    "signposts": [],
-   "title": "If You Wanna Be My Lover, You Need To <BLANK>",
+   "title": "Jesli chcesz byc moim kochankiem, musisz <BLANK>",
    "x": true
   },
   {
@@ -2518,7 +2518,7 @@
     "oatmeal"
    ],
    "signposts": [],
-   "title": "How <BLANK> Made Me The Person I Am Today",
+   "title": "Jak <BLANK> uksztaltowalo mnie jako czlowieka",
    "x": false
   },
   {
@@ -2532,38 +2532,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Why haven't I revealed this sooner?"
+     "signpost": "Dlaczego nie ujawnilem tego wczesniej?"
     },
     {
      "position": "end",
-     "signpost": "I only pray I can still stop my greatest nemesis..."
+     "signpost": "Modle sie, bym mogl jeszcze powstrzymac mojego najwiekszego wroga..."
     },
     {
      "position": "middle",
-     "signpost": "You're NOT surprised? Well then, this may give you a shock..."
+     "signpost": "Nie jestes zaskoczony? Coz, to moze cie zaszokowac..."
     },
     {
      "position": "end",
-     "signpost": "Deep down, I'm still me because of this..."
+     "signpost": "W glebi duszy nadal jestem soba z tego powodu..."
     },
     {
      "position": "middle",
-     "signpost": "Here's the reason I've hidden this identity..."
+     "signpost": "Oto powod, dla ktorego ukrywalem te tozsamosc..."
     },
     {
      "position": "middle",
-     "signpost": "Honestly, the first clue to my identity should have been this..."
+     "signpost": "Szczerze mowiac, pierwsza wskazowka do mojej tozsamosci powinno byc to..."
     },
     {
      "position": "end",
-     "signpost": "Surprise! I have another even more secret identity..."
+     "signpost": "Niespodzianka! Mam jeszcze jedna, jeszcze bardziej tajna tozsamosc..."
     },
     {
      "position": "end",
-     "signpost": "I also have a secret voice which I will now use as I finish this speech..."
+     "signpost": "Mam tez sekretny glos, ktorego teraz uzyje, konczac to przemowienie..."
     }
    ],
-   "title": "It Is Time To Reveal My Secret Identity... I Am <BLANK>",
+   "title": "Nadszedl czas, aby ujawnic moja sekretna tozsamosc... Jestem <BLANK>",
    "x": false
   },
   {
@@ -2574,7 +2574,7 @@
     "mostly mushrooms"
    ],
    "signposts": [],
-   "title": "I Have Found The Key To Eternal Youth, And It Is <BLANK>",
+   "title": "Znalazlem klucz do wiecznej mlodosci, a jest nim <BLANK>",
    "x": false
   },
   {
@@ -2585,7 +2585,7 @@
     "sandwiches"
    ],
    "signposts": [],
-   "title": "The Forbidden Pleasures Of Incorporating <BLANK> In The Bedroom",
+   "title": "Zakazane przyjemnosci wlaczania <BLANK> do sypialni",
    "x": true
   },
   {
@@ -2598,54 +2598,54 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This next point might make you say, \"Yeehaw\" in agreement..."
+     "signpost": "To, co powiem teraz, moze sprawic, ze powiesz: 'Yeehaw' z aprobata..."
     },
     {
      "position": "end",
-     "signpost": "One more point before I skeedaddle down that lonesome trail..."
+     "signpost": "Jeszcze jedna rzecz, zanim odjade w strone zachodzacego slonca..."
     },
     {
      "position": "middle",
-     "signpost": "Life out on the range leads to coming across a lot of, well, let me show y'all..."
+     "signpost": "zycie na Dzikim Zachodzie prowadzi do napotkania wielu rzeczy, takich jak..."
     },
     {
      "position": "middle",
-     "signpost": "Now, the last thing you want to see out on the trail is..."
+     "signpost": "Teraz, ostatnia rzecz, ktora chcesz zobaczyc na szlaku, to..."
     },
     {
      "position": "end",
-     "signpost": "Three things a cowboy needs. 1. Hat. 2. Boots. 3..."
+     "signpost": "Trzy rzeczy, ktorych potrzebuje kowboj: 1. Kapelusz. 2. Buty. 3..."
     },
     {
      "position": "end",
-     "signpost": "Until next time stranger, I hope your life is filled with this..."
+     "signpost": "Do nastepnego razu, nieznajomy, mam nadzieje, ze twoje zycie bedzie pelne tego..."
     },
     {
      "position": "middle",
-     "signpost": "I was riding on my trusty horse when I witnessed this here cause for consternation..."
+     "signpost": "Jechalem na moim wiernym koniu, gdy zobaczylem to budzace groze zjawisko..."
     },
     {
      "position": "middle",
-     "signpost": "See this badge on my chest? I'm not the sheriff, but I am in charge of this..."
+     "signpost": "Widzisz te odznake na mojej piersi? Nie jestem szeryfem, ale rzadze tym..."
     },
     {
      "position": "middle",
-     "signpost": "Here's something you'll only see out west..."
+     "signpost": "Oto cos, co zobaczysz tylko na Dzikim Zachodzie..."
     },
     {
      "position": "end",
-     "signpost": "The frontier is full of this, if you know where to look..."
+     "signpost": "Frontier jest pelen tego, jesli wiesz, gdzie szukac..."
     },
     {
      "position": "end",
-     "signpost": "Happy trails, friends, and remember this little nugget of wisdom..."
+     "signpost": "Szczęśliwych szlaków, przyjaciele, i zapamiętajcie tę małą mądrość..."
     },
     {
      "position": "middle",
-     "signpost": "I have to warn you, there's one thing that will make me challenge you to a gunfight at high noon..."
+     "signpost": "Muszę was ostrzec, jest jedna rzecz, która sprawi, że wyzwę was na pojedynek rewolwerowy w samo południe..."
     }
    ],
-   "title": "Howdy. I'm Just A Cowboy Who's Come Here To Tell You <BLANK>",
+   "title": "Czesc. Jestem kowbojem, ktory przyszedl tu, zeby powiedziec ci o <BLANK>",
    "x": false
   },
   {
@@ -2656,7 +2656,7 @@
     "King of Culver's"
    ],
    "signposts": [],
-   "title": "Blood, Sweat, and Tears: My Life As A <BLANK>",
+   "title": "Krew, pot i lzy: Moje zycie jako <BLANK>",
    "x": false
   },
   {
@@ -2667,7 +2667,7 @@
     "competitive roof gardening"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Should Be Our New National Pastime",
+   "title": "Dlaczego <BLANK> powinno byc nowa narodowa rozrywka",
    "x": false
   },
   {
@@ -2678,7 +2678,7 @@
     "untied shoes"
    ],
    "signposts": [],
-   "title": "Honestly, The Only Thing That Can Make Me Cry Is <BLANK>",
+   "title": "Szczerze mowiac, jedyna rzecz, ktora moze mnie doprowadzic do lez, to <BLANK>",
    "x": false
   },
   {
@@ -2689,7 +2689,7 @@
     "this bad website"
    ],
    "signposts": [],
-   "title": "How <BLANK> Is Changing The Way We See The World",
+   "title": "Jak <BLANK> zmienia sposob, w jaki postrzegamy swiat",
    "x": false
   },
   {
@@ -2700,7 +2700,7 @@
     "Club Penguin password"
    ],
    "signposts": [],
-   "title": "I've Had Enough! Please Stop Asking Me About My <BLANK>!",
+   "title": "Mam dosc! Przestancie mnie pytac o moje <BLANK>!",
    "x": false
   },
   {
@@ -2711,7 +2711,7 @@
     "Tuba Players"
    ],
    "signposts": [],
-   "title": "My Years Living Undercover With <BLANK>",
+   "title": "Moje lata zycia pod przykrywka z <BLANK>",
    "x": false
   },
   {
@@ -2722,7 +2722,7 @@
     "Opera"
    ],
    "signposts": [],
-   "title": "Scientists Used To Laugh At Me, But Now They Need My Knowledge Of <BLANK>",
+   "title": "Naukowcy kiedys sie ze mnie smiali, ale teraz potrzebuja mojej wiedzy o <BLANK>",
    "x": false
   },
   {
@@ -2733,7 +2733,7 @@
     "Terrible Parent"
    ],
    "signposts": [],
-   "title": "After 25 Years As A <BLANK>, I Learned Some Important Stuff",
+   "title": "Po 25 latach jako <BLANK>, nauczylem sie kilku waznych rzeczy",
    "x": false
   },
   {
@@ -2744,7 +2744,7 @@
     "Find My House"
    ],
    "signposts": [],
-   "title": "I Used The Internet To <BLANK> And So Can You",
+   "title": "Uzylem internetu, zeby <BLANK>, i ty tez mozesz",
    "x": false
   },
   {
@@ -2755,7 +2755,7 @@
     "Hiding Under Your Bed"
    ],
    "signposts": [],
-   "title": "Transform Your Whole Life In One Hour By <BLANK>",
+   "title": "Odmien swoje zycie w godzine dzieki <BLANK>",
    "x": false
   },
   {
@@ -2766,7 +2766,7 @@
     "Nice"
    ],
    "signposts": [],
-   "title": "Life's Too Short to Spend It Being <BLANK>",
+   "title": "Zycie jest za krotkie, zeby byc <BLANK>",
    "x": false
   },
   {
@@ -2777,7 +2777,7 @@
     "child CEO"
    ],
    "signposts": [],
-   "title": "Every Company Needs A <BLANK>",
+   "title": "Kazda firma potrzebuje <BLANK>",
    "x": false
   },
   {
@@ -2788,7 +2788,7 @@
     "Pissed"
    ],
    "signposts": [],
-   "title": "I Saw God And Am Here To Report That God Is <BLANK>",
+   "title": "Widzialem Boga i musze wam powiedziec, ze Bog to <BLANK>",
    "x": true
   },
   {
@@ -2801,38 +2801,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Why is it so frightening?"
+     "signpost": "Dlaczego to jest takie przerazajace?"
     },
     {
      "position": "end",
-     "signpost": "Here are some ways to face our fears..."
+     "signpost": "Oto kilka sposobow na stawienie czola naszym lekom..."
     },
     {
      "position": "middle",
-     "signpost": "Aaaah! Sorry, I was just thinking about this..."
+     "signpost": "Aaaa! Przepraszam, właśnie pomyślałem o tym..."
     },
     {
      "position": "middle",
-     "signpost": "Where did this terror come from?"
+     "signpost": "Oto, dlaczego to jest jeszcze gorsze, niz myslisz..."
     },
     {
      "position": "middle",
-     "signpost": "Here's why it's even worse than you think..."
+     "signpost": "Kiedy uwolnimy sie od tego strachu, zobaczymy nowa, jasniejsza przyszlosc pelna..."
     },
     {
      "position": "end",
-     "signpost": "Once we are free of this fear, we can see a new, brighter future full of..."
+     "signpost": "Ale jest tez dobra wiadomosc, mamy cos, z czego mozemy sie cieszyc..."
     },
     {
      "position": "end",
-     "signpost": "But the good news is, we also have one thing to be happy about..."
+     "signpost": "Najlepszym sposobem na bycie odwaznym jest..."
     },
     {
      "position": "end",
-     "signpost": "The best way to be brave is..."
+     "signpost": "Najlepszym sposobem na bycie odwaznym jest..."
     }
    ],
-   "title": "We Have Only One Thing to Fear: <BLANK>",
+   "title": "Mamy tylko jedna rzecz do obawiania sie: <BLANK>",
    "x": false
   },
   {
@@ -2843,7 +2843,7 @@
     "Access To Gum"
    ],
    "signposts": [],
-   "title": "I Maximized My Life By Maximizing My <BLANK>",
+   "title": "Zmaksymalizowalem swoje zycie, maksymalizujac moje <BLANK>",
    "x": false
   },
   {
@@ -2854,7 +2854,7 @@
     "my imaginary dragon"
    ],
    "signposts": [],
-   "title": "Don't Listen To Reason! <BLANK> Is The Ideal Pet",
+   "title": "Nie sluchaj rozsadku! <BLANK> to idealne zwierze domowe",
    "x": false
   },
   {
@@ -2865,7 +2865,7 @@
     "who farted"
    ],
    "signposts": [],
-   "title": "An Intimate Discussion About <BLANK>",
+   "title": "Intymna dyskusja o <BLANK>",
    "x": false
   },
   {
@@ -2876,7 +2876,7 @@
     "haunted artifacts"
    ],
    "signposts": [],
-   "title": "Why I Intend To Keep My <BLANK> No Matter What You Say, Mom",
+   "title": "Dlaczego zamierzam zachowac moje <BLANK>, bez wzgledu na to, co mowisz, mamo",
    "x": false
   },
   {
@@ -2887,7 +2887,7 @@
     "a wet sandwich"
    ],
    "signposts": [],
-   "title": "Accepting The Terrifying Reality of <BLANK>",
+   "title": "Akceptowanie przerazajacej rzeczywistosci <BLANK>",
    "x": false
   },
   {
@@ -2898,7 +2898,7 @@
     "wood"
    ],
    "signposts": [],
-   "title": "How To Transition to a <BLANK>-Based Diet",
+   "title": "Jak przejsc na diete oparta na <BLANK>",
    "x": false
   },
   {
@@ -2909,7 +2909,7 @@
     "the state of my room"
    ],
    "signposts": [],
-   "title": "The Only Explanation For <BLANK> Is Aliens",
+   "title": "Jedynym wyjasnieniem dla <BLANK> sa kosmici",
    "x": false
   },
   {
@@ -2920,7 +2920,7 @@
     "going back to sleep"
    ],
    "signposts": [],
-   "title": "How <BLANK> Helped Me Get Over A Broken Heart",
+   "title": "Jak <BLANK> pomoglo mi przezwyciezyc zlamane serce",
    "x": false
   },
   {
@@ -2931,7 +2931,7 @@
     "secret bagel bites"
    ],
    "signposts": [],
-   "title": "<BLANK>: The Key To A Better Mind, Body, and Soul",
+   "title": "<BLANK>: Klucz do lepszego umyslu, ciala i duszy",
    "x": false
   },
   {
@@ -2942,7 +2942,7 @@
     "elevators"
    ],
    "signposts": [],
-   "title": "<BLANK>: Fact or Fiction?",
+   "title": "<BLANK>: Fakt czy fikcja?",
    "x": false
   },
   {
@@ -2953,7 +2953,7 @@
     "Tickles"
    ],
    "signposts": [],
-   "title": "Everyone Panic! We Are Almost Out Of <BLANK>!!!",
+   "title": "Wszyscy panikujcie! Prawie skonczylo nam sie <BLANK>!!!",
    "x": false
   },
   {
@@ -2964,7 +2964,7 @@
     "how to load a dishwasher"
    ],
    "signposts": [],
-   "title": "Why We Should Be Teaching <BLANK> In Schools",
+   "title": "Dlaczego powinnismy uczyc o <BLANK> w szkolach",
    "x": false
   },
   {
@@ -2975,7 +2975,7 @@
     "some other planet"
    ],
    "signposts": [],
-   "title": "Seriously! Let's All Move To <BLANK>",
+   "title": "Serio! Przeniesmy sie wszyscy do <BLANK>",
    "x": false
   },
   {
@@ -2986,7 +2986,7 @@
     "Joker"
    ],
    "signposts": [],
-   "title": "So, You've Decided To Be A <BLANK>? Here's Everything You Need To Know!",
+   "title": "Wiec zdecydowales sie zostac <BLANK>? Oto wszystko, co musisz wiedziec!",
    "x": false
   },
   {
@@ -2997,7 +2997,7 @@
     "coach a championship basketball team"
    ],
    "signposts": [],
-   "title": "The Only Way To Be Truly Happy Is To <BLANK>",
+   "title": "Jedyny sposob, by byc naprawde szczesliwym, to <BLANK>",
    "x": false
   },
   {
@@ -3008,7 +3008,7 @@
     "a scarecrow"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Is The Perfect Romantic Partner",
+   "title": "Dlaczego <BLANK> to idealny partner romantyczny",
    "x": true
   },
   {
@@ -3019,7 +3019,7 @@
     "A Computer That Smells Bad"
    ],
    "signposts": [],
-   "title": "I Don't Care What Anyone Says, The World Needs <BLANK>!",
+   "title": "Nie obchodzi mnie, co mowia inni, swiat potrzebuje <BLANK>!",
    "x": false
   },
   {
@@ -3030,7 +3030,7 @@
     "a $25 gift card"
    ],
    "signposts": [],
-   "title": "How <BLANK> Is The Ultimate Dining Experience",
+   "title": "Jak <BLANK> jest najwyzszym doswiadczeniem kulinarnym",
    "x": false
   },
   {
@@ -3041,7 +3041,7 @@
     "Eating Bugs"
    ],
    "signposts": [],
-   "title": "Don't Make My Mistake: I Ruined My Life By <BLANK>",
+   "title": "Nie popelniaj mojego bledu: Zrujnowalem swoje zycie przez <BLANK>",
    "x": false
   },
   {
@@ -3052,7 +3052,7 @@
     "Worms"
    ],
    "signposts": [],
-   "title": "How Finally Getting <BLANK> Could Fix Everything In My Life",
+   "title": "Jak w koncu zdobycie <BLANK> mogloby naprawic wszystko w moim zyciu",
    "x": false
   },
   {
@@ -3063,7 +3063,7 @@
     "A Drum Circle"
    ],
    "signposts": [],
-   "title": "It's Time To Tear Everything Down And Replace All Of It With <BLANK>",
+   "title": "Czas zburzyc wszystko i zastapic to <BLANK>",
    "x": false
   },
   {
@@ -3074,7 +3074,7 @@
     "A Clever Mouse"
    ],
    "signposts": [],
-   "title": "I Am The Chosen One: A Prophecy Foretold That I Am <BLANK>",
+   "title": "Jestem wybrancem: Przepowiednia mowi, ze jestem <BLANK>",
    "x": false
   },
   {
@@ -3088,42 +3088,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Imagine this key scene..."
+     "signpost": "Wyobraź sobie tę kluczową scenę..."
     },
     {
      "position": "end",
-     "signpost": "Which leads to the thrilling climax!"
+     "signpost": "Co prowadzi do ekscytujacego finalu!"
     },
     {
      "position": "end",
-     "signpost": "If you invest in my movie today, here's what I'll give you..."
+     "signpost": "Jesli zainwestujesz w moj film dzis, oto co dostaniesz..."
     },
     {
      "position": "middle",
-     "signpost": "They said this next part would cost way too much money..."
+     "signpost": "Mowili, ze ta nastepna scena bylaby zbyt droga, ale..."
     },
     {
      "position": "middle",
-     "signpost": "Check out this storyboard I put together..."
+     "signpost": "Spojrzcie na ten storyboard, ktory przygotowalem..."
     },
     {
      "position": "middle",
-     "signpost": "This next plot point is admittedly cliche, but it just works..."
+     "signpost": "Ten kolejny zwrot akcji jest dosc oklepany, ale po prostu dziala..."
     },
     {
      "position": "end",
-     "signpost": "If you liked that pitch, you'll love my other screenplay about..."
+     "signpost": "Jesli podobala ci sie ta prezentacja, pokochasz moj inny scenariusz o..."
     },
     {
      "position": "end",
-     "signpost": "The movie is just the beginning. Here's my idea for a spinoff TV series..."
+     "signpost": "Film to tylko poczatek. Oto moj pomysl na spin-off serialu..."
     },
     {
      "position": "end",
-     "signpost": "I also have an idea for a prequel movie..."
+     "signpost": "Mam takze pomysl na prequel filmu...""
     }
    ],
-   "title": "Hollywood is Too Scared to Make My Movie About <BLANK>",
+   "title": "Hollywood boi sie nakrecic moj film o <BLANK>",
    "x": false
   },
   {
@@ -3136,50 +3136,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "What does this shark eat?"
+     "signpost": "Co je ten rekin?"
     },
     {
      "position": "end",
-     "signpost": "What is your emotional life raft?"
+     "signpost": "Jaka jest twoja emocjonalna tratwa ratunkowa?"
     },
     {
      "position": "middle",
-     "signpost": "Imagine this attacking you underwater..."
+     "signpost": "Wyobraz sobie, ze to cie atakuje pod woda..."
     },
     {
      "position": "end",
-     "signpost": "Uh oh! We're going to need a bigger..."
+     "signpost": "O nie! Bedziemy potrzebowac wiekszego..."
     },
     {
      "position": "middle",
-     "signpost": "But who are the clownfish? The answer may surprise you..."
+     "signpost": "Ale kim sa clownfish? Odpowiedz moze cie zaskoczyc..."
     },
     {
      "position": "middle",
-     "signpost": "This is your snorkel..."
+     "signpost": "To jest twoja rurka do nurkowania..."
     },
     {
      "position": "middle",
-     "signpost": "This shark doesn't eat you. It does something even worse..."
+     "signpost": "Ten rekin cie nie zje. Zrobi cos jeszcze gorszego..."
     },
     {
      "position": "end",
-     "signpost": "I've run out of things for this metaphor, so this next slide is from my last summer vacation..."
+     "signpost": "Skonczyly mi sie metafory, wiec to kolejne zdjecie pochodzi z moich wakacji..."
     },
     {
      "position": "end",
-     "signpost": "And who am I in this metaphor? I'm this beautiful creature..."
+     "signpost": "A kim jestem w tej metaforze? Jestem tym pieknym stworzeniem..."
     },
     {
      "position": "end",
-     "signpost": "If you want to swim across the ocean of life, here's what you must do..."
+     "signpost": "Jesli chcesz przeplynac ocean zycia, musisz zrobic to..."
     },
     {
      "position": "middle",
-     "signpost": "You can't outswim the shark, but you can..."
+     "signpost": "Nie uciekniesz przed rekinem, ale mozesz..."
     }
    ],
-   "title": "Life is the Ocean and <BLANK> is the Shark",
+   "title": "Zycie to ocean, a <BLANK> to rekin",
    "x": false
   },
   {
@@ -3190,7 +3190,7 @@
     "Dial-Up Internet"
    ],
    "signposts": [],
-   "title": "Instead Of Giving In To Despair, Give In To <BLANK>!",
+   "title": "Zamiast poddac sie rozpaczy, poddaj sie <BLANK>!",
    "x": false
   },
   {
@@ -3201,7 +3201,7 @@
     "A Free Lifetime Supply Of Olives"
    ],
    "signposts": [],
-   "title": "<BLANK> Seemed Like A Dream Come True, But It Became A Nightmare",
+   "title": "<BLANK> wydawalo sie spelnieniem marzen, ale stalo sie koszmarem",
    "x": false
   },
   {
@@ -3212,7 +3212,7 @@
     "Play Sports"
    ],
    "signposts": [],
-   "title": "Not To Brag, But I'm The Only One In The World Who Can <BLANK>",
+   "title": "Nie chwalac sie, ale jestem jedyna osoba na swiecie, ktora potrafi <BLANK>",
    "x": false
   },
   {
@@ -3223,7 +3223,7 @@
     "Join My Barbershop Quartet"
    ],
    "signposts": [],
-   "title": "Hey Wise Guy, You Think You're Too Good To <BLANK>?",
+   "title": "Hej cwaniaku, myslisz, ze jestes za dobry na <BLANK>?",
    "x": false
   },
   {
@@ -3234,7 +3234,7 @@
     "Tom Hanks Movies"
    ],
    "signposts": [],
-   "title": "Warning: Don't Fall Victim to <BLANK>",
+   "title": "Ostrzezenie: Nie daj sie zlapac na <BLANK>",
    "x": false
   },
   {
@@ -3245,7 +3245,7 @@
     "My Toilet Gnome"
    ],
    "signposts": [],
-   "title": "Gather 'Round And Hear My Tale Of Woe About <BLANK>",
+   "title": "Zbierzcie sie wokol i posluchajcie mojej smutnej opowiesci o <BLANK>",
    "x": false
   },
   {
@@ -3256,7 +3256,7 @@
     "Dolphins"
    ],
    "signposts": [],
-   "title": "Oh No, Every Aspect Of Your Life Is Controlled By <BLANK>",
+   "title": "O nie, kazdy aspekt twojego zycia jest kontrolowany przez <BLANK>",
    "x": false
   },
   {
@@ -3267,7 +3267,7 @@
     "Got My Hands Stuck In Mouse Traps"
    ],
    "signposts": [],
-   "title": "Nobody Used To Pay Attention To Me, But I <BLANK> And Now I'm The Belle Of The Ball",
+   "title": "Nikt nie zwracal na mnie uwagi, ale potem <BLANK> i teraz jestem gwiazda",
    "x": false
   },
   {
@@ -3280,42 +3280,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "That creeping feeling you get could be because of this..."
+     "signpost": "To dziwne uczucie, które masz, może być spowodowane tym..."
     },
     {
      "position": "end",
-     "signpost": "How can we slay this beast?"
+     "signpost": "Jak mozemy pokonac te bestie?"
     },
     {
      "position": "middle",
-     "signpost": "Even fire can't destroy this..."
+     "signpost": "Nawet ogien nie moze tego zniszczyc..."
     },
     {
      "position": "middle",
-     "signpost": "This next point will give you the creepiest of crawlies..."
+     "signpost": "Ta kolejna rzecz wywola u ciebie ciarki..."
     },
     {
      "position": "middle",
-     "signpost": "It looks beautiful, but here is the real threat..."
+     "signpost": "To wyglada pieknie, ale oto prawdziwe zagrozenie..."
     },
     {
      "position": "end",
-     "signpost": "We owe a huge apology to the thing we used to think was the monster..."
+     "signpost": "Jestesmy winni ogromne przeprosiny temu, co kiedys uwazalismy za potwora..."
     },
     {
      "position": "end",
-     "signpost": "Our best protection is probably this..."
+     "signpost": "Nasza najlepsza ochrona przed tym jest..."
     },
     {
      "position": "end",
-     "signpost": "I am calling on the one true slayer who can save us from this monstrosity..."
+     "signpost": "Wzywam jedynego prawdziwego pogromce, ktory moze nas uratowac przed ta bestia..."
     },
     {
      "position": "end",
-     "signpost": "Today we learned an important lesson about judging a book by its cover..."
+     "signpost": "Dzis nauczylismy sie waznej lekcji o ocenianiu ksiazki po okladce..."
     }
    ],
-   "title": "It Turns Out, The Real Monster was <BLANK> All Along",
+   "title": "Okazuje sie, ze prawdziwym potworem bylo <BLANK> przez caly czas",
    "x": false
   },
   {
@@ -3326,7 +3326,7 @@
     "Oatmeal"
    ],
    "signposts": [],
-   "title": "It Seems Innocent, But <BLANK> Is Actually Incredibly Dangerous",
+   "title": "Wydaje sie niewinne, ale <BLANK> jest w rzeczywistosci niezwykle niebezpieczne",
    "x": false
   },
   {
@@ -3337,7 +3337,7 @@
     "Getting Attacked By Hundreds Of Pigeons"
    ],
    "signposts": [],
-   "title": "If You Want To Survive <BLANK>, You Must Do Exactly As I Say",
+   "title": "Jesli chcesz przetrwac <BLANK>, musisz zrobic dokladnie to, co mowie",
    "x": false
   },
   {
@@ -3348,7 +3348,7 @@
     "Plan To Make Elephants Extinct"
    ],
    "signposts": [],
-   "title": "Ignore My Critics, They're Totally Wrong About My <BLANK>",
+   "title": "Zignoruj moich krytykow, calkowicie sie myla w kwestii mojego <BLANK>",
    "x": false
   },
   {
@@ -3359,7 +3359,7 @@
     "That My Parents Are In A Nude Calendar"
    ],
    "signposts": [],
-   "title": "Sorry If I Seem Shaken Up. I Just Learned <BLANK>",
+   "title": "Przepraszam, jesli wydaje sie wstrzasniety. Wlasnie dowiedzialem sie o <BLANK>",
    "x": false
   },
   {
@@ -3370,7 +3370,7 @@
     "Elbows"
    ],
    "signposts": [],
-   "title": "Nothing Personal, But Here's A Harsh Truth About Your <BLANK>",
+   "title": "Nic osobistego, ale oto brutalna prawda o twoim <BLANK>",
    "x": false
   },
   {
@@ -3381,7 +3381,7 @@
     "My Little Pony"
    ],
    "signposts": [],
-   "title": "My Fan Fiction About <BLANK> Isn't Just Entertainment, It's Life-Changing",
+   "title": "Moja fanfikcja o <BLANK> to nie tylko rozrywka, to cos, co zmienia zycie",
    "x": false
   },
   {
@@ -3392,7 +3392,7 @@
     "Finland's economy"
    ],
    "signposts": [],
-   "title": "What's Up With <BLANK>? Oh Boy, I'll Tell You.",
+   "title": "Co sie dzieje z <BLANK>? O rany, juz ci mowie",
    "x": false
   },
   {
@@ -3403,7 +3403,7 @@
     "A Buca Di Beppo menu"
    ],
    "signposts": [],
-   "title": "<BLANK> Might Not Actually Be A Book, But Is The Only Book You'll Ever Need To Read",
+   "title": "<BLANK> moze nie jest ksiazka, ale to jedyna ksiazka, ktora musisz przeczytac",
    "x": false
   },
   {
@@ -3414,7 +3414,7 @@
     "Journalism"
    ],
    "signposts": [],
-   "title": "<BLANK>: The Ultimate Way to Disappoint Your Parents",
+   "title": "<BLANK>: Najlepszy sposob na rozczarowanie rodzicow",
    "x": true
   },
   {
@@ -3425,7 +3425,7 @@
     "my own hair"
    ],
    "signposts": [],
-   "title": "Shut Up, Everyone... I Will Only Wear <BLANK> From Now On",
+   "title": "Zamknijcie sie wszyscy... Od teraz bede nosic tylko <BLANK>",
    "x": false
   },
   {
@@ -3436,7 +3436,7 @@
     "Bumper Cars"
    ],
    "signposts": [],
-   "title": "There Is A War On <BLANK> And I'm The General",
+   "title": "To wojna z <BLANK>, a ja jestem generalem",
    "x": false
   },
   {
@@ -3447,7 +3447,7 @@
     "Slightly Taller"
    ],
    "signposts": [],
-   "title": "Better Than Him: Albert Einstein Was Smart But I'm <BLANK>",
+   "title": "Lepszy od niego: Albert Einstein byl madry, ale ja jestem <BLANK>",
    "x": false
   },
   {
@@ -3458,7 +3458,7 @@
     "Yelling"
    ],
    "signposts": [],
-   "title": "My Life Is Founded On One Simple Principle: <BLANK>",
+   "title": "Moje zycie opiera sie na jednej prostej zasadzie: <BLANK>",
    "x": false
   },
   {
@@ -3469,7 +3469,7 @@
     "A Diaper-Themed Amusement Park"
    ],
    "signposts": [],
-   "title": "As A Former Employee Of <BLANK>, Here's What They Don't Want Customers To Know",
+   "title": "Jako byly pracownik <BLANK>, oto co nie chca, zebyscie wiedzieli",
    "x": false
   },
   {
@@ -3480,7 +3480,7 @@
     "Log Into LinkedIn"
    ],
    "signposts": [],
-   "title": "Sorry, But The Next Time You <BLANK>, Your Face Will Fall Off",
+   "title": "Przykro mi, ale nastepnym razem, gdy <BLANK>, twoja twarz odpadnie",
    "x": false
   },
   {
@@ -3491,7 +3491,7 @@
     "Going To The Water Park"
    ],
    "signposts": [],
-   "title": "The Greatest Treasure In The World Isn't Wealth, It's <BLANK>, You Suckers",
+   "title": "Najwiekszy skarb na swiecie to nie bogactwo, to <BLANK>, frajerzy",
    "x": false
   },
   {
@@ -3502,7 +3502,7 @@
     "Elevators"
    ],
    "signposts": [],
-   "title": "A Game Of Cat And Mouse: My Ongoing Feud With <BLANK>",
+   "title": "Gra w kotka i myszke: Moja niekonczaca sie wojna z <BLANK>",
    "x": false
   },
   {
@@ -3513,7 +3513,7 @@
     "True Love"
    ],
    "signposts": [],
-   "title": "Scientists Can't Explain <BLANK>, But I Figured It Out On My Own",
+   "title": "Naukowcy nie potrafia wyjasnic <BLANK>, ale ja to rozszyfrowalem sam",
    "x": false
   },
   {
@@ -3524,7 +3524,7 @@
     "Give Me A Billion Dollars"
    ],
    "signposts": [],
-   "title": "Despite All Their Tech Wizardry, Silicon Valley Still Cannot <BLANK>",
+   "title": "Pomimo calej swojej technologii, Dolina Krzemowa wciaz nie potrafi <BLANK>",
    "x": false
   },
   {
@@ -3535,7 +3535,7 @@
     "A Jerk"
    ],
    "signposts": [],
-   "title": "Sure, I'm Pathetic, But What If I Told You I Was Also <BLANK>?",
+   "title": "Jasne, jestem zalosny, ale co, jesli powiedzialbym ci, ze jestem tez <BLANK>?",
    "x": false
   },
   {
@@ -3549,42 +3549,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Beware, for I command the wind, the waves and..."
+     "signpost": "Strzeż się, bo władam wiatrem, falami i..."
     },
     {
      "position": "middle",
-     "signpost": "The ocean depths contain sights beyond your human comprehension, such as..."
+     "signpost": "Glebie oceanu kryja widoki poza twoim ludzkim pojmowaniem, takie jak..."
     },
     {
      "position": "middle",
-     "signpost": "My enchanted trident shall do this..."
+     "signpost": "Moj zaczarowany trojzab uczyni to..."
     },
     {
      "position": "middle",
-     "signpost": "The undersea law of the ocean realm is clear on this..."
+     "signpost": "Podwodne prawo krolestwa oceanow jest w tej sprawie jasne..."
     },
     {
      "position": "end",
-     "signpost": "Can humanity and merfolk coexist?"
+     "signpost": "Czy ludzkosc i syreny moga wspolistniec?"
     },
     {
      "position": "end",
-     "signpost": "I shall now translate the song of the whales for you..."
+     "signpost": "Przetlumacze teraz dla ciebie piesn wielorybow..."
     },
     {
      "position": "end",
-     "signpost": "There is one final question I have about the surface world..."
+     "signpost": "Jest jeszcze jedno ostatnie pytanie, ktore mam o swiecie na powierzchni..."
     },
     {
      "position": "middle",
-     "signpost": "But what does a watery god like myself care about landfolk's problems? You have something I desire..."
+     "signpost": "Ale coz mnie, boga morz, obchodza problemy ladowych ludzi? Masz cos, czego pragne..."
     },
     {
      "position": "end",
-     "signpost": "I will leave you now with one last secret about the sea..."
+     "signpost": "Odejde teraz, pozostawiajac ci jeden ostatni sekret o morzu..."
     }
    ],
-   "title": "I Am Lord Of Atlantis And My Dire Message For You Surface Dwellers Is <BLANK>",
+   "title": "Jestem wladca Atlantydy i mam dla was, ludzie z powierzchni, wazne ostrzezenie: <BLANK>",
    "x": false
   },
   {
@@ -3598,58 +3598,58 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "My code of honor demands I tell you this..."
+     "signpost": "Moj kodeks honorowy nakazuje mi powiedziec ci to..."
     },
     {
      "position": "middle",
-     "signpost": "Despite what you've heard, I am not a monster. I'm actually..."
+     "signpost": "Wbrew temu, co slyszales, nie jestem potworem. W rzeczywistosci jestem..."
     },
     {
      "position": "middle",
-     "signpost": "Here's why I'm a valuable friend to have..."
+     "signpost": "Oto, dlaczego jestem wartosciowym przyjacielem..."
     },
     {
      "position": "middle",
-     "signpost": "Why should I grant this boon?"
+     "signpost": "Dlaczego mialbym spelnic te prosbe?"
     },
     {
      "position": "end",
-     "signpost": "You now owe me a debt, which is this..."
+     "signpost": "Jestes mi winien przysluge, ktora jest..."
     },
     {
      "position": "end",
-     "signpost": "I am glad we reached this following understanding..."
+     "signpost": "Ciesze sie, ze doszlismy do tego porozumienia..."
     },
     {
      "position": "end",
-     "signpost": "Good, good. Now kiss my ring and do this..."
+     "signpost": "Dobrze, dobrze. Teraz pocaluj moj pierscien i zrob to..."
     },
     {
      "position": "middle",
-     "signpost": "Have I told you the story of what happened to the last man who asked me this?"
+     "signpost": "Czy opowiadalem ci juz historie o tym, co stalo sie z ostatnim czlowiekiem, ktory mnie o to zapytal?"
     },
     {
      "position": "end",
-     "signpost": "Begone from here, and tell your friends and family this..."
+     "signpost": "Odejdz stad i powiedz swoim znajomym oraz rodzinie to..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what you don't understand about my business..."
+     "signpost": "Oto, czego nie rozumiesz o moim biznesie..."
     },
     {
      "position": "middle",
-     "signpost": "I'm no petty criminal, here's how I run my operation..."
+     "signpost": "Nie jestem byle przestepca, oto jak prowadze swoja dzialalnosc..."
     },
     {
      "position": "end",
-     "signpost": "Go to my top enforcer, and tell them this..."
+     "signpost": "Idz do mojego najlepszego egzekutora i powiedz mu to..."
     },
     {
      "position": "end",
-     "signpost": "There's a saying from the old country, a creed all mobsters follow..."
+     "signpost": "Jest takie stare powiedzenie, zasada, ktora kieruja sie wszyscy mafiosi..."
     }
    ],
-   "title": "I’m a powerful mob boss and as a favor you have asked me to <BLANK>",
+   "title": "Jestem poteznym bossem mafii i jako przysluge poprosiles mnie o <BLANK>",
    "x": false
   },
   {
@@ -3662,50 +3662,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "\"In the dawn's early light, I spied a curious sight...\""
+     "signpost": "\"W świetle porannego świtu ujrzałem osobliwy widok...\""
     },
     {
      "position": "middle",
-     "signpost": "\"Why am I of furrowed brow? I will tell my woes to thou...\""
+     "signpost": "\"Dlaczego mam zatroskane czoło? Opowiem ci o mych troskach...\""
     },
     {
      "position": "middle",
-     "signpost": "\"My love is deep and pure, as captured in this next picture...\""
+     "signpost": "\"Moja miłość jest głęboka i czysta, co oddaje ten następny obraz...\""
     },
     {
      "position": "end",
-     "signpost": "\"My fate now 'tis forever sealed, a history that cannot be repealed...\""
+     "signpost": "\"Mój los został przypieczętowany, historia, której nie da się cofnąć...\""
     },
     {
      "position": "end",
-     "signpost": "\"Farewell friends, now we part. But I will keep thee in my heart...\""
+     "signpost": "\"Żegnajcie, przyjaciele, nadszedł czas rozstania. Ale na zawsze zachowam was w sercu...\""
     },
     {
      "position": "end",
-     "signpost": "\"Amidst the somber gloom, I whisper these words in my darkened room...\""
+     "signpost": "\"Pośród ponurego mroku szepczę te słowa w moim zaciemnionym pokoju...\""
     },
     {
      "position": "middle",
-     "signpost": "\"One thing that must be understood, is this fact about my childhood...\""
+     "signpost": "\"Jest jedna rzecz, którą trzeba zrozumieć, to fakt o moim dzieciństwie...\""
     },
     {
      "position": "end",
-     "signpost": "If this last part sounds like popular song lyrics, that's simply a coincidence"
+     "signpost": "Jesli ta ostatnia czesc brzmi jak tekst popularnej piosenki, to czysty przypadek"
     },
     {
      "position": "end",
-     "signpost": "I will now break meter to formulate a short haiku..."
+     "signpost": "Teraz przerwe rym i uloze krotkie haiku..."
     },
     {
      "position": "middle",
-     "signpost": "\"Twas a powerful notion, that filled my soul with emotion...\""
+     "signpost": "\"To była potężna myśl, która wypełniła moją duszę emocją...\""
     },
     {
      "position": "end",
-     "signpost": "\"Now at last I finally see, a deep truth about humanity...\""
+     "signpost": "\"Teraz wreszcie widzę, głęboką prawdę o ludzkości...\""
     }
    ],
-   "title": "I Shall Now Read My Poem About Love, Loss, And <BLANK>",
+   "title": "Przeczytam teraz moj wiersz o milosci, stracie i <BLANK>",
    "x": false
   },
   {
@@ -3716,7 +3716,7 @@
     "My Office"
    ],
    "signposts": [],
-   "title": "I Am Putting Those Jerks At <BLANK> On Notice",
+   "title": "Wypowiadam wojne tym palantom z <BLANK>",
    "x": false
   },
   {
@@ -3727,7 +3727,7 @@
     "Upset About It"
    ],
    "signposts": [],
-   "title": "My Story: My Mother Is A Scented Candle and My Father Is <BLANK>",
+   "title": "Moja historia: Moja matka jest zapachowa swieca, a moj ojciec to <BLANK>",
    "x": false
   },
   {
@@ -3738,7 +3738,7 @@
     "Professional Wrestlers"
    ],
    "signposts": [],
-   "title": "True Story: I Found \"Home\" In A Colony Of <BLANK>",
+   "title": "Prawdziwa historia: Znalazlem „dom” w kolonii <BLANK>",
    "x": false
   },
   {
@@ -3752,46 +3752,46 @@
    "signposts": [
     {
      "position": "end",
-     "signpost": "Don't underestimate me, for you are unprepared for my NEXT plan..."
+     "signpost": "Nie lekceważ mnie, bo nie jesteś gotowy na mój NASTĘPNY plan..."
     },
     {
      "position": "middle",
-     "signpost": "Drats! The worst part was when..."
+     "signpost": "Cholera! Najgorsze bylo, gdy..."
     },
     {
      "position": "middle",
-     "signpost": "I should have known I was undone when..."
+     "signpost": "Powinienem byl wiedziec, ze jestem zgubiony, gdy..."
     },
     {
      "position": "middle",
-     "signpost": "Curses! How will I ever recover from the worst indignity of all..."
+     "signpost": "Przekleci niech beda! Jak mam sie teraz podniesc po tej najwiekszej hanbie..."
     },
     {
      "position": "end",
-     "signpost": "Fool that I was, I still had hope in my evil plan when I saw that..."
+     "signpost": "Glupcem bylem, ale wciaz wierzylem w swoj zly plan, gdy zobaczylem, ze..."
     },
     {
      "position": "end",
-     "signpost": "This is just a momentary setback before my sinister triumph!"
+     "signpost": "To tylko chwilowa porazka przed moim zlowrogim triumfem!"
     },
     {
      "position": "middle",
-     "signpost": "I should have known not to trust this plan to my incompetent minion..."
+     "signpost": "Powinienem byl wiedziec, ze nie mozna powierzyc tego planu mojemu nieudolnemu poplecznikowi..."
     },
     {
      "position": "middle",
-     "signpost": "Just look what you've done to my evil lair!"
+     "signpost": "Spojrz tylko, co zrobiles z moja zlowroga kryjowka!"
     },
     {
      "position": "middle",
-     "signpost": "Oh no, my top secret weapon is in ruins!"
+     "signpost": "O nie, moja super tajna bron jest w ruinie!"
     },
     {
      "position": "end",
-     "signpost": "You may have won this round, but I'll be back! And next time..."
+     "signpost": "Mozliwe, ze wygrales te runde, ale wroce! I nastepnym razem..."
     }
    ],
-   "title": "Blast! My Nefarious Plan Has Been Foiled, And All Because of <BLANK>",
+   "title": "Cholera! Moj nikczemny plan zostal pokrzyzowany i to wszystko przez <BLANK>",
    "x": false
   },
   {
@@ -3802,7 +3802,7 @@
     "doom laser"
    ],
    "signposts": [],
-   "title": "Why You Must Become the First Investors In My New <BLANK>",
+   "title": "Dlaczego musicie zostac pierwszymi inwestorami w moim nowym <BLANK>",
    "x": false
   },
   {
@@ -3813,7 +3813,7 @@
     "these dang cell phones"
    ],
    "signposts": [],
-   "title": "Join Me In The Fight Against Tyranny, Oppression, and <BLANK>",
+   "title": "Dolaczcie do mnie w walce z tyrania, uciskiem i <BLANK>",
    "x": false
   },
   {
@@ -3826,38 +3826,38 @@
    "signposts": [
     {
      "position": "end",
-     "signpost": "Cheer up, champ. I know something that will make you feel better..."
+     "signpost": "Glowa do gory, mistrzu. Wiem cos, co poprawi ci humor..."
     },
     {
      "position": "middle",
-     "signpost": "I'm gonna need you to be brave, buddy, because..."
+     "signpost": "Bedziesz musial byc odwazny, kumplu, bo..."
     },
     {
      "position": "middle",
-     "signpost": "It's ok to cry at this next part..."
+     "signpost": "W porzadku jest plakac w tym momencie..."
     },
     {
      "position": "end",
-     "signpost": "Remember two things. 1. We love you, and 2. ...."
+     "signpost": "Pamietaj o dwoch rzeczach. 1. Kochamy cie, i 2. ...."
     },
     {
      "position": "middle",
-     "signpost": "Will your day-to-day life change? Yes, and here's how..."
+     "signpost": "Czy twoje codzienne zycie sie zmieni? Tak, i oto jak..."
     },
     {
      "position": "end",
-     "signpost": "This family is going to be all right, and here's why..."
+     "signpost": "Ta rodzina sobie poradzi, i oto dlaczego..."
     },
     {
      "position": "middle",
-     "signpost": "We ran the decision past your grandparents and they said..."
+     "signpost": "Przedstawilismy decyzje twoim dziadkom i powiedzieli..."
     },
     {
      "position": "end",
-     "signpost": "When you're a grown-up you'll understand this last part..."
+     "signpost": "Kiedy bedziesz dorosly, zrozumiesz te ostatnia czesc..."
     }
    ],
-   "title": "Here's Why Your Mom And I Are <BLANK>",
+   "title": "Oto dlaczego twoja mama i ja jestesmy <BLANK>",
    "x": true
   },
   {
@@ -3868,7 +3868,7 @@
     "very sad"
    ],
    "signposts": [],
-   "title": "Back Off! No One Is Getting In The Way of My Dream of Becoming <BLANK>",
+   "title": "Odsuncie sie! Nikt nie stanie na drodze mojego marzenia o byciu <BLANK>",
    "x": false
   },
   {
@@ -3879,7 +3879,7 @@
     "'The Bible: The Movie'"
    ],
    "signposts": [],
-   "title": "A Loose Summary of Everything I Can Remember From The Movie <BLANK>",
+   "title": "Luzem opowiem wszystko, co pamietam z filmu <BLANK>",
    "x": false
   },
   {
@@ -3890,7 +3890,7 @@
     "why this cake is so delicious"
    ],
    "signposts": [],
-   "title": "No One Is Leaving This Room Until We Learn The Truth About <BLANK>",
+   "title": "Nikt nie wyjdzie z tego pokoju, dopoki nie poznamy prawdy o <BLANK>",
    "x": false
   },
   {
@@ -3901,7 +3901,7 @@
     "Ladies Night 2-for-1 Margaritas"
    ],
    "signposts": [],
-   "title": "Get A Better Night's Sleep With <BLANK> In Your Bed",
+   "title": "Spij lepiej dzieki <BLANK> w twoim lozku",
    "x": false
   },
   {
@@ -3912,7 +3912,7 @@
     "fun ties"
    ],
    "signposts": [],
-   "title": "<BLANK>: The Key To An Efficient Meeting",
+   "title": "<BLANK>: Klucz do efektywnego spotkania",
    "x": false
   },
   {
@@ -3923,7 +3923,7 @@
     "about the time warp"
    ],
    "signposts": [],
-   "title": "As Your Lawyer, I Am Legally Obligated To Tell You <BLANK>",
+   "title": "Jako twoj prawnik jestem prawnie zobowiazany powiedziec ci o <BLANK>",
    "x": false
   },
   {
@@ -3934,7 +3934,7 @@
     "Radness"
    ],
    "signposts": [],
-   "title": "Here Are All Of The Reasons I Am Resigning As CEO of <BLANK>",
+   "title": "Oto wszystkie powody, dla ktorych rezygnuje ze stanowiska CEO <BLANK>",
    "x": false
   },
   {
@@ -3945,7 +3945,7 @@
     "Twelve Dogs"
    ],
    "signposts": [],
-   "title": "What It Was Like Growing Up Without <BLANK>",
+   "title": "Jak wygladalo dorastanie bez <BLANK>",
    "x": false
   },
   {
@@ -3956,7 +3956,7 @@
     "wailing"
    ],
    "signposts": [],
-   "title": "There's Not Much Better Than A Sunny Day, A Cool Drink, And <BLANK>",
+   "title": "Nie ma nic lepszego niz sloneczny dzien, chlodny napoj i <BLANK>",
    "x": false
   },
   {
@@ -3967,7 +3967,7 @@
     "Class President"
    ],
    "signposts": [],
-   "title": "Someone Has To Tell You All The Truth... You're Never Going To Be <BLANK>",
+   "title": "Ktos musi ci powiedziec prawde... Nigdy nie bedziesz <BLANK>",
    "x": false
   },
   {
@@ -3978,7 +3978,7 @@
     "Be Your Own Lawyer"
    ],
    "signposts": [],
-   "title": "A Healthy Relationship Gives You the Secret Ability to <BLANK>",
+   "title": "Zdrowy zwiazek daje ci sekretna zdolnosc do <BLANK>",
    "x": false
   },
   {
@@ -3989,7 +3989,7 @@
     "Top 40 Hits"
    ],
    "signposts": [],
-   "title": "Science is Wrong! The Human Body is Powered by <BLANK>",
+   "title": "Nauka sie myli! Ludzkie cialo napedza <BLANK>",
    "x": false
   },
   {
@@ -4000,7 +4000,7 @@
     "Skip"
    ],
    "signposts": [],
-   "title": "Artificial Intelligence Will Never Replace Humanity's Ability to <BLANK>",
+   "title": "Sztuczna inteligencja nigdy nie zastapi zdolnosci ludzkosci do <BLANK>",
    "x": false
   },
   {
@@ -4011,7 +4011,7 @@
     "Magnetic"
    ],
    "signposts": [],
-   "title": "Hey Youth Culture, Being Cool Isn't as Important as Being <BLANK>",
+   "title": "Hej, mlodziezy, bycie fajnym nie jest tak wazne jak bycie <BLANK>",
    "x": false
   },
   {
@@ -4022,7 +4022,7 @@
     "A Love of Vegetables"
    ],
    "signposts": [],
-   "title": "<BLANK> Isn't a Weakness, It's a Perfect Conversation Starter!",
+   "title": "<BLANK> nie jest slaboscia, to idealny temat do rozmowy!",
    "x": false
   },
   {
@@ -4033,7 +4033,7 @@
     "Faceless Robots"
    ],
    "signposts": [],
-   "title": "Follow Your Dreams and Surround Yourself With <BLANK>",
+   "title": "Podazaj za marzeniami i otaczaj sie <BLANK>",
    "x": false
   },
   {
@@ -4044,7 +4044,7 @@
     "A Corn Maze"
    ],
    "signposts": [],
-   "title": "I Met the Love of My Life in <BLANK> and So Can You",
+   "title": "Spotkalem milosc mojego zycia w <BLANK> i ty tez mozesz",
    "x": false
   },
   {
@@ -4058,54 +4058,54 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Has this ever happened to you?"
+     "signpost": "Czy to kiedykolwiek ci się przydarzyło?"
     },
     {
      "position": "middle",
-     "signpost": "There has to be a better way!"
+     "signpost": "Musi byc lepszy sposob!"
     },
     {
      "position": "middle",
-     "signpost": "Like what you see? Well, have I got news for you..."
+     "signpost": "Podoba ci sie to, co widzisz? Coz, mam dla ciebie swietne wiesci..."
     },
     {
      "position": "middle",
-     "signpost": "It used to be so difficult and frustrating..."
+     "signpost": "Kiedys bylo to takie trudne i frustrujace..."
     },
     {
      "position": "end",
-     "signpost": "Just count to one... and you're done!"
+     "signpost": "Po prostu policz do jednego... i gotowe!"
     },
     {
      "position": "end",
-     "signpost": "Repeat after me..."
+     "signpost": "Powtorz za mna..."
     },
     {
      "position": "end",
-     "signpost": "Your life is now amazing, thanks to this product..."
+     "signpost": "Twoje zycie jest teraz niesamowite, dzieki temu produktowi..."
     },
     {
      "position": "end",
-     "signpost": "Get out your credit card and do the following..."
+     "signpost": "Wyciagnij swoja karte kredytowa i wykonaj nastepujace kroki..."
     },
     {
      "position": "middle",
-     "signpost": "What inspired this invention? It's a relatable story..."
+     "signpost": "Co zainspirowalo wynalezienie tego? To bardzo zyciowa historia..."
     },
     {
      "position": "end",
-     "signpost": "But wait! If you purchase in the next five minutes you'll also get this..."
+     "signpost": "Ale czekaj! Jesli zamowisz w ciagu nastepnych pieciu minut, dostaniesz takze..."
     },
     {
      "position": "middle",
-     "signpost": "This is all endorsed by a very famous celebrity..."
+     "signpost": "Wszystko to jest poparte przez bardzo znana gwiazde..."
     },
     {
      "position": "end",
-     "signpost": "Need a little more oomph? You can buy our professional grade version..."
+     "signpost": "Potrzebujesz czegos mocniejszego? Mozesz kupic nasza profesjonalna wersje..."
     }
    ],
-   "title": "This Incredible Life-Changing <BLANK> Can Be Yours For Just 4 Easy Payments Of $39.95",
+   "title": "Ten niesamowity, zmieniajacy zycie <BLANK> moze byc twoj za jedyne 4 raty po 39,95$",
    "x": false
   },
   {
@@ -4116,7 +4116,7 @@
     "Concept Of Morality"
    ],
    "signposts": [],
-   "title": "Excuse Me, But This <BLANK> Is Unacceptable And I Demand To See The Manager",
+   "title": "Przepraszam, ale ten <BLANK> jest nie do przyjecia i zadam rozmowy z menedzerem",
    "x": false
   },
   {
@@ -4127,7 +4127,7 @@
     "A Bee"
    ],
    "signposts": [],
-   "title": "After All These Years Of Hiding, <BLANK> Finally Found Me!",
+   "title": "Po tych wszystkich latach ukrywania sie, <BLANK> w koncu mnie znalazlo!",
    "x": false
   },
   {
@@ -4138,7 +4138,7 @@
     "Edible Staples"
    ],
    "signposts": [],
-   "title": "It's Already The 21st Century! Why Haven't They Invented <BLANK>?",
+   "title": "Juz mamy XXI wiek! Dlaczego jeszcze nie wynalezli <BLANK>?",
    "x": false
   },
   {
@@ -4149,7 +4149,7 @@
     "The Mysterious Villain Known Only As Clockmeister"
    ],
    "signposts": [],
-   "title": "I Have Spent My Life Trying To Prove The Existence of <BLANK>",
+   "title": "Spedzilem zycie, probujac udowodnic istnienie <BLANK>",
    "x": false
   },
   {
@@ -4160,7 +4160,7 @@
     "Knife Cow"
    ],
    "signposts": [],
-   "title": "Bigfoot Is Just A Myth, But <BLANK> Is All Too Real",
+   "title": "Bigfoot to tylko mit, ale <BLANK> jest az za bardzo realne",
    "x": false
   },
   {
@@ -4171,7 +4171,7 @@
     "bare knuckle boxing"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Is The Spice Of Life",
+   "title": "Dlaczego <BLANK> to przyprawa zycia",
    "x": false
   },
   {
@@ -4182,7 +4182,7 @@
     "an off-Disney-property Orlando-area hotel"
    ],
    "signposts": [],
-   "title": "Goodbye, Losers! I'm Going to <BLANK>!",
+   "title": "Zegnajcie, przegrywy! Jade do <BLANK>!",
    "x": false
   },
   {
@@ -4193,7 +4193,7 @@
     "Organizing a closet"
    ],
    "signposts": [],
-   "title": "<BLANK> Is Not As Boring As You Think It Is. Look How Much Fun I'm Having!",
+   "title": "<BLANK> nie jest tak nudne, jak myslisz. Zobacz, jak swietnie sie bawie!",
    "x": false
   },
   {
@@ -4204,7 +4204,7 @@
     "that one Backstreet Boy"
    ],
    "signposts": [],
-   "title": "Why <BLANK> Is No Longer My Best Friend, Despite What Our Lockets Would Have You Believe",
+   "title": "Dlaczego <BLANK> juz nie jest moim najlepszym przyjacielem, mimo ze nasze wisiorki mowia co innego",
    "x": false
   },
   {
@@ -4215,7 +4215,7 @@
     "my world-freezing laser"
    ],
    "signposts": [],
-   "title": "I Am An Aspiring Evil Genius, And I Intend To Use My Inheritance On <BLANK>",
+   "title": "Jestem aspirujacym zlym geniuszem i zamierzam przeznaczyc moj spadek na <BLANK>",
    "x": false
   },
   {
@@ -4229,42 +4229,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Yes, I'm on the verge of tears. Here's why..."
+     "signpost": "Tak, jestem na skraju łez. Oto dlaczego..."
     },
     {
      "position": "end",
-     "signpost": "In closing, there's an Irish blessing that's perfect for this moment..."
+     "signpost": "Na zakonczenie, oto irlandzkie blogoslawienstwo, ktore idealnie pasuje do tej chwili..."
     },
     {
      "position": "end",
-     "signpost": "Oh by the way, the DJ cancelled, but we do have something else for the reception..."
+     "signpost": "O, przy okazji, DJ odwolal wystep, ale mamy cos innego na wesele..."
     },
     {
      "position": "middle",
-     "signpost": "Why have I stayed silent about this for so long? Here's why..."
+     "signpost": "Dlaczego tak dlugo milczalem na ten temat? Oto powod..."
     },
     {
      "position": "middle",
-     "signpost": "There's something you two haven't been honest about..."
+     "signpost": "Jest cos, o czym wy dwoje nie byliscie szczerzy..."
     },
     {
      "position": "middle",
-     "signpost": "You're probably wondering how I can fit into your relationship..."
+     "signpost": "Pewnie zastanawiacie sie, jak moge dopasowac sie do waszego zwiazku..."
     },
     {
      "position": "middle",
-     "signpost": "Instead of having kids, you should do this..."
+     "signpost": "Zamiast miec dzieci, powinniscie zrobic to..."
     },
     {
      "position": "end",
-     "signpost": "Before you throw me out, I have one last thing to say..."
+     "signpost": "Zanim mnie wyrzucicie, mam jeszcze jedno do powiedzenia..."
     },
     {
      "position": "end",
-     "signpost": "If you want this relationship to work, take my advice..."
+     "signpost": "Jesli chcecie, aby ten zwiazek dzialal, posluchajcie mojej rady..."
     }
    ],
-   "title": "A Toast To The Happy Couple! But I Also Need To Talk About <BLANK>",
+   "title": "Toast za szczesliwa pare! Ale musze tez powiedziec cos o <BLANK>",
    "x": false
   },
   {
@@ -4275,7 +4275,7 @@
     "my mother's porcelain figurines"
    ],
    "signposts": [],
-   "title": "It Is Literally Impossible To Steal <BLANK>... Or Is It??",
+   "title": "To doslownie niemozliwe, by ukrasc <BLANK>... Czy aby na pewno?",
    "x": false
   },
   {
@@ -4286,7 +4286,7 @@
     "eating a single Brussel sprout"
    ],
    "signposts": [],
-   "title": "How <BLANK> Improved My Productivity and Made Me Immortal",
+   "title": "Jak <BLANK> poprawilo moja produktywnosc i uczynilo mnie niesmiertelnym",
    "x": false
   },
   {
@@ -4297,7 +4297,7 @@
     "sick skateboard tricks"
    ],
    "signposts": [],
-   "title": "I'm Not A Doctor, But I Will Now Give You Medical Advice About <BLANK>",
+   "title": "Nie jestem lekarzem, ale teraz udziele ci porady medycznej o <BLANK>",
    "x": false
   },
   {
@@ -4308,7 +4308,7 @@
     "Crab"
    ],
    "signposts": [],
-   "title": "Hey Nerds, Here's How To Survive A <BLANK> Attack",
+   "title": "Hej, nerdy! Oto jak przetrwac atak <BLANK>",
    "x": false
   },
   {
@@ -4319,7 +4319,7 @@
     "Kick My Butt"
    ],
    "signposts": [],
-   "title": "Within The Next Ten Years, Everyone Will <BLANK> Or I Will Eat My Hat",
+   "title": "W ciagu najblizszych dziesieciu lat wszyscy beda <BLANK> albo zjem swoj kapelusz",
    "x": false
   },
   {
@@ -4330,7 +4330,7 @@
     "Baking Croissants"
    ],
    "signposts": [],
-   "title": "This Is Embarrassing To Admit But I'm Currently <BLANK>",
+   "title": "To krepujace, ale wlasnie teraz <BLANK>",
    "x": false
   },
   {
@@ -4343,46 +4343,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Of course, all of this had been set in motion 100 years ago..."
+     "signpost": "Oczywiście, wszystko to zostało wprawione w ruch sto lat temu.."
     },
     {
      "position": "end",
-     "signpost": "But here's why I'm telling you this right now..."
+     "signpost": "Ale oto, dlaczego mowie ci o tym wlasnie teraz..."
     },
     {
      "position": "middle",
-     "signpost": "How does a basket of newborn kittens figure into this? Good question..."
+     "signpost": "Jak koszyk nowonarodzonych kotkow sie w to wpisuje? Dobre pytanie..."
     },
     {
      "position": "end",
-     "signpost": "So later, when it's dead quiet and you really listen... this is what you'll hear..."
+     "signpost": "Wiec pozniej, gdy zapadnie martwa cisza i naprawde posluchasz... uslyszysz to..."
     },
     {
      "position": "end",
-     "signpost": "Of course, none of that is real. Or is it?!!"
+     "signpost": "Oczywiscie, nic z tego nie jest prawdziwe. A moze jednak?!"
     },
     {
      "position": "end",
-     "signpost": "Wait... I think I just heard something. Look over there..."
+     "signpost": "Czekaj... mysle, ze wlasnie cos uslyszalem. Spojrz tam..."
     },
     {
      "position": "end",
-     "signpost": "The townsfolk agree: It's happening again"
+     "signpost": "Mieszkancy miasteczka sa zgodni: To znowu sie dzieje."
     },
     {
      "position": "end",
-     "signpost": "Eek! What was that sound? Could it be this thing I'm about to show you?"
+     "signpost": "Eek! Co to byl za dzwiek? Czy to moze byc ta rzecz, ktora zaraz ci pokaze?"
     },
     {
      "position": "middle",
-     "signpost": "A horrible thing happened here long ago..."
+     "signpost": "Dawno temu wydarzylo sie tu cos strasznego..."
     },
     {
      "position": "middle",
-     "signpost": "Some say it's all just a legend, but how would you explain this..."
+     "signpost": "Niektorzy twierdza, ze to tylko legenda, ale jak inaczej wyjasnisz to..."
     }
    ],
-   "title": "Sit Around The Campfire And Prepare To Be Terrified By The Tale Of <BLANK>",
+   "title": "Usiadzcie przy ognisku i przygotujcie sie na przerazajaca opowiesc o <BLANK>",
    "x": true
   },
   {
@@ -4393,7 +4393,7 @@
     "Swallow $50 In Loose Change"
    ],
    "signposts": [],
-   "title": "Every Day, Millions Of People <BLANK> Without Ever Realizing It",
+   "title": "Kazdego dnia miliony ludzi <BLANK>, nie zdajac sobie z tego sprawy",
    "x": false
   },
   {
@@ -4404,7 +4404,7 @@
     "Yodeler"
    ],
    "signposts": [],
-   "title": "To Get Sweet Revenge On My Haters, I Have Spent A Lifetime Training As A <BLANK>",
+   "title": "Aby zemscic sie na moich hejterach, spedzilem cale zycie trenujac jako <BLANK>",
    "x": false
   },
   {
@@ -4417,50 +4417,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "The guilty party is standing in this very room!"
+     "signpost": "Winna osoba znajduje się w tym pokoju!"
     },
     {
      "position": "middle",
-     "signpost": "I now present to you, the biggest clue..."
+     "signpost": "Oto najwiekszy trop, ktory znalazlem..."
     },
     {
      "position": "middle",
-     "signpost": "You're probably wondering why I gathered you all here today..."
+     "signpost": "Pewnie zastanawiacie sie, dlaczego was tu wszystkich zgromadzilem..."
     },
     {
      "position": "end",
-     "signpost": "A fiendish riddle with a devious solution..."
+     "signpost": "Podstepna zagadka z diabolicznym rozwiazaniem..."
     },
     {
      "position": "end",
-     "signpost": "After I eliminated the impossible, one answer presented itself..."
+     "signpost": "Gdy wyeliminowalem niemozliwe, pozostala tylko jedna odpowiedz..."
     },
     {
      "position": "end",
-     "signpost": "In retrospect it seems so obvious..."
+     "signpost": "Z perspektywy czasu wydaje sie to oczywiste..."
     },
     {
      "position": "middle",
-     "signpost": "I could not have solved this case without the aid of my trusty sidekick..."
+     "signpost": "Nie moglbym rozwiazac tej sprawy bez pomocy mojego zaufanego pomocnika..."
     },
     {
      "position": "end",
-     "signpost": "There is but one suitable punishment for this wicked deed..."
+     "signpost": "Jest tylko jedna kara odpowiednia za ten nikczemny czyn..."
     },
     {
      "position": "end",
-     "signpost": "Officers, arrest this villain! And take them to..."
+     "signpost": "Oficerowie, aresztujcie tego zloczynce! I zabierzcie go do..."
     },
     {
      "position": "end",
-     "signpost": "Ah, but the criminal is wearing a cunning disguise..."
+     "signpost": "Ach, ale przestepca nosi sprytny kamuflaz..."
     },
     {
      "position": "middle",
-     "signpost": "Who could have guessed that the key to the mystery was right in front of us the whole time..."
+     "signpost": "Kto by pomyslal, ze klucz do tej zagadki byl przed nami przez caly czas..."
     }
    ],
-   "title": "After Examining The Clues, I Have Solved the Mystery of... <BLANK>",
+   "title": "Po przeanalizowaniu wskazowek rozwiazalem zagadke... <BLANK>",
    "x": false
   },
   {
@@ -4474,38 +4474,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Many lives were lost to bring you this information..."
+     "signpost": "Wiele istnien stracilo zycie, aby dostarczyc ci te informacje..."
     },
     {
      "position": "middle",
-     "signpost": "Our mole intercepted a highly classified message..."
+     "signpost": "Nasz agent przechwycil scisle tajna wiadomosc..."
     },
     {
      "position": "middle",
-     "signpost": "Here's how our undercover operatives learned about this nefarious scheme..."
+     "signpost": "Oto, jak nasi tajni agenci odkryli ten nikczemny spisek..."
     },
     {
      "position": "end",
-     "signpost": "We must respond with the only thing the enemy understands..."
+     "signpost": "Musimy odpowiedziec jedyna rzecza, ktora wrog rozumie..."
     },
     {
      "position": "middle",
-     "signpost": "What you will see next must never leave this room."
+     "signpost": "To, co zaraz zobaczysz, nigdy nie moze opuscic tego pomieszczenia."
     },
     {
      "position": "middle",
-     "signpost": "Allow me to introduce our double agent..."
+     "signpost": "Pozwol, ze przedstawie ci naszego podwojnego agenta..."
     },
     {
      "position": "end",
-     "signpost": "Your mission, should you choose to accept it, is this..."
+     "signpost": "Twoja misja, jesli zdecydujesz sie ja przyjac, polega na..."
     },
     {
      "position": "end",
-     "signpost": "I know we can win this, because we have..."
+     "signpost": Wiem, ze mozemy wygrac, poniewaz mamy..."
     }
    ],
-   "title": "I Have A Report From Our Spies! The Enemy's Plan Is To <BLANK>",
+   "title": "Mam raport od naszych szpiegow! Plan wroga to <BLANK>",
    "x": false
   },
   {
@@ -4519,50 +4519,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Here's a stop on the trip that I wish I had skipped..."
+     "signpost": "Oto przystanek w podrozy, ktory wolalbym ominac..."
     },
     {
      "position": "middle",
-     "signpost": "I avoided the tourist traps and found this hidden gem..."
+     "signpost": "Uniknalem turystycznych pulapek i znalazlem ten ukryty skarb..."
     },
     {
      "position": "middle",
-     "signpost": "There was a particularly interesting monument I saw..."
+     "signpost": "Byl jeden szczegolnie interesujacy pomnik, ktory zobaczylem..."
     },
     {
      "position": "end",
-     "signpost": "Here's what I have planned for my next vacation..."
+     "signpost": "Oto, co mam zaplanowane na moje nastepne wakacje..."
     },
     {
      "position": "end",
-     "signpost": "I learned something important from this trip..."
+     "signpost": "Nauczylem sie czegos waznego podczas tej podrozy..."
     },
     {
      "position": "end",
-     "signpost": "Before you go there, I have a piece of advice..."
+     "signpost": "Zanim tam pojedziesz, mam dla ciebie jedna rade..."
     },
     {
      "position": "middle",
-     "signpost": "Taking this next photo wasn't easy..."
+     "signpost": "Zrobienie tego nastepnego zdjecia nie bylo latwe..."
     },
     {
      "position": "end",
-     "signpost": "If I went back, there's one thing I definitely wouldn't do again..."
+     "signpost": "Gdybym wrocil, jest jedna rzecz, ktorej na pewno bym nie powtorzyl..."
     },
     {
      "position": "middle",
-     "signpost": "I bought this amazing souvenir..."
+     "signpost": "Kupilem te niesamowita pamiatke..."
     },
     {
      "position": "middle",
-     "signpost": "Here's one of the famous landmarks I visited..."
+     "signpost": "Oto jeden ze slynnych zabytkow, ktore odwiedzilem..."
     },
     {
      "position": "end",
-     "signpost": "I'm back home now, but here's how my life is forever changed..."
+     "signpost": "Wrocilem juz do domu, ale oto, jak ta podroz na zawsze mnie zmienila..."
     }
    ],
-   "title": "I Went On An Incredible Vacation To <BLANK> And Here Are My Travel Photos",
+   "title": "Bylem na niesamowitych wakacjach w <BLANK> i oto moje zdjecia z podrozy",
    "x": false
   },
   {
@@ -4573,7 +4573,7 @@
     "Wearing A Cape"
    ],
    "signposts": [],
-   "title": "This Looks Really Bad, But I Have A Good Reason For Why I'm <BLANK>",
+   "title": "To wyglada naprawde zle, ale mam dobry powod, dla ktorego wlasnie <BLANK>",
    "x": false
   },
   {
@@ -4584,7 +4584,7 @@
     "get turned into a pig by a witch"
    ],
    "signposts": [],
-   "title": "It Hurts My Feelings When Teens Laugh At Me Every Time I <BLANK>",
+   "title": "Boli mnie, gdy nastolatki sie ze mnie smieja za kazdym razem, gdy <BLANK>",
    "x": false
   },
   {
@@ -4595,7 +4595,7 @@
     "communications degree"
    ],
    "signposts": [],
-   "title": "A Painfully Detailed Explanation Of Why I Won't Pay For This <BLANK>",
+   "title": "Bardzo szczegolowe wyjasnienie, dlaczego nie zaplace za ten <BLANK>",
    "x": false
   },
   {
@@ -4606,7 +4606,7 @@
     "an adorable child"
    ],
    "signposts": [],
-   "title": "The Reasons I Won't Tell A Friend They Have <BLANK> On Their Face",
+   "title": "Powody, dla ktorych nie powiem znajomemu, ze ma <BLANK> na twarzy",
    "x": false
   },
   {
@@ -4617,7 +4617,7 @@
     "all the bees in their yard"
    ],
    "signposts": [],
-   "title": "How To Talk To Your Parents About <BLANK>",
+   "title": "Jak rozmawiac z rodzicami o <BLANK>",
    "x": false
   },
   {
@@ -4630,30 +4630,30 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I'm so scared right now, and here's why..."
+     "signpost": "Jestem teraz tak przerażony, i oto dlaczego..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what is going to happen to me..."
+     "signpost": "Oto, co zaraz sie ze mna stanie..."
     },
     {
      "position": "middle",
-     "signpost": "Let me show you how bad this is..."
+     "signpost": "Pozwol, ze pokaze ci, jak bardzo zle to wyglada..."
     },
     {
      "position": "end",
-     "signpost": "I wish I had my trusty weapon with me, which is this..."
+     "signpost": "zaluje, ze nie mam przy sobie mojego zaufanego oreza, ktorym jest..."
     },
     {
      "position": "end",
-     "signpost": "AAAAAAAAHHHHHHHHHH!"
+     "signpost": "AAAAAAAAHHHHHHHHHH!
     },
     {
      "position": "end",
-     "signpost": "Oh no! Oh no! Oh no! I didn't see this was here too!"
+     "signpost": "O nie! O nie! O nie! Nie zauwazylem, ze to tez tu jest!"
     }
    ],
-   "title": "Aaaaaah! Help! There's A <BLANK> In The Room With Me!!!",
+   "title": "Aaaaaah! Pomocy! W pokoju jest <BLANK>!!!",
    "x": false
   },
   {
@@ -4666,30 +4666,30 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "The first act is truly shocking because of this..."
+     "signpost": "Pierwszy akt jest naprawde szokujacy, poniewaz..."
     },
     {
      "position": "end",
-     "signpost": "Not even Shakespeare expected this ending..."
+     "signpost": "Nawet Szekspir nie przewidzial takiego zakonczenia..."
     },
     {
      "position": "middle",
-     "signpost": "This next part made me cry"
+     "signpost": "Ta nastepna scena sprawila, ze sie rozplakalem..."
     },
     {
      "position": "middle",
-     "signpost": "I can't wait for you to meet my favorite character..."
+     "signpost": "Nie moge sie doczekac, az poznasz moja ulubiona postac..."
     },
     {
      "position": "end",
-     "signpost": "Not only does this play have drama, action, comedy, tragedy, it also has this..."
+     "signpost": "Ta sztuka ma nie tylko dramat, akcje, komedie i tragedie, ale takze..."
     },
     {
      "position": "end",
-     "signpost": "I particularly enjoyed this twist just before intermission..."
+     "signpost": "Szczegolnie podobal mi sie ten zwrot akcji tuz przed przerwa..."
     }
    ],
-   "title": "It's Not His Best Work, But More People Need To Know About Shakespeare's Play \"<BLANK>\"",
+   "title": "To nie jest jego najlepsza praca, ale wiecej ludzi powinno znac sztuke Szekspira „<BLANK>”",
    "x": false
   },
   {
@@ -4700,7 +4700,7 @@
     "Added Bathrooms"
    ],
    "signposts": [],
-   "title": "Employee Morale Didn't Improve At My Company Until We <BLANK>",
+   "title": "Motywacja pracownikow w mojej firmie wzrosla dopiero, gdy zaczelismy <BLANK>",
    "x": false
   },
   {
@@ -4711,7 +4711,7 @@
     "a ghost with a job"
    ],
    "signposts": [],
-   "title": "I Took A Personality Test, And It Told Me I'm <BLANK>",
+   "title": "Zrobilem test osobowosci i powiedzieli mi, ze jestem <BLANK>",
    "x": false
   },
   {
@@ -4722,7 +4722,7 @@
     "The toaster while it is toasting"
    ],
    "signposts": [],
-   "title": "This is Serious! We Will Be Eternally Cursed If We Disturb <BLANK>",
+   "title": "To jest powazne! Bedziemy przekleci na wiecznosc, jesli naruszymy <BLANK>",
    "x": false
   },
   {
@@ -4733,7 +4733,7 @@
     "Penguins"
    ],
    "signposts": [],
-   "title": "Get Ready To Hear My Rant, Because I'm Furious About <BLANK>",
+   "title": "Przygotuj sie na moja tyrade, bo jestem wsciekly na <BLANK>",
    "x": false
   },
   {
@@ -4746,50 +4746,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Now, it's time to talk about the incident in the break room..."
+     "signpost": "Teraz nadszedł czas, aby porozmawiać o incydencie w pokoju socjalnym..."
     },
     {
      "position": "middle",
-     "signpost": "I'm bringing a new vision to this company, one that does NOT INCLUDE...."
+     "signpost": "Przynosze nowa wizje dla tej firmy, wizje, ktora NIE OBEJMUJE..."
     },
     {
      "position": "middle",
-     "signpost": "Of course, our old CEO will still be receiving their severance package of..."
+     "signpost": "Oczywiscie nasz byly CEO nadal otrzyma swoj pakiet odprawowy w wysokosci..."
     },
     {
      "position": "end",
-     "signpost": "I want every employee to feel comfortable talking to me about anything, even..."
+     "signpost": "Chce, aby kazdy pracownik czul sie komfortowo, rozmawiajac ze mna o wszystkim, nawet..."
     },
     {
      "position": "end",
-     "signpost": "Despite the difficulties of the past, let's start fresh, and clean up the damage from..."
+     "signpost": "Pomimo trudnosci z przeszlosci, zacznijmy od nowa i posprzatajmy szkody po..."
     },
     {
      "position": "end",
-     "signpost": "It's time to remember our company's slogan..."
+     "signpost": "Czas przypomniec sobie nasze firmowe haslo..."
     },
     {
      "position": "middle",
-     "signpost": "I'm not your usual CEO, and here's how I'm different..."
+     "signpost": "Nie jestem typowym prezesem, oto jak sie roznie..."
     },
     {
      "position": "end",
-     "signpost": "We polled the public about our company, and here's what they want from us..."
+     "signpost": "Przeprowadzilismy ankiete wsrod spoleczenstwa na temat naszej firmy i oto, czego od nas oczekuja..."
     },
     {
      "position": "middle",
-     "signpost": "We can turn things around by selling this new product..."
+     "signpost": "Mozemy odwrocic sytuacje, sprzedajac ten nowy produkt..."
     },
     {
      "position": "end",
-     "signpost": "I'm pleased to announce that all employees will be receiving this as a bonus..."
+     "signpost": "Z przyjemnoscia oglaszam, ze wszyscy pracownicy otrzymaja jako bonus..."
     },
     {
      "position": "end",
-     "signpost": "This is the official statement our PR team is releasing to the press..."
+     "signpost": "Oto oficjalne oswiadczenie, ktore nasz dzial PR przekazuje mediom..."
     }
    ],
-   "title": "As The New CEO Of This Company, I Won't Repeat My Predecessor's Mistake Of <BLANK>",
+   "title": "Jako nowy CEO tej firmy, nie powtorze bledu mojego poprzednika zwiazanego z <BLANK>",
    "x": false
   },
   {
@@ -4803,38 +4803,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Here are a few things I could have said instead..."
+     "signpost": "Oto kilka rzeczy, ktore moglem powiedziec zamiast tego..."
     },
     {
      "position": "middle",
-     "signpost": "My day was about to get much worse from there..."
+     "signpost": "Moj dzien mial sie od tego momentu tylko pogorszyc..."
     },
     {
      "position": "middle",
-     "signpost": "Before I screamed that, I considered doing this instead..."
+     "signpost": "Zanim to wykrzyczalem, rozwazalem zrobienie tego zamiast..."
     },
     {
      "position": "middle",
-     "signpost": "Surprisingly, I got support from an unlikely person..."
+     "signpost": "Zaskakujaco, wsparcie otrzymalem od niespodziewanej osoby..."
     },
     {
      "position": "end",
-     "signpost": "This all had a major effect on my career..."
+     "signpost": "To wszystko mialo ogromny wplyw na moja kariere..."
     },
     {
      "position": "end",
-     "signpost": "Here's what I learned..."
+     "signpost": "Oto, czego sie nauczylem..."
     },
     {
      "position": "end",
-     "signpost": "All workplaces should adopt this policy..."
+     "signpost": "Kazde miejsce pracy powinno przyjac te zasade..."
     },
     {
      "position": "end",
-     "signpost": "This all led to..."
+     "signpost": "To wszystko doprowadzilo do..."
     }
    ],
-   "title": "This Is What Happened After I Screamed \"<BLANK>\" At My Boss",
+   "title": "Oto co sie stalo, gdy wrzasnalem \"<BLANK>\" na mojego szefa",
    "x": false
   },
   {
@@ -4847,46 +4847,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "And here's a widdle sumfin' else..."
+     "signpost": "A oto jeszcze jedna mala rzecz..."
     },
     {
      "position": "middle",
-     "signpost": "Bark bark bark, and another thing...."
+     "signpost": "Hau hau hau, i jeszcze cos..."
     },
     {
      "position": "middle",
-     "signpost": "Now, I was just explaining this to a local pug. Did you know that..."
+     "signpost": "Teraz wlasnie tlumaczylem to lokalnemu mopsowi. Czy wiesz, ze..."
     },
     {
      "position": "end",
-     "signpost": "Woof woof! Thank you."
+     "signpost": "Hau hau! Dziekuje."
     },
     {
      "position": "end",
-     "signpost": "Bow wow wow. I hope I explained it good."
+     "signpost": "Hau hau hau. Mam nadzieje, ze dobrze to wyjasnilem."
     },
     {
      "position": "end",
-     "signpost": "Did I do a good job? Do I get a treat? TREAT?"
+     "signpost": "Czy dobrze sie spisalem? Czy dostane smakolyk? SMAKOlYK?"
     },
     {
      "position": "middle",
-     "signpost": "Cats are the worst, and could never explain this next thing to you..."
+     "signpost": "Koty sa najgorsze i nigdy nie bylyby w stanie wyjasnic tej nastepnej rzeczy..."
     },
     {
      "position": "end",
-     "signpost": "Awroooooooooeally think you should consider this next thing..."
+     "signpost": "Auuuuuuuuu, naprawde powinienes rozwazyc te nastepna rzecz..."
     },
     {
      "position": "end",
-     "signpost": "In conclusion, here's why I deserve a treat..."
+     "signpost": "Podsumowujac, oto dlaczego zasluguje na smakolyk..."
     },
     {
      "position": "middle",
-     "signpost": "I'll move on to my next point, unless there's a ball? BALL? BALL?"
+     "signpost": "Przejde do nastepnego punktu, chyba ze jest pilka? PIlKA? PIlKA?"
     }
    ],
-   "title": "I'm Amazing At Doing a \"Dog Voice,\" So That's How I'm Going To Explain <BLANK> To You",
+   "title": "Jestem niesamowity w robieniu \"psiego glosu\", wiec wlasnie tak wyjasnie ci <BLANK>",
    "x": false
   },
   {
@@ -4899,46 +4899,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I can tell you're jealous and here's why..."
+     "signpost": "Widze, ze jestes zazdrosny i oto dlaczego..."
     },
     {
      "position": "middle",
-     "signpost": "I'm better than you... and you... I'm even better than..."
+     "signpost": "Jestem lepszy od ciebie... i od ciebie... a nawet od..."
     },
     {
      "position": "end",
-     "signpost": "Now I'd like to tell you why you are all garbage"
+     "signpost": "Teraz chcialbym wam wszystkim powiedziec, dlaczego jestescie beznadziejni..."
     },
     {
      "position": "middle",
-     "signpost": "But how did I come to be so amazing?"
+     "signpost": "Ale jak stalem sie tak niesamowity?"
     },
     {
      "position": "middle",
-     "signpost": "Here's something that will really make you seethe..."
+     "signpost": "Oto cos, co naprawde sprawi, ze sie zagotujesz..."
     },
     {
      "position": "middle",
-     "signpost": "It's normal to feel jealous when you see this..."
+     "signpost": "To normalne, ze czujesz zazdrosc, gdy widzisz to..."
     },
     {
      "position": "end",
-     "signpost": "There's only one thing I'm not good at..."
+     "signpost": "Jest tylko jedna rzecz, w ktorej nie jestem najlepszy..."
     },
     {
      "position": "end",
-     "signpost": "Here's how you can become awesome, like me..."
+     "signpost": "Oto jak mozesz stac sie tak niesamowity jak ja..."
     },
     {
      "position": "end",
-     "signpost": "Don't feel bad. There's still one thing you can be proud of..."
+     "signpost": "Nie czuj sie zle. Wciaz jest jedna rzecz, z ktorej mozesz byc dumny..."
     },
     {
      "position": "end",
-     "signpost": "I have one last message for all my haters..."
+     "signpost": "Mam jeszcze jedna wiadomosc dla wszystkich moich hejterow..."
     }
    ],
-   "title": "I'm better than all of you because of my <BLANK>",
+   "title": "Jestem lepszy od was wszystkich, bo mam <BLANK>",
    "x": true
   },
   {
@@ -4951,50 +4951,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I have a personal story about this next image..."
+     "signpost": "Mam osobista historie zwiazana z tym nastepnym obrazem...""
     },
     {
      "position": "end",
-     "signpost": "I think we've all learned a lot about me, especially this..."
+     "signpost": "Mysle, ze wszyscy wiele nauczylismy sie o mnie, zwlaszcza tego..."
     },
     {
      "position": "end",
-     "signpost": "Think of this next point as a \"line drive\" to my conclusion..."
+     "signpost": "Potraktuj ten nastepny punkt jako \\"line drive\" do mojego wniosku"
     },
     {
      "position": "middle",
-     "signpost": "I'm not qualified at all to tell you about this next thing...."
+     "signpost": "W ogole nie jestem wykwalifikowany, aby mowic o tej nastepnej rzeczy..."
     },
     {
      "position": "middle",
-     "signpost": "Let's all be adults and keep our giggles to ourselves about what I'm about to discuss..."
+     "signpost": "Zachowajmy powage i nie chichoczmy na temat tego, co zaraz omowie..."
     },
     {
      "position": "middle",
-     "signpost": "Frankly, I'd appreciate it if you could explain this next image to me..."
+     "signpost": "Szczerze mowiac, docenilbym, gdybys mogl mi wyjasnic ten nastepny obraz..."
     },
     {
      "position": "middle",
-     "signpost": "I actually know a lot about this next thing, because it's also important in softball..."
+     "signpost": "Tak naprawde wiem sporo o tej rzeczy, poniewaz jest ona istotna takze w softballu..."
     },
     {
      "position": "end",
-     "signpost": "Please tell the school administrators that I really nailed this last part..."
+     "signpost": "Prosze powiedzcie administracji szkoly, ze naprawde dobrze mi poszla ta ostatnia czesc..."
     },
     {
      "position": "end",
-     "signpost": "Ok, one last thing before I start practice..."
+     "signpost": "Dobrze, jeszcze jedna rzecz, zanim zaczne trening..."
     },
     {
      "position": "end",
-     "signpost": "I won't be able to answer any questions about this last thing, so keep 'em to yourself"
+     "signpost": "Nie bede w stanie odpowiedziec na zadne pytania dotyczace tej ostatniej rzeczy, wiec zachowajcie je dla siebie..."
     },
     {
      "position": "end",
-     "signpost": "That's a lot to remember, so here's the one thing you need to know for the test..."
+     "signpost": "To duzo do zapamietania, wiec oto jedna rzecz, ktora musisz znac na test..."
     }
    ],
-   "title": "I'm The JV Softball Coach, But The School Says I Have To Teach You About <BLANK>",
+   "title": "Jestem trenerem druzyny softballowej, ale szkola kaze mi uczyc was o <BLANK>",
    "x": false
   },
   {
@@ -5007,34 +5007,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This is better than my last religion based on this..."
+     "signpost": "To jest lepsze niz moja poprzednia religia, poniewaz..."
     },
     {
      "position": "end",
-     "signpost": "If you join me, I can promise you this..."
+     "signpost": "Jesli do mnie dolaczysz, moge obiecac ci to..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what we're going to worship..."
+     "signpost": "Oto, co bedziemy czcic..."
     },
     {
      "position": "middle",
-     "signpost": "The truth was revealed to me in this divine vision..."
+     "signpost": "Prawda zostala mi objawiona w tej boskiej wizji..."
     },
     {
      "position": "end",
-     "signpost": "But beware this false prophet..."
+     "signpost": "Ale uwazaj na tego falszywego proroka..."
     },
     {
      "position": "end",
-     "signpost": "Hold on, I'm being sent another holy revelation right this second..."
+     "signpost": "Chwila, wlasnie teraz otrzymuje kolejne swiete objawienie..."
     },
     {
      "position": "middle",
-     "signpost": "Here is our most important commandment..."
+     "signpost": "Oto nasze najwazniejsze przykazanie..."
     }
    ],
-   "title": "Gather, My Children: Why I Am Starting A New Religion Based On <BLANK>",
+   "title": "Zbierzcie sie, moje dzieci: Dlaczego zakladam nowa religie oparta na <BLANK>",
    "x": false
   },
   {
@@ -5047,46 +5047,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I find your lack of faith in my presentation disturbing, so here's my next point..."
+     "signpost": "Widze, ze brakuje ci wiary w moja prezentacje, wiec oto moj nastepny punkt..."
     },
     {
      "position": "middle",
-     "signpost": "I may not be able to make the Kessel run in twelve parsecs, but I DO have some interesting \"fun facts\"..."
+     "signpost": "Moze nie potrafie pokonac trasy Kessel w dwanascie parsekow, ale MAM kilka interesujacych \"fan faktow\""
     },
     {
      "position": "end",
-     "signpost": "Fear leads to anger. Anger leads to hate. Hate leads to suffering. Anyway, it's important to have properly cited sources, like this..."
+     "signpost": "Strach prowadzi do gniewu. Gniew prowadzi do nienawisci. Nienawisc prowadzi do cierpienia. Tak czy inaczej, wazne jest, aby miec poprawnie cytowane zrodla, takie jak..."
     },
     {
      "position": "end",
-     "signpost": "May the Force be with you, always, or at least until I read you this footnote..."
+     "signpost": "Niech Moc bedzie z toba, zawsze, a przynajmniej dopoki nie przeczytam ci tego przypisu..."
     },
     {
      "position": "end",
-     "signpost": "*R2D2 Noise*\nThat's right, R2, I SHOULD tell them about where they can find my research..."
+     "signpost": "*Dzwieki R2D2*\nMasz racje, R2, POWINIENEM im powiedziec, gdzie moga znalezc moje badania..."
     },
     {
      "position": "end",
-     "signpost": "Search your feelings, and you'll know this is true..."
+     "signpost": "Szukaj w swoich uczuciach, a poznasz, ze to prawda..."
     },
     {
      "position": "middle",
-     "signpost": "Here's a metaphorical Sarlacc Pit you'll want to avoid falling in..."
+     "signpost": "Oto metaforyczna jama Sarlacca, w ktora nie chcesz wpasc..."
     },
     {
      "position": "middle",
-     "signpost": "You will never find a more wretched hive of statistics and evidence than this..."
+     "signpost": "Nigdy nie znajdziesz bardziej plugawych skupisk statystyk i dowodow niz to..."
     },
     {
      "position": "middle",
-     "signpost": "These are not the facts you're looking for..."
+     "signpost": "To nie sa fakty, ktorych szukasz..."
     },
     {
      "position": "end",
-     "signpost": "Luke and Leia kissing is as wrong as this enduring problem..."
+     "signpost": "Luke i Leia calujacy sie to tak samo zle, jak ten niekonczacy sie problem..."
     }
    ],
-   "title": "A Presentation About <BLANK> Peppered with Quotes From Star Wars To Keep Your Attention",
+   "title": "Prezentacja o <BLANK>, wzbogacona cytatami ze Star Wars, zeby utrzymac wasza uwage",
    "x": false
   },
   {
@@ -5100,46 +5100,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Let's talk about that other team for a minute..."
+     "signpost": "Porozmawiajmy chwile o tej drugiej druzynie..."
     },
     {
      "position": "middle",
-     "signpost": "Back when I played football, my coach gave me a little advice..."
+     "signpost": "Kiedy gralem w futbol, moj trener dal mi pewna rade...""
     },
     {
      "position": "middle",
-     "signpost": "Sure... we made a LOT of crazy mistakes in the first half. For instance...."
+     "signpost": "Jasne... popelnilismy WIELE szalonych bledow w pierwszej polowie. Na przyklad..."
     },
     {
      "position": "end",
-     "signpost": "I've been practicing this inspirational speech all year!"
+     "signpost": "cwiczylem te inspirujaca przemowe przez caly rok!"
     },
     {
      "position": "end",
-     "signpost": "If we do somehow win this game, here's my solemn promise to you..."
+     "signpost": "Jesli jakims cudem wygramy ten mecz, oto moja uroczysta obietnica..."
     },
     {
      "position": "end",
-     "signpost": "On second thought, there's no way we can win. So, here's my escape plan..."
+     "signpost": "Z drugiej strony, nie mamy szans na wygrana. Wiec oto moj plan ucieczki..."
     },
     {
      "position": "middle",
-     "signpost": "Remember, our team has a secret weapon..."
+     "signpost": "Pamietajcie, nasza druzyna ma tajna bron..."
     },
     {
      "position": "end",
-     "signpost": "Just remember our team's motto..."
+     "signpost": "Po prostu pamietajcie o naszej druzynowej maksymie..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what you need to know about the opposing team's MVP..."
+     "signpost": ""Oto, co musisz wiedziec o MVP druzyny przeciwnej..."
     },
     {
      "position": "end",
-     "signpost": "After we win, this is how we're gonna celebrate..."
+     "signpost": "Gdy wygramy, oto jak bedziemy swietowac..."
     }
    ],
-   "title": "We can come back and win this football game in the second half if we follow my crazy plan to <BLANK>",
+   "title": "Mozemy wrocic i wygrac ten mecz w drugiej polowie, jesli wykonamy moj szalony plan na <BLANK>",
    "x": false
   },
   {
@@ -5152,46 +5152,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "We apologize for the following inconvenience..."
+     "signpost": "Przepraszamy za nastepujaca niedogodnosc..."
     },
     {
      "position": "middle",
-     "signpost": "To bypass the delay, take this alternate travel method..."
+     "signpost": "Aby ominac opoznienie, skorzystaj z tej alternatywnej metody podrozy..."
     },
     {
      "position": "middle",
-     "signpost": "Normally this isn't supposed to happen, but this precaution failed..."
+     "signpost": "Zazwyczaj to nie powinno sie zdarzyc, ale ten srodek zapobiegawczy zawiodl..."
     },
     {
      "position": "end",
-     "signpost": "Thank you for enduring this..."
+     "signpost": "Dziekujemy za cierpliwosc..."
     },
     {
      "position": "end",
-     "signpost": "Please prepare yourself for sudden movements the usual way..."
+     "signpost": "Prosimy, przygotuj sie na nagle ruchy w standardowy sposob..."
     },
     {
      "position": "middle",
-     "signpost": "Here are some interesting facts to distract you from this delay..."
+     "signpost": "Oto kilka ciekawych faktow, ktore odwroca twoja uwage od tego opoznienia..."
     },
     {
      "position": "middle",
-     "signpost": "To apologize, the train line will be offering the following services..."
+     "signpost": "Aby to zrekompensowac, linia kolejowa oferuje nastepujace uslugi..."
     },
     {
      "position": "middle",
-     "signpost": "We are calling on all passengers to do the following..."
+     "signpost": "Zwracamy sie do wszystkich pasazerow, aby wykonali nastepujace kroki..."
     },
     {
      "position": "end",
-     "signpost": "If necessary, you may utilize any of the following alternative travel options..."
+     "signpost": "W razie potrzeby, mozesz skorzystac z jednej z nastepujacych opcji podrozy..."
     },
     {
      "position": "end",
-     "signpost": "Oh no! There's something in the tunnel! It's a..."
+     "signpost": "O nie! Cos jest w tunelu! To..."
     }
    ],
-   "title": "Attention, Passengers: There Is A Major Train Delay Due To <BLANK>",
+   "title": "Uwaga pasazerowie: Nastapilo duze opoznienie pociagu z powodu <BLANK>",
    "x": false
   },
   {
@@ -5204,46 +5204,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I'd like to direct you to this image of my emotional journey..."
+     "signpost": "Chcialbym skierowac twoja uwage na ten obraz mojej emocjonalnej podrozy..."
     },
     {
      "position": "middle",
-     "signpost": "If I may, I'd like to identify the source of this behavior..."
+     "signpost": "Jesli moge, chcialbym wskazac zrodlo tego zachowania..."
     },
     {
      "position": "end",
-     "signpost": "This could be a sign of a completely different issue, such as..."
+     "signpost": "To moze byc oznaka zupelnie innego problemu, na przyklad..."
     },
     {
      "position": "end",
-     "signpost": "I continue talk about this with a friend, family member, or..."
+     "signpost": "Ciagle o tym rozmawiam z przyjacielem, czlonkiem rodziny lub..."
     },
     {
      "position": "end",
-     "signpost": "I seem to be exhibiting a textbook case of..."
+     "signpost": "Wydaje mi sie, ze przejawiam klasyczny przypadek..."
     },
     {
      "position": "middle",
-     "signpost": "Of course, this next issue stems from my childhood..."
+     "signpost": "Oczywiscie, ten nastepny problem wynika z mojego dziecinstwa..."
     },
     {
      "position": "middle",
-     "signpost": "Here is a hurtful habit that's holding me back..."
+     "signpost": "Oto szkodliwy nawyk, ktory mnie powstrzymuje..."
     },
     {
      "position": "middle",
-     "signpost": "This is a useful emotional exercise..."
+     "signpost": "To przydatne cwiczenie emocjonalne..."
     },
     {
      "position": "end",
-     "signpost": "I'm almost out of time, so please consider this..."
+     "signpost": "Konczy mi sie czas, wiec prosze, rozwaz to..."
     },
     {
      "position": "end",
-     "signpost": "Ultimately, I find this image helps me..."
+     "signpost": "Ostatecznie uwazam, ze ten obraz pomaga mi..."
     }
    ],
-   "title": "As My Therapist Said, I Really Have To Stop <BLANK>",
+   "title": "Jak powiedzial moj terapeuta, naprawde musze przestac <BLANK>",
    "x": true
   },
   {
@@ -5255,7 +5255,7 @@
     "Eating Healthy"
    ],
    "signposts": [],
-   "title": "I'm Just Two Kids Stacked In A Trench Coat But I Know A Lot About <BLANK>",
+   "title": "Jestem po prostu dwojka dzieci ustawionych w plaszczu, ale wiem duzo o <BLANK>",
    "x": false
   },
   {
@@ -5268,58 +5268,58 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Oh, you think this is a game?! Here's what's at stake..."
+     "signpost": "Och, myslisz, ze to zabawa?! Oto co jest na szali..."
     },
     {
      "position": "middle",
-     "signpost": "Here's a fact that will wipe that smirk right off your face..."
+     "signpost": "Oto fakt, ktory natychmiast zetrze ten usmieszek z twojej twarzy..."
     },
     {
      "position": "middle",
-     "signpost": "When I was your age I also thought it was \"cool\" to..."
+     "signpost": "Kiedy bylem w twoim wieku, tez myslalem, ze jest \"cool\" aby..."
     },
     {
      "position": "middle",
-     "signpost": "I used to be like you, and I paid the price..."
+     "signpost": "Tez kiedys bylem taki jak ty i zaplacilem za to wysoka cene..."
     },
     {
      "position": "end",
-     "signpost": "You can do better! This could be you..."
+     "signpost": "Mozesz zrobic to lepiej! To mogles byc ty..."
     },
     {
      "position": "end",
-     "signpost": "Think twice before you make a mistake like this..."
+     "signpost": "Pomysl dwa razy, zanim popelnisz taki blad..."
     },
     {
      "position": "end",
-     "signpost": "You can't spell \"Responsibility\" without..."
+     "signpost": "Nie mozna napisac \"Odpowiedzialnosc\" bez..."
     },
     {
      "position": "middle",
-     "signpost": "Here's what happened to someone who went down this road..."
+     "signpost": "Oto co stalo sie z kims, kto poszedl ta sciezka..."
     },
     {
      "position": "middle",
-     "signpost": "When you're young, life seems like this..."
+     "signpost": "Kiedy jestes mlody, zycie wydaje sie takie..."
     },
     {
      "position": "end",
-     "signpost": "If you don't get your act together, here's where you'll end up..."
+     "signpost": "Jesli sie nie ogarniesz, oto gdzie skonczysz..."
     },
     {
      "position": "end",
-     "signpost": "You could have a bright future ahead of you, like this..."
+     "signpost": "Mozesz miec swietlana przyszlosc przed soba, jesli zrobisz to..."
     },
     {
      "position": "end",
-     "signpost": "What you're doing isn't cool. This is cool..."
+     "signpost": "To, co robisz, nie jest fajne. To jest fajne..."
     },
     {
      "position": "end",
-     "signpost": "Next time I see you, I expect this..."
+     "signpost": "Nastepnym razem, gdy cie zobacze, oczekuje tego..."
     }
    ],
-   "title": "Listen Up You Teen Punks, I'm Here To Scare You Out Of Ever <BLANK>",
+   "title": "Sluchajcie, wy mlodziezowi punki, przyszedlem was przestraszyc, zebyscie nigdy nie <BLANK>",
    "x": true
   },
   {
@@ -5332,66 +5332,66 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Every wizard needs this enchanted artifact..."
+     "signpost": "Kazdy czarodziej potrzebuje tego zaczarowanego artefaktu..."
     },
     {
      "position": "middle",
-     "signpost": "This magic spell will be on the test..."
+     "signpost": "To zaklecie pojawi sie na tescie..."
     },
     {
      "position": "middle",
-     "signpost": "Students must join one of these magical houses..."
+     "signpost": "Studenci musza dolaczyc do jednego z tych magicznych domow..."
     },
     {
      "position": "end",
-     "signpost": "But beware! A supernatural peril lurks in these halls of learning!"
+     "signpost": "Ale uwazaj! W tych murach czyha nadprzyrodzone niebezpieczenstwo!"
     },
     {
      "position": "end",
-     "signpost": "I shall now incant the words of power..."
+     "signpost": "Teraz wypowiem slowa mocy..."
     },
     {
      "position": "end",
-     "signpost": "If you are the Chosen One destined to defeat the Dark Lord, I have some advice for you..."
+     "signpost": "Jesli jestes Wybrancem przeznaczonym do pokonania Mrocznego Wladcy, mam dla ciebie kilka rad..."
     },
     {
      "position": "middle",
-     "signpost": "What \"is\" magic anyway? The answer may surprise you..."
+     "signpost": "Czym wlasciwie jest magia? Odpowiedz moze cie zaskoczyc..."
     },
     {
      "position": "middle",
-     "signpost": "Here's a common misconception about our fantastical world..."
+     "signpost": "Oto powszechne nieporozumienie dotyczace naszego fantastycznego swiata..."
     },
     {
      "position": "middle",
-     "signpost": "TRY not to murder anyone with magic, but if you do..."
+     "signpost": "STARAJ sie nikogo nie zamordowac magia, ale jesli to zrobisz..."
     },
     {
      "position": "middle",
-     "signpost": "This is the mystical source of all magic..."
+     "signpost": "Oto mistyczne zrodlo calej magii..."
     },
     {
      "position": "middle",
-     "signpost": "You will likely encounter this magical creature..."
+     "signpost": "Prawdopodobnie spotkasz to magiczne stworzenie..."
     },
     {
      "position": "middle",
-     "signpost": "Try out for the school team and play this magical sport..."
+     "signpost": "Zapisz sie do druzyny szkolnej i graj w ten magiczny sport..."
     },
     {
      "position": "end",
-     "signpost": "If you need to call the Wizard Police, here's what you have to do..."
+     "signpost": "Jesli musisz wezwac Magiczna Policje, oto co musisz zrobic..."
     },
     {
      "position": "end",
-     "signpost": "Pay close heed to this prophecy..."
+     "signpost": "Zwroc szczegolna uwage na te przepowiednie..."
     },
     {
      "position": "end",
-     "signpost": "You will be kicked out of school if you do the following..."
+     "signpost": "Zostaniesz wyrzucony ze szkoly, jesli zrobisz to..."
     }
    ],
-   "title": "Welcome To The School of Wizardry! The Most Important Rule of Magic is <BLANK>",
+   "title": "Witamy w szkole magii! Najwazniejsza zasada czarow to <BLANK>",
    "x": false
   },
   {
@@ -5404,58 +5404,58 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "The reason I did it was..."
+     "signpost": "Powod, dla ktorego to zrobilem, to..."
     },
     {
      "position": "end",
-     "signpost": "I'm so so sorry, but I also did this..."
+     "signpost": "Jest mi naprawde, naprawde przykro, ale zrobilem tez to..."
     },
     {
      "position": "end",
-     "signpost": "If you can't forgive me, then I'm going to run away to..."
+     "signpost": "Jesli mi nie wybaczysz, uciekne do..."
     },
     {
      "position": "end",
-     "signpost": "Now would be a good time to admit that it was also me who..."
+     "signpost": "Teraz bylby dobry moment, aby przyznac, ze to tez ja zrobilem..."
     },
     {
      "position": "middle",
-     "signpost": "I didn't do it alone. I had help..."
+     "signpost": "Nie zrobilem tego sam. Mialem pomoc..."
     },
     {
      "position": "middle",
-     "signpost": "I will accept any punishment, including..."
+     "signpost": "Przyjme kazda kare, w tym..."
     },
     {
      "position": "middle",
-     "signpost": "This is how I knew I had to confess..."
+     "signpost": "Oto jak zrozumialem, ze musze sie przyznac..."
     },
     {
      "position": "middle",
-     "signpost": "Here's how I carried out my despicable misdeed..."
+     "signpost": "Oto jak dokonalem mojego haniebnego czynu..."
     },
     {
      "position": "middle",
-     "signpost": "Here's why my actions were so bad..."
+     "signpost": "Oto dlaczego moje dzialania byly tak zle..."
     },
     {
      "position": "end",
-     "signpost": "I do have an idea of how to make it all better..."
+     "signpost": "Mam pomysl, jak to wszystko naprawic..."
     },
     {
      "position": "end",
-     "signpost": "I will now banish myself to the only place for sinners like me..."
+     "signpost": "Teraz sam siebie wygnam do jedynego miejsca dla takich jak ja..."
     },
     {
      "position": "end",
-     "signpost": "I have already started to make amends by doing this..."
+     "signpost": "Juz zaczalem naprawiac swoje bledy, robiac to..."
     },
     {
      "position": "end",
-     "signpost": "According to tradition, the punishment for this is..."
+     "signpost": "Wedlug tradycji kara za to jest..."
     }
    ],
-   "title": "I Seek Forgiveness: It Was I Who <BLANK>",
+   "title": "Szukam przebaczenia: To ja, kto <BLANK>",
    "x": false
   },
   {
@@ -5469,38 +5469,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This is where I have to live..."
+     "signpost": "Tutaj musze zyc..."
     },
     {
      "position": "end",
-     "signpost": "But in many ways I'm just like everyone else. For instance..."
+     "signpost": "Ale pod wieloma wzgledami jestem taki sam jak wszyscy inni. Na przyklad..."
     },
     {
      "position": "middle",
-     "signpost": "But how am I emotionally? Well, I'm half..."
+     "signpost": "A jak sie czuje emocjonalnie? Coz, jestem w polowie.."
     },
     {
      "position": "middle",
-     "signpost": "Do I have a special hobby? It is in this next slide..."
+     "signpost": "Czy mam jakies specjalne hobby? Oto ono na kolejnym slajdzie..."
     },
     {
      "position": "middle",
-     "signpost": "It's easy for most people, but I struggle to do this..."
+     "signpost": "Dla wiekszosci ludzi to latwe, ale ja mam problem z tym..."
     },
     {
      "position": "end",
-     "signpost": "If I could change one thing, though, it would be this..."
+     "signpost": "Gdybym mogl zmienic jedna rzecz, byloby to..."
     },
     {
      "position": "end",
-     "signpost": "I may only be 50% human, but I'm 100% this..."
+     "signpost": "Moze mam tylko 50% ludzkiej krwi, ale jestem w 100% tym..."
     },
     {
      "position": "end",
-     "signpost": "Rejected by two worlds, I created a new place for myself..."
+     "signpost": "Odrzucony przez dwa swiaty, stworzylem dla siebie nowe miejsce...."
     }
    ],
-   "title": "It’s Not Easy Being Half Human, Half <BLANK>",
+   "title": "To nie jest latwe byc pol czlowiekiem, pol <BLANK>",
    "x": true
   },
   {
@@ -5513,42 +5513,42 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "In this next picture it's super easy to spot..."
+     "signpost": "Na tym nastepnym obrazku jest to super latwe do znalezienia..."
     },
     {
      "position": "end",
-     "signpost": "This final picture actually includes five hidden examples..."
+     "signpost": "Ten ostatni obrazek zawiera w sobie az piec ukrytych przykladow..."
     },
     {
      "position": "middle",
-     "signpost": "This next picture has a tricky one... but it's there..."
+     "signpost": "Ten nastepny obrazek ma podstepna zagadke... ale jest tam..."
     },
     {
      "position": "middle",
-     "signpost": "Once you spot this, you can't unsee it..."
+     "signpost": "Gdy raz to zobaczysz, juz nie bedziesz w stanie tego odwidziec"
     },
     {
      "position": "middle",
-     "signpost": "Prepare to be shocked when you see this..."
+     "signpost": "Przygotuj sie na szok, gdy to zobaczysz..."
     },
     {
      "position": "end",
-     "signpost": "It's not just in pictures. Look around the room you're in, and be shocked..."
+     "signpost": "To nie tylko na obrazkach. Rozejrzyj sie po pokoju, w ktorym jestes, i zdziw sie..."
     },
     {
      "position": "end",
-     "signpost": "The lesson here is that there's a little bit of this in all of us..."
+     "signpost": "Lekcja jest taka, ze kazdy z nas ma w sobie odrobine tego..."
     },
     {
      "position": "end",
-     "signpost": "What is the deeper meaning of this? It's pretty simple..."
+     "signpost": "Jaki jest glebszy sens tego? To calkiem proste..."
     },
     {
      "position": "middle",
-     "signpost": "But why, you may ask, is this happening?"
+     "signpost": "Ale dlaczego, mozesz zapytac, to sie dzieje?"
     }
    ],
-   "title": "There's a <BLANK> hidden in each of these pictures",
+   "title": "W kazdej z tych ilustracji ukryto <BLANK>",
    "x": false
   },
   {
@@ -5559,7 +5559,7 @@
     "Grapes"
    ],
    "signposts": [],
-   "title": "I Never Knew Love Until I Found <BLANK>",
+   "title": "Nigdy nie znalem milosci, dopoki nie znalazlem <BLANK>",
    "x": false
   },
   {
@@ -5570,7 +5570,7 @@
     "Dryer Lint"
    ],
    "signposts": [],
-   "title": "“They” Say It’s Bad for You, But I Love <BLANK>",
+   "title": "„Oni” mowia, ze to niezdrowe, ale ja kocham <BLANK>",
    "x": false
   },
   {
@@ -5583,54 +5583,54 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This next picture makes me extremely angry..."
+     "signpost": "Ten nastepny obrazek strasznie mnie zlosci..."
     },
     {
      "position": "end",
-     "signpost": "In my expert opinion, this last picture is the greatest thing I've ever seen..."
+     "signpost": "W mojej eksperckiej opinii, ten ostatni obrazek to najlepsza rzecz, jaka kiedykolwiek widzialem..."
     },
     {
      "position": "middle",
-     "signpost": "Sometimes a picture reduces you to tears..."
+     "signpost": "Czasami obrazek potrafi doprowadzic cie do lez..."
     },
     {
      "position": "end",
-     "signpost": "The only way to discuss this last picture is with the voice of a tiny child. To be clear, I'm going to talk like a little baby."
+     "signpost": "Jedynym sposobem, by omowic ten ostatni obrazek, jest mowienie glosem malego dziecka. Dla jasnosci, teraz bede mowic jak male niemowle."
     },
     {
      "position": "middle",
-     "signpost": "The untrained eye would never spot this next detail..."
+     "signpost": "Niedoswiadczone oko nigdy nie dostrzeze tego nastepnego szczegolu..."
     },
     {
      "position": "middle",
-     "signpost": "This is a textbook example of a problem my profession encounters all the time..."
+     "signpost": "To podrecznikowy przyklad problemu, z jakim w moim zawodzie spotykamy sie caly czas..."
     },
     {
      "position": "middle",
-     "signpost": "When I saw this next picture, it disproved something I had believed for years..."
+     "signpost": "Gdy zobaczylem ten nastepny obrazek, obalil on cos, w co wierzylem przez lata..."
     },
     {
      "position": "end",
-     "signpost": "Is it too much to say all of human culture led to this next picture? See for yourself."
+     "signpost": "Czy to przesada powiedziec, ze cala ludzka kultura doprowadzila do tego obrazka? Sam zobacz..."
     },
     {
      "position": "end",
-     "signpost": "I'm not just an expert...I'm an artist. This next picture is mine."
+     "signpost": "Nie jestem tylko ekspertem... jestem artysta. Ten nastepny obrazek to moj wlasny..."
     },
     {
      "position": "end",
-     "signpost": "This final picture is why I'm retiring, effective immediately..."
+     "signpost": "Ten ostatni obrazek to powod, dla ktorego wlasnie przechodze na emeryture..."
     },
     {
      "position": "end",
-     "signpost": "I have nothing but praise for this final example..."
+     "signpost": "Nie mam nic poza pochwalami dla tego ostatniego przykladu..."
     },
     {
      "position": "end",
-     "signpost": "This final picture is the worst thing I've ever seen..."
+     "signpost": "Ten ostatni obrazek to najgorsza rzecz, jaka kiedykolwiek widzialem..."
     }
    ],
-   "title": "I will critique the following pictures from my perspective as an expert <BLANK>",
+   "title": "Skomentuje teraz te obrazy z perspektywy eksperta od <BLANK>",
    "x": false
   },
   {
@@ -5643,46 +5643,46 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "I have one superpower perfect for the situation..."
+     "signpost": "Mam jedna supermoc, ktora jest idealna na te sytuacje..."
     },
     {
      "position": "middle",
-     "signpost": "This handy dandy gadget on my utility belt is just what we need..."
+     "signpost": "Ten sprytny gadzet na moim pasie narzedziowym jest dokladnie tym, czego potrzebujemy..."
     },
     {
      "position": "middle",
-     "signpost": "I would help, but my one weakness leaves me powerless..."
+     "signpost": "Chcialbym pomoc, ale moja jedyna slabosc mnie unieruchamia..."
     },
     {
      "position": "end",
-     "signpost": "If things go wrong, here's my backup plan..."
+     "signpost": "Jesli cos pojdzie nie tak, oto moj plan awaryjny..."
     },
     {
      "position": "end",
-     "signpost": "The mayor is counting on us to do one thing..."
+     "signpost": "Burmistrz liczy na nas, ze zrobimy jedna rzecz..."
     },
     {
      "position": "end",
-     "signpost": "Don't forget the newest recruit on our superhero team..."
+     "signpost": "Nie zapomnijmy o najnowszym rekrucie naszej druzyny superbohaterow..."
     },
     {
      "position": "middle",
-     "signpost": "Let me remind you what will happen if we don't save the day..."
+     "signpost": "Pozwolcie, ze przypomne wam, co sie stanie, jesli nie uratujemy dnia..."
     },
     {
      "position": "middle",
-     "signpost": "We've discovered what their evil plan is..."
+     "signpost": "Odkrylismy, na czym polega ich zlowieszczy plan..."
     },
     {
      "position": "middle",
-     "signpost": "Remember the reason we formed this superhero squad..."
+     "signpost": "Pamietajmy, dlaczego stworzylismy te druzyne superbohaterow..."
     },
     {
      "position": "end",
-     "signpost": "If we lose, we have one last trick up our sleeve..."
+     "signpost": "Jesli przegramy, mamy jeszcze jeden as w rekawie..."
     }
    ],
-   "title": "Fellow Superheroes, Here's What We Must Do To Defeat <BLANK>",
+   "title": "Drodzy superbohaterowie, oto co musimy zrobic, by pokonac <BLANK>",
    "x": false
   },
   {
@@ -5695,34 +5695,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "We're pretty embarrassed we didn't catch this mistake before blastoff..."
+     "signpost": "Jestesmy naprawde zawstydzeni, ze nie zauwazylismy tego bledu przed startem rakiety..."
     },
     {
      "position": "middle",
-     "signpost": "You're not gonna like it, but you won't survive unless you do this..."
+     "signpost": "Nie spodoba ci sie to, ale nie przezyjesz, jesli tego nie zrobisz..."
     },
     {
      "position": "middle",
-     "signpost": "Don't worry, your ship is equipped with this emergency device..."
+     "signpost": "Nie martw sie, twoj statek jest wyposazony w to urzadzenie awaryjne..."
     },
     {
      "position": "middle",
-     "signpost": "We've discovered what's causing the problem in your spaceship..."
+     "signpost": "Odkrylismy, co powoduje problem w twoim statku kosmicznym..."
     },
     {
      "position": "end",
-     "signpost": "Here's what you can expect after landing..."
+     "signpost": "Oto czego mozesz sie spodziewac po ladowaniu..."
     },
     {
      "position": "end",
-     "signpost": "Don't panic, but here's what will happen if you fail..."
+     "signpost": "Nie panikuj, ale oto co sie stanie, jesli zawiedziesz..."
     },
     {
      "position": "end",
-     "signpost": "Remember two things: Don't breathe too much, and this..."
+     "signpost": "Zapamietaj dwie rzeczy: nie oddychaj za duzo i to..."
     }
    ],
-   "title": "Come In Apollo 13, This Is Houston. To Fix Your Broken Spaceship, You Must <BLANK>",
+   "title": "Apollo 13, tu Houston. Aby naprawic wasz uszkodzony statek kosmiczny, musicie <BLANK>",
    "x": false
   },
   {
@@ -5735,50 +5735,50 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "But wait, it gets better..."
+     "signpost": "Ale czekaj, bedzie jeszcze lepiej..."
     },
     {
      "position": "end",
-     "signpost": "Now, I'll sing the all-new jingle..."
+     "signpost": "Teraz zaspiewam zupelnie nowy jingiel..."
     },
     {
      "position": "middle",
-     "signpost": "Look, I'm not really a doctor, but if I were, I'd say..."
+     "signpost": "Sluchaj, nie jestem naprawde lekarzem, ale gdybym byl, powiedzialbym..."
     },
     {
      "position": "middle",
-     "signpost": "Let me tell you about my own personal relationship with this brand..."
+     "signpost": "Pozwol, ze opowiem ci o mojej osobistej relacji z ta marka..."
     },
     {
      "position": "middle",
-     "signpost": "I'm not just a paid spokesperson, this also affects me personally..."
+     "signpost": "Nie jestem tylko oplaconym rzecznikiem, to takze osobiscie mnie dotyczy..."
     },
     {
      "position": "middle",
-     "signpost": "Here's the inspirational story behind this brand..."
+     "signpost": "Oto inspirujaca historia stojaca za ta marka..."
     },
     {
      "position": "middle",
-     "signpost": "This is the solution to a major problem everyone has..."
+     "signpost": "To rozwiazanie duzego problemu, ktory ma kazdy..."
     },
     {
      "position": "end",
-     "signpost": "Don't forget the all-new slogan..."
+     "signpost": "Nie zapomnij o zupelnie nowym hasle reklamowym..."
     },
     {
      "position": "end",
-     "signpost": "Here's another thing I would also be willing to sell out for..."
+     "signpost": "Oto kolejna rzecz, dla ktorej bylbym sklonny sie sprzedac..."
     },
     {
      "position": "end",
-     "signpost": "Instead of money, here's how they paid me to say all this..."
+     "signpost": "Zamiast pieniedzy, oto jak zaplacili mi za powiedzenie tego wszystkiego..."
     },
     {
      "position": "end",
-     "signpost": "Before I go, I'm legally required to tell you this safety warning..."
+     "signpost": "Zanim skoncze, jestem prawnie zobowiazany do podania tego ostrzezenia o bezpieczenstwie..."
     }
    ],
-   "title": "My entire speech is a paid advertisement for <BLANK>",
+   "title": "Cala moja przemowa to oplacona reklama <BLANK>",
    "x": false
   },
   {
@@ -5791,38 +5791,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "To you, they bequeathed this valued possession..."
+     "signpost": "Dla ciebie pozostawili to cenne dziedzictwo..."
     },
     {
      "position": "middle",
-     "signpost": "There are some terms and conditions before you can receive your inheritance..."
+     "signpost": "Zanim otrzymasz spadek, musisz spelnic pewne warunki..."
     },
     {
      "position": "middle",
-     "signpost": "This next clause is bizarre, but completely legal...."
+     "signpost": "To nastepne postanowienie testamentu jest dziwne, ale calkowicie legalne..."
     },
     {
      "position": "end",
-     "signpost": "Surprise! They're not actually dead. They faked their death, to find out one thing..."
+     "signpost": "Niespodzianka! Tak naprawde nie umarli. Sfalszowali swoja smierc, aby dowiedziec sie jednej rzeczy..."
     },
     {
      "position": "end",
-     "signpost": "And now, I present to you the prized jewel of the estate..."
+     "signpost": "A teraz przedstawiam ci najcenniejszy klejnot tego majatku..."
     },
     {
      "position": "end",
-     "signpost": "The bulk of their fortune was left to someone unexpected..."
+     "signpost": "Wiekszosc ich fortuny zostala przekazana komus zupelnie niespodziewanemu..."
     },
     {
      "position": "end",
-     "signpost": "The deceased wanted me to pass on this final message to all of you..."
+     "signpost": "Zmarly chcial, abym przekazal wam te ostatnia wiadomosc..."
     },
     {
      "position": "middle",
-     "signpost": "The deceased will be donating the following item to a local charity..."
+     "signpost": "Zmarly przekazuje ten przedmiot na cele charytatywne..."
     }
    ],
-   "title": "I Shall Now Read The Last Will And Testament Of <BLANK>",
+   "title": "Teraz odczytam ostatnia wole i testament <BLANK>",
    "x": true
   },
   {
@@ -5835,38 +5835,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This is a fixer upper, but look at this charming feature..."
+     "signpost": "To miejsce wymaga remontu, ale spojrz na ten uroczy detal..."
     },
     {
      "position": "middle",
-     "signpost": "This is an impressive amenity..."
+     "signpost": "To naprawde imponujace udogodnienie..."
     },
     {
      "position": "middle",
-     "signpost": "Location, location, location! You'll be just steps away from this..."
+     "signpost": "Lokalizacja, lokalizacja, lokalizacja! Znajdziesz sie zaledwie kilka krokow od tego..."
     },
     {
      "position": "middle",
-     "signpost": "This property has a pretty interesting history..."
+     "signpost": "Ta nieruchomosc ma dosc ciekawa historie..."
     },
     {
      "position": "end",
-     "signpost": "The property is already furnished with one of these..."
+     "signpost": "Dom jest juz umeblowany i zawiera miedzy innymi to...""
     },
     {
      "position": "end",
-     "signpost": "Before you sign, there's one last thing you should know..."
+     "signpost": "Zanim podpiszesz umowe, jest jeszcze jedna rzecz, ktora musisz wiedziec..."
     },
     {
      "position": "end",
-     "signpost": "Don't worry, this won't be here when you move in..."
+     "signpost": "Nie martw sie, to nie bedzie tu, gdy sie wprowadzisz..."
     },
     {
      "position": "end",
-     "signpost": "You're likely wondering what happened to the last owner..."
+     "signpost": "Pewnie zastanawiasz sie, co stalo sie z poprzednim wlascicielem..."
     }
    ],
-   "title": "Hello, I'm Your Real Estate Agent And I'm Here To Give You A Tour Of <BLANK>",
+   "title": "Czesc, jestem waszym agentem nieruchomosci i oto oprowadze was po <BLANK>",
    "x": false
   },
   {
@@ -5879,34 +5879,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "This is one of the finest pieces in our collection..."
+     "signpost": "To jeden z najwspanialszych eksponatow w naszej kolekcji..."
     },
     {
      "position": "middle",
-     "signpost": "This next piece is incredibly valuable, and it is obvious why..."
+     "signpost": "Ten nastepny eksponat jest niesamowicie cenny i to oczywiste dlaczego..."
     },
     {
      "position": "middle",
-     "signpost": "Look but don't touch, because this next item is extremely dangerous..."
+     "signpost": "Patrz, ale nie dotykaj, poniewaz ten eksponat jest niezwykle niebezpieczny..."
     },
     {
      "position": "end",
-     "signpost": "Check out the gift shop, where you can buy this awesome memento..."
+     "signpost": "Zajrzyj do sklepu z pamiatkami, gdzie mozesz kupic te niesamowita pamiatke..."
     },
     {
      "position": "end",
-     "signpost": "Enjoyed your visit? Become a member and you'll get this..."
+     "signpost": "Podobala ci sie wizyta? Zostan czlonkiem i otrzymasz to..."
     },
     {
      "position": "middle",
-     "signpost": "This piece caused a huge controversy when it was first unveiled..."
+     "signpost": "Ten eksponat wywolal ogromna kontrowersje, gdy po raz pierwszy zostal zaprezentowany..."
     },
     {
      "position": "end",
-     "signpost": "You are now passing the museum cafe, where you can enjoy some of this..."
+     "signpost": "Teraz mijasz muzealna kawiarnie, gdzie mozesz skosztowac tego..."
     }
    ],
-   "title": "I Am Your Museum Audio Guide. Let's Tour This Fascinating Exhibit About <BLANK>",
+   "title": "Jestem twoim przewodnikiem w muzeum. Oto fascynujaca wystawa o <BLANK>",
    "x": false
   },
   {
@@ -5919,38 +5919,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "It all started off like any other day..."
+     "signpost": "Wszystko zaczelo sie jak kazdy inny dzien..."
     },
     {
      "position": "middle",
-     "signpost": "Then my eccentric next door neighbor made a mess of things with this..."
+     "signpost": "A potem moj ekscentryczny sasiad narobil balaganu, uzywajac tego..."
     },
     {
      "position": "middle",
-     "signpost": "I tried a crazy scheme that only made things worse..."
+     "signpost": "Sprobowalem szalonego planu, ktory tylko pogorszyl sytuacje..."
     },
     {
      "position": "end",
-     "signpost": "Ultimately, I also learned an important life lesson..."
+     "signpost": "Ostatecznie nauczylem sie jednak waznej lekcji zyciowej..."
     },
     {
      "position": "end",
-     "signpost": "The episode ended with a massive cliffhanger..."
+     "signpost": "Odcinek zakonczyl sie wielkim cliffhangerem..."
     },
     {
      "position": "end",
-     "signpost": "Just when all seemed lost, something unexpected saved the day..."
+     "signpost": "Kiedy wszystko wydawalo sie stracone, cos niespodziewanego uratowalo sytuacje..."
     },
     {
      "position": "end",
-     "signpost": "Turns out the answer was in my pocket the whole time..."
+     "signpost": "Okazalo sie, ze odpowiedz byla w mojej kieszeni przez caly czas..."
     },
     {
      "position": "middle",
-     "signpost": "I have a zany job. Here's where I work..."
+     "signpost": "Mam zwariowana prace. Oto gdzie pracuje..."
     }
    ],
-   "title": "I'm A Sitcom Character, And I'll Explain How I Got Into This Wacky Situation Where I'm <BLANK>",
+   "title": "Jestem postacia z sitcomu i zaraz wyjasnie, jak wpakowalem sie w te absurdalna sytuacje zwiazana z <BLANK>",
    "x": false
   },
   {
@@ -5963,38 +5963,38 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "My elves are hard at work building this..."
+     "signpost": "Moje elfy ciezko pracuja, budujac to..."
     },
     {
      "position": "middle",
-     "signpost": "Instead of a sleigh, here's how I'm traveling..."
+     "signpost": "Zamiast san, oto jak podrozuje w tym roku..."
     },
     {
      "position": "end",
-     "signpost": "Was it all a dream? After you wake up, this will be next to your bed to prove it really happened..."
+     "signpost": "Czy to wszystko bylo tylko snem? Gdy sie obudzisz, to bedzie obok twojego lozka, aby udowodnic, ze to wydarzylo sie naprawde..."
     },
     {
      "position": "end",
-     "signpost": "Holiday magic can only happen if you believe in this..."
+     "signpost": "swiateczna magia moze sie wydarzyc tylko wtedy, gdy wierzysz w to..."
     },
     {
      "position": "middle",
-     "signpost": "Imagine waking up to a stocking full of THIS..."
+     "signpost": "Wyobraz sobie, ze budzisz sie i znajdujesz skarpete wypelniona TYM..."
     },
     {
      "position": "end",
-     "signpost": "There's only one way to stay on my 'good list' this year..."
+     "signpost": "Jest tylko jeden sposob, aby pozostac na mojej liscie grzecznych dzieci w tym roku..."
     },
     {
      "position": "middle",
-     "signpost": "Instead of going by naughty or nice, here's how I'm judging kids..."
+     "signpost": "Zamiast oceniac dzieci jako grzeczne lub niegrzeczne, oto jak ich osadzam..."
     },
     {
      "position": "end",
-     "signpost": "So you better watch out, because I'm coming to your house with this..."
+     "signpost": "Wiec lepiej uwazaj, bo przychodze do twojego domu z tym..."
     }
    ],
-   "title": "Ho Ho Ho, I'm Santa Claus, And This Year I'm Doing Things Differently By <BLANK>",
+   "title": "Ho ho ho, jestem Swietym Mikolajem i w tym roku robie wszystko inaczej dzieki <BLANK>",
    "x": false
   }
  ]
