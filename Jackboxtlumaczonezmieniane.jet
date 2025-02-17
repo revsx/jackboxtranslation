@@ -2638,11 +2638,11 @@
     },
     {
      "position": "end",
-     "signpost": "Musze was ostrzec, jest jedna rzecz, ktora sprawi, ze wyzwe was na pojedynek rewolwerowy w samo poludnie..."
+     "signpost": "Szczęśliwych szlaków, przyjaciele, i zapamiętajcie tę małą mądrość..."
     },
     {
      "position": "middle",
-     "signpost": "Dlaczego to jest tak przerazajace?"
+     "signpost": "Muszę was ostrzec, jest jedna rzecz, która sprawi, że wyzwę was na pojedynek rewolwerowy w samo południe..."
     }
    ],
    "title": "Czesc. Jestem kowbojem, ktory przyszedl tu, zeby powiedziec ci o <BLANK>",
@@ -2801,15 +2801,15 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Oto kilka sposobow na stawienie czola naszym lekom..."
+     "signpost": "Dlaczego to jest takie przerazajace?"
     },
     {
      "position": "end",
-     "signpost": "Aaaa! Przepraszam, wlasnie pomyslalem o tym..."
+     "signpost": "Oto kilka sposobow na stawienie czola naszym lekom..."
     },
     {
      "position": "middle",
-     "signpost": "Skad wziela sie ta groza?"
+     "signpost": "Aaaa! Przepraszam, właśnie pomyślałem o tym..."
     },
     {
      "position": "middle",
@@ -2829,7 +2829,7 @@
     },
     {
      "position": "end",
-     "signpost": "Wyobraz sobie te kluczowa scene..."
+     "signpost": "Najlepszym sposobem na bycie odwaznym jest..."
     }
    ],
    "title": "Mamy tylko jedna rzecz do obawiania sie: <BLANK>",
@@ -3088,6 +3088,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Wyobraź sobie tę kluczową scenę..."
+    },
+    {
+     "position": "end",
      "signpost": "Co prowadzi do ekscytujacego finalu!"
     },
     {
@@ -3095,7 +3099,7 @@
      "signpost": "Jesli zainwestujesz w moj film dzis, oto co dostaniesz..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Mowili, ze ta nastepna scena bylaby zbyt droga, ale..."
     },
     {
@@ -3107,7 +3111,7 @@
      "signpost": "Ten kolejny zwrot akcji jest dosc oklepany, ale po prostu dziala..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jesli podobala ci sie ta prezentacja, pokochasz moj inny scenariusz o..."
     },
     {
@@ -3116,11 +3120,7 @@
     },
     {
      "position": "end",
-     "signpost": "Mam takze pomysl na prequel filmu..."
-    },
-    {
-     "position": "end",
-     "signpost": "Co je ten rekin?"
+     "signpost": "Mam takze pomysl na prequel filmu...""
     }
    ],
    "title": "Hollywood boi sie nakrecic moj film o <BLANK>",
@@ -3136,18 +3136,22 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Co je ten rekin?"
+    },
+    {
+     "position": "end",
      "signpost": "Jaka jest twoja emocjonalna tratwa ratunkowa?"
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Wyobraz sobie, ze to cie atakuje pod woda..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "O nie! Bedziemy potrzebowac wiekszego..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Ale kim sa clownfish? Odpowiedz moze cie zaskoczyc..."
     },
     {
@@ -3159,7 +3163,7 @@
      "signpost": "Ten rekin cie nie zje. Zrobi cos jeszcze gorszego..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Skonczyly mi sie metafory, wiec to kolejne zdjecie pochodzi z moich wakacji..."
     },
     {
@@ -3171,12 +3175,8 @@
      "signpost": "Jesli chcesz przeplynac ocean zycia, musisz zrobic to..."
     },
     {
-     "position": "end",
-     "signpost": "Nie uciekniesz przed rekinem, ale mozesz..."
-    },
-    {
      "position": "middle",
-     "signpost": "To dziwne uczucie, ktore masz, moze byc spowodowane tym..."
+     "signpost": "Nie uciekniesz przed rekinem, ale mozesz..."
     }
    ],
    "title": "Zycie to ocean, a <BLANK> to rekin",
@@ -3280,10 +3280,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Jak mozemy pokonac te bestie?"
+     "signpost": "To dziwne uczucie, które masz, może być spowodowane tym..."
     },
     {
      "position": "end",
+     "signpost": "Jak mozemy pokonac te bestie?"
+    },
+    {
+     "position": "middle",
      "signpost": "Nawet ogien nie moze tego zniszczyc..."
     },
     {
@@ -3295,7 +3299,7 @@
      "signpost": "To wyglada pieknie, ale oto prawdziwe zagrozenie..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jestesmy winni ogromne przeprosiny temu, co kiedys uwazalismy za potwora..."
     },
     {
@@ -3309,10 +3313,6 @@
     {
      "position": "end",
      "signpost": "Dzis nauczylismy sie waznej lekcji o ocenianiu ksiazki po okladce..."
-    },
-    {
-     "position": "end",
-     "signpost": "Strzez sie, bo wladam wiatrem, falami i..."
     }
    ],
    "title": "Okazuje sie, ze prawdziwym potworem bylo <BLANK> przez caly czas",
@@ -3549,6 +3549,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Strzeż się, bo władam wiatrem, falami i..."
+    },
+    {
+     "position": "middle",
      "signpost": "Glebie oceanu kryja widoki poza twoim ludzkim pojmowaniem, takie jak..."
     },
     {
@@ -3560,7 +3564,7 @@
      "signpost": "Podwodne prawo krolestwa oceanow jest w tej sprawie jasne..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Czy ludzkosc i syreny moga wspolistniec?"
     },
     {
@@ -3572,16 +3576,12 @@
      "signpost": "Jest jeszcze jedno ostatnie pytanie, ktore mam o swiecie na powierzchni..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Ale coz mnie, boga morz, obchodza problemy ladowych ludzi? Masz cos, czego pragne..."
     },
     {
-     "position": "middle",
-     "signpost": "Odejde teraz, pozostawiajac ci jeden ostatni sekret o morzu..."
-    },
-    {
      "position": "end",
-     "signpost": "Moj kodeks honorowy nakazuje mi powiedziec ci to..."
+     "signpost": "Odejde teraz, pozostawiajac ci jeden ostatni sekret o morzu..."
     }
    ],
    "title": "Jestem wladca Atlantydy i mam dla was, ludzie z powierzchni, wazne ostrzezenie: <BLANK>",
@@ -3598,6 +3598,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Moj kodeks honorowy nakazuje mi powiedziec ci to..."
+    },
+    {
+     "position": "middle",
      "signpost": "Wbrew temu, co slyszales, nie jestem potworem. W rzeczywistosci jestem..."
     },
     {
@@ -3609,7 +3613,7 @@
      "signpost": "Dlaczego mialbym spelnic te prosbe?"
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jestes mi winien przysluge, ktora jest..."
     },
     {
@@ -3621,15 +3625,15 @@
      "signpost": "Dobrze, dobrze. Teraz pocaluj moj pierscien i zrob to..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Czy opowiadalem ci juz historie o tym, co stalo sie z ostatnim czlowiekiem, ktory mnie o to zapytal?"
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Odejdz stad i powiedz swoim znajomym oraz rodzinie to..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Oto, czego nie rozumiesz o moim biznesie..."
     },
     {
@@ -3637,16 +3641,12 @@
      "signpost": "Nie jestem byle przestepca, oto jak prowadze swoja dzialalnosc..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Idz do mojego najlepszego egzekutora i powiedz mu to..."
     },
     {
      "position": "end",
      "signpost": "Jest takie stare powiedzenie, zasada, ktora kieruja sie wszyscy mafiosi..."
-    },
-    {
-     "position": "end",
-     "signpost": "\"
     }
    ],
    "title": "Jestem poteznym bossem mafii i jako przysluge poprosiles mnie o <BLANK>",
@@ -3662,30 +3662,34 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "\"
+     "signpost": "\"W świetle porannego świtu ujrzałem osobliwy widok...\""
     },
     {
      "position": "middle",
-     "signpost": "\"
+     "signpost": "\"Dlaczego mam zatroskane czoło? Opowiem ci o mych troskach...\""
     },
     {
      "position": "middle",
-     "signpost": "\"
+     "signpost": "\"Moja miłość jest głęboka i czysta, co oddaje ten następny obraz...\""
     },
     {
      "position": "end",
-     "signpost": "\"
+     "signpost": "\"Mój los został przypieczętowany, historia, której nie da się cofnąć...\""
     },
     {
      "position": "end",
-     "signpost": "\"
+     "signpost": "\"Żegnajcie, przyjaciele, nadszedł czas rozstania. Ale na zawsze zachowam was w sercu...\""
     },
     {
      "position": "end",
-     "signpost": "\"
+     "signpost": "\"Pośród ponurego mroku szepczę te słowa w moim zaciemnionym pokoju...\""
     },
     {
      "position": "middle",
+     "signpost": "\"Jest jedna rzecz, którą trzeba zrozumieć, to fakt o moim dzieciństwie...\""
+    },
+    {
+     "position": "end",
      "signpost": "Jesli ta ostatnia czesc brzmi jak tekst popularnej piosenki, to czysty przypadek"
     },
     {
@@ -3693,16 +3697,12 @@
      "signpost": "Teraz przerwe rym i uloze krotkie haiku..."
     },
     {
-     "position": "end",
-     "signpost": "\"
-    },
-    {
      "position": "middle",
-     "signpost": "\"
+     "signpost": "\"To była potężna myśl, która wypełniła moją duszę emocją...\""
     },
     {
      "position": "end",
-     "signpost": "Nie lekcewaz mnie, bo nie jestes gotowy na moj NASTePNY plan..."
+     "signpost": "\"Teraz wreszcie widzę, głęboką prawdę o ludzkości...\""
     }
    ],
    "title": "Przeczytam teraz moj wiersz o milosci, stracie i <BLANK>",
@@ -3752,6 +3752,10 @@
    "signposts": [
     {
      "position": "end",
+     "signpost": "Nie lekceważ mnie, bo nie jesteś gotowy na mój NASTĘPNY plan..."
+    },
+    {
+     "position": "middle",
      "signpost": "Cholera! Najgorsze bylo, gdy..."
     },
     {
@@ -3763,7 +3767,7 @@
      "signpost": "Przekleci niech beda! Jak mam sie teraz podniesc po tej najwiekszej hanbie..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Glupcem bylem, ale wciaz wierzylem w swoj zly plan, gdy zobaczylem, ze..."
     },
     {
@@ -3771,7 +3775,7 @@
      "signpost": "To tylko chwilowa porazka przed moim zlowrogim triumfem!"
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Powinienem byl wiedziec, ze nie mozna powierzyc tego planu mojemu nieudolnemu poplecznikowi..."
     },
     {
@@ -3783,12 +3787,8 @@
      "signpost": "O nie, moja super tajna bron jest w ruinie!"
     },
     {
-     "position": "middle",
-     "signpost": "Mozliwe, ze wygrales te runde, ale wroce! I nastepnym razem..."
-    },
-    {
      "position": "end",
-     "signpost": "Glowa do gory, mistrzu. Wiem cos, co poprawi ci humor..."
+     "signpost": "Mozliwe, ze wygrales te runde, ale wroce! I nastepnym razem..."
     }
    ],
    "title": "Cholera! Moj nikczemny plan zostal pokrzyzowany i to wszystko przez <BLANK>",
@@ -3826,6 +3826,10 @@
    "signposts": [
     {
      "position": "end",
+     "signpost": "Glowa do gory, mistrzu. Wiem cos, co poprawi ci humor..."
+    },
+    {
+     "position": "middle",
      "signpost": "Bedziesz musial byc odwazny, kumplu, bo..."
     },
     {
@@ -3833,28 +3837,24 @@
      "signpost": "W porzadku jest plakac w tym momencie..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Pamietaj o dwoch rzeczach. 1. Kochamy cie, i 2. ...."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Czy twoje codzienne zycie sie zmieni? Tak, i oto jak..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ta rodzina sobie poradzi, i oto dlaczego..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Przedstawilismy decyzje twoim dziadkom i powiedzieli..."
     },
     {
-     "position": "middle",
-     "signpost": "Kiedy bedziesz dorosly, zrozumiesz te ostatnia czesc..."
-    },
-    {
      "position": "end",
-     "signpost": "Czy to kiedykolwiek ci sie przydarzylo?"
+     "signpost": "Kiedy bedziesz dorosly, zrozumiesz te ostatnia czesc..."
     }
    ],
    "title": "Oto dlaczego twoja mama i ja jestesmy <BLANK>",
@@ -4058,6 +4058,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Czy to kiedykolwiek ci się przydarzyło?"
+    },
+    {
+     "position": "middle",
      "signpost": "Musi byc lepszy sposob!"
     },
     {
@@ -4069,7 +4073,7 @@
      "signpost": "Kiedys bylo to takie trudne i frustrujace..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Po prostu policz do jednego... i gotowe!"
     },
     {
@@ -4085,24 +4089,20 @@
      "signpost": "Wyciagnij swoja karte kredytowa i wykonaj nastepujace kroki..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Co zainspirowalo wynalezienie tego? To bardzo zyciowa historia..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ale czekaj! Jesli zamowisz w ciagu nastepnych pieciu minut, dostaniesz takze..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Wszystko to jest poparte przez bardzo znana gwiazde..."
     },
     {
-     "position": "middle",
-     "signpost": "Potrzebujesz czegos mocniejszego? Mozesz kupic nasza profesjonalna wersje..."
-    },
-    {
      "position": "end",
-     "signpost": "Tak, jestem na skraju lez. Oto dlaczego..."
+     "signpost": "Potrzebujesz czegos mocniejszego? Mozesz kupic nasza profesjonalna wersje..."
     }
    ],
    "title": "Ten niesamowity, zmieniajacy zycie <BLANK> moze byc twoj za jedyne 4 raty po 39,95$",
@@ -4229,6 +4229,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Tak, jestem na skraju łez. Oto dlaczego..."
+    },
+    {
+     "position": "end",
      "signpost": "Na zakonczenie, oto irlandzkie blogoslawienstwo, ktore idealnie pasuje do tej chwili..."
     },
     {
@@ -4236,7 +4240,7 @@
      "signpost": "O, przy okazji, DJ odwolal wystep, ale mamy cos innego na wesele..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Dlaczego tak dlugo milczalem na ten temat? Oto powod..."
     },
     {
@@ -4252,16 +4256,12 @@
      "signpost": "Zamiast miec dzieci, powinniscie zrobic to..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Zanim mnie wyrzucicie, mam jeszcze jedno do powiedzenia..."
     },
     {
      "position": "end",
      "signpost": "Jesli chcecie, aby ten zwiazek dzialal, posluchajcie mojej rady..."
-    },
-    {
-     "position": "end",
-     "signpost": "Oczywiscie, wszystko to zostalo wprawione w ruch sto lat temu..."
     }
    ],
    "title": "Toast za szczesliwa pare! Ale musze tez powiedziec cos o <BLANK>",
@@ -4343,14 +4343,18 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Ale oto, dlaczego mowie ci o tym wlasnie teraz..."
+     "signpost": "Oczywiście, wszystko to zostało wprawione w ruch sto lat temu.."
     },
     {
      "position": "end",
-     "signpost": "Jak koszyk nowonarodzonych kotkow sie w to wpisuje? Dobre pytanie..."
+     "signpost": "Ale oto, dlaczego mowie ci o tym wlasnie teraz..."
     },
     {
      "position": "middle",
+     "signpost": "Jak koszyk nowonarodzonych kotkow sie w to wpisuje? Dobre pytanie..."
+    },
+    {
+     "position": "end",
      "signpost": "Wiec pozniej, gdy zapadnie martwa cisza i naprawde posluchasz... uslyszysz to..."
     },
     {
@@ -4370,16 +4374,12 @@
      "signpost": "Eek! Co to byl za dzwiek? Czy to moze byc ta rzecz, ktora zaraz ci pokaze?"
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Dawno temu wydarzylo sie tu cos strasznego..."
     },
     {
      "position": "middle",
      "signpost": "Niektorzy twierdza, ze to tylko legenda, ale jak inaczej wyjasnisz to..."
-    },
-    {
-     "position": "middle",
-     "signpost": "Winna osoba znajduje sie w tym pokoju!"
     }
    ],
    "title": "Usiadzcie przy ognisku i przygotujcie sie na przerazajaca opowiesc o <BLANK>",
@@ -4417,6 +4417,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Winna osoba znajduje się w tym pokoju!"
+    },
+    {
+     "position": "middle",
      "signpost": "Oto najwiekszy trop, ktory znalazlem..."
     },
     {
@@ -4424,7 +4428,7 @@
      "signpost": "Pewnie zastanawiacie sie, dlaczego was tu wszystkich zgromadzilem..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Podstepna zagadka z diabolicznym rozwiazaniem..."
     },
     {
@@ -4436,11 +4440,11 @@
      "signpost": "Z perspektywy czasu wydaje sie to oczywiste..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Nie moglbym rozwiazac tej sprawy bez pomocy mojego zaufanego pomocnika..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jest tylko jedna kara odpowiednia za ten nikczemny czyn..."
     },
     {
@@ -4452,12 +4456,8 @@
      "signpost": "Ach, ale przestepca nosi sprytny kamuflaz..."
     },
     {
-     "position": "end",
-     "signpost": "Kto by pomyslal, ze klucz do tej zagadki byl przed nami przez caly czas..."
-    },
-    {
      "position": "middle",
-     "signpost": "Wiele istnien stracilo zycie, aby dostarczyc ci te informacje..."
+     "signpost": "Kto by pomyslal, ze klucz do tej zagadki byl przed nami przez caly czas..."
     }
    ],
    "title": "Po przeanalizowaniu wskazowek rozwiazalem zagadke... <BLANK>",
@@ -4474,6 +4474,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Wiele istnien stracilo zycie, aby dostarczyc ci te informacje..."
+    },
+    {
+     "position": "middle",
      "signpost": "Nasz agent przechwycil scisle tajna wiadomosc..."
     },
     {
@@ -4481,11 +4485,11 @@
      "signpost": "Oto, jak nasi tajni agenci odkryli ten nikczemny spisek..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Musimy odpowiedziec jedyna rzecza, ktora wrog rozumie..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "To, co zaraz zobaczysz, nigdy nie moze opuscic tego pomieszczenia."
     },
     {
@@ -4493,16 +4497,12 @@
      "signpost": "Pozwol, ze przedstawie ci naszego podwojnego agenta..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Twoja misja, jesli zdecydujesz sie ja przyjac, polega na..."
     },
     {
      "position": "end",
-     "signpost": "Wiem, ze mozemy wygrac, poniewaz mamy..."
-    },
-    {
-     "position": "end",
-     "signpost": "Oto przystanek w podrozy, ktory wolalbym ominac..."
+     "signpost": Wiem, ze mozemy wygrac, poniewaz mamy..."
     }
    ],
    "title": "Mam raport od naszych szpiegow! Plan wroga to <BLANK>",
@@ -4519,6 +4519,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Oto przystanek w podrozy, ktory wolalbym ominac..."
+    },
+    {
+     "position": "middle",
      "signpost": "Uniknalem turystycznych pulapek i znalazlem ten ukryty skarb..."
     },
     {
@@ -4526,7 +4530,7 @@
      "signpost": "Byl jeden szczegolnie interesujacy pomnik, ktory zobaczylem..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Oto, co mam zaplanowane na moje nastepne wakacje..."
     },
     {
@@ -4538,15 +4542,15 @@
      "signpost": "Zanim tam pojedziesz, mam dla ciebie jedna rade..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Zrobienie tego nastepnego zdjecia nie bylo latwe..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Gdybym wrocil, jest jedna rzecz, ktorej na pewno bym nie powtorzyl..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Kupilem te niesamowita pamiatke..."
     },
     {
@@ -4554,12 +4558,8 @@
      "signpost": "Oto jeden ze slynnych zabytkow, ktore odwiedzilem..."
     },
     {
-     "position": "middle",
-     "signpost": "Wrocilem juz do domu, ale oto, jak ta podroz na zawsze mnie zmienila..."
-    },
-    {
      "position": "end",
-     "signpost": "Jestem teraz tak przerazony, i oto dlaczego..."
+     "signpost": "Wrocilem juz do domu, ale oto, jak ta podroz na zawsze mnie zmienila..."
     }
    ],
    "title": "Bylem na niesamowitych wakacjach w <BLANK> i oto moje zdjecia z podrozy",
@@ -4630,6 +4630,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Jestem teraz tak przerażony, i oto dlaczego..."
+    },
+    {
+     "position": "middle",
      "signpost": "Oto, co zaraz sie ze mna stanie..."
     },
     {
@@ -4637,20 +4641,16 @@
      "signpost": "Pozwol, ze pokaze ci, jak bardzo zle to wyglada..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "zaluje, ze nie mam przy sobie mojego zaufanego oreza, ktorym jest..."
     },
     {
      "position": "end",
-     "signpost": "AAAAAAAAHHHHHHHHHH!"
+     "signpost": "AAAAAAAAHHHHHHHHHH!
     },
     {
      "position": "end",
      "signpost": "O nie! O nie! O nie! Nie zauwazylem, ze to tez tu jest!"
-    },
-    {
-     "position": "end",
-     "signpost": "Pierwszy akt jest naprawde szokujacy, poniewaz..."
     }
    ],
    "title": "Aaaaaah! Pomocy! W pokoju jest <BLANK>!!!",
@@ -4666,10 +4666,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Nawet Szekspir nie przewidzial takiego zakonczenia..."
+     "signpost": "Pierwszy akt jest naprawde szokujacy, poniewaz..."
     },
     {
      "position": "end",
+     "signpost": "Nawet Szekspir nie przewidzial takiego zakonczenia..."
+    },
+    {
+     "position": "middle",
      "signpost": "Ta nastepna scena sprawila, ze sie rozplakalem..."
     },
     {
@@ -4677,16 +4681,12 @@
      "signpost": "Nie moge sie doczekac, az poznasz moja ulubiona postac..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ta sztuka ma nie tylko dramat, akcje, komedie i tragedie, ale takze..."
     },
     {
      "position": "end",
      "signpost": "Szczegolnie podobal mi sie ten zwrot akcji tuz przed przerwa..."
-    },
-    {
-     "position": "end",
-     "signpost": "Teraz nadszedl czas, aby porozmawiac o incydencie w pokoju socjalnym..."
     }
    ],
    "title": "To nie jest jego najlepsza praca, ale wiecej ludzi powinno znac sztuke Szekspira „<BLANK>”",
@@ -4746,6 +4746,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Teraz nadszedł czas, aby porozmawiać o incydencie w pokoju socjalnym..."
+    },
+    {
+     "position": "middle",
      "signpost": "Przynosze nowa wizje dla tej firmy, wizje, ktora NIE OBEJMUJE..."
     },
     {
@@ -4753,7 +4757,7 @@
      "signpost": "Oczywiscie nasz byly CEO nadal otrzyma swoj pakiet odprawowy w wysokosci..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Chce, aby kazdy pracownik czul sie komfortowo, rozmawiajac ze mna o wszystkim, nawet..."
     },
     {
@@ -4765,28 +4769,24 @@
      "signpost": "Czas przypomniec sobie nasze firmowe haslo..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Nie jestem typowym prezesem, oto jak sie roznie..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Przeprowadzilismy ankiete wsrod spoleczenstwa na temat naszej firmy i oto, czego od nas oczekuja..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Mozemy odwrocic sytuacje, sprzedajac ten nowy produkt..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Z przyjemnoscia oglaszam, ze wszyscy pracownicy otrzymaja jako bonus..."
     },
     {
      "position": "end",
      "signpost": "Oto oficjalne oswiadczenie, ktore nasz dzial PR przekazuje mediom..."
-    },
-    {
-     "position": "end",
-     "signpost": "Oto kilka rzeczy, ktore moglem powiedziec zamiast tego..."
     }
    ],
    "title": "Jako nowy CEO tej firmy, nie powtorze bledu mojego poprzednika zwiazanego z <BLANK>",
@@ -4803,6 +4803,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Oto kilka rzeczy, ktore moglem powiedziec zamiast tego..."
+    },
+    {
+     "position": "middle",
      "signpost": "Moj dzien mial sie od tego momentu tylko pogorszyc..."
     },
     {
@@ -4814,7 +4818,7 @@
      "signpost": "Zaskakujaco, wsparcie otrzymalem od niespodziewanej osoby..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "To wszystko mialo ogromny wplyw na moja kariere..."
     },
     {
@@ -4828,10 +4832,6 @@
     {
      "position": "end",
      "signpost": "To wszystko doprowadzilo do..."
-    },
-    {
-     "position": "end",
-     "signpost": "A oto jeszcze jedna mala rzecz..."
     }
    ],
    "title": "Oto co sie stalo, gdy wrzasnalem \"<BLANK>\" na mojego szefa",
@@ -4847,6 +4847,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "A oto jeszcze jedna mala rzecz..."
+    },
+    {
+     "position": "middle",
      "signpost": "Hau hau hau, i jeszcze cos..."
     },
     {
@@ -4854,7 +4858,7 @@
      "signpost": "Teraz wlasnie tlumaczylem to lokalnemu mopsowi. Czy wiesz, ze..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Hau hau! Dziekuje."
     },
     {
@@ -4866,11 +4870,11 @@
      "signpost": "Czy dobrze sie spisalem? Czy dostane smakolyk? SMAKOlYK?"
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Koty sa najgorsze i nigdy nie bylyby w stanie wyjasnic tej nastepnej rzeczy..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Auuuuuuuuu, naprawde powinienes rozwazyc te nastepna rzecz..."
     },
     {
@@ -4878,12 +4882,8 @@
      "signpost": "Podsumowujac, oto dlaczego zasluguje na smakolyk..."
     },
     {
-     "position": "end",
-     "signpost": "Przejde do nastepnego punktu, chyba ze jest pilka? PIlKA? PIlKA?"
-    },
-    {
      "position": "middle",
-     "signpost": "Widze, ze jestes zazdrosny i oto dlaczego..."
+     "signpost": "Przejde do nastepnego punktu, chyba ze jest pilka? PIlKA? PIlKA?"
     }
    ],
    "title": "Jestem niesamowity w robieniu \"psiego glosu\", wiec wlasnie tak wyjasnie ci <BLANK>",
@@ -4899,14 +4899,18 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Jestem lepszy od ciebie... i od ciebie... a nawet od..."
+     "signpost": "Widze, ze jestes zazdrosny i oto dlaczego..."
     },
     {
      "position": "middle",
-     "signpost": "Teraz chcialbym wam wszystkim powiedziec, dlaczego jestescie beznadziejni..."
+     "signpost": "Jestem lepszy od ciebie... i od ciebie... a nawet od..."
     },
     {
      "position": "end",
+     "signpost": "Teraz chcialbym wam wszystkim powiedziec, dlaczego jestescie beznadziejni..."
+    },
+    {
+     "position": "middle",
      "signpost": "Ale jak stalem sie tak niesamowity?"
     },
     {
@@ -4918,7 +4922,7 @@
      "signpost": "To normalne, ze czujesz zazdrosc, gdy widzisz to..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jest tylko jedna rzecz, w ktorej nie jestem najlepszy..."
     },
     {
@@ -4932,10 +4936,6 @@
     {
      "position": "end",
      "signpost": "Mam jeszcze jedna wiadomosc dla wszystkich moich hejterow..."
-    },
-    {
-     "position": "end",
-     "signpost": "Mam osobista historie zwiazana z tym nastepnym obrazem..."
     }
    ],
    "title": "Jestem lepszy od was wszystkich, bo mam <BLANK>",
@@ -4951,14 +4951,18 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Mam osobista historie zwiazana z tym nastepnym obrazem...""
+    },
+    {
+     "position": "end",
      "signpost": "Mysle, ze wszyscy wiele nauczylismy sie o mnie, zwlaszcza tego..."
     },
     {
      "position": "end",
-     "signpost": "Potraktuj ten nastepny punkt jako \"
+     "signpost": "Potraktuj ten nastepny punkt jako \\"line drive\" do mojego wniosku"
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "W ogole nie jestem wykwalifikowany, aby mowic o tej nastepnej rzeczy..."
     },
     {
@@ -4974,7 +4978,7 @@
      "signpost": "Tak naprawde wiem sporo o tej rzeczy, poniewaz jest ona istotna takze w softballu..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Prosze powiedzcie administracji szkoly, ze naprawde dobrze mi poszla ta ostatnia czesc..."
     },
     {
@@ -4988,10 +4992,6 @@
     {
      "position": "end",
      "signpost": "To duzo do zapamietania, wiec oto jedna rzecz, ktora musisz znac na test..."
-    },
-    {
-     "position": "end",
-     "signpost": "To jest lepsze niz moja poprzednia religia, poniewaz..."
     }
    ],
    "title": "Jestem trenerem druzyny softballowej, ale szkola kaze mi uczyc was o <BLANK>",
@@ -5007,10 +5007,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Jesli do mnie dolaczysz, moge obiecac ci to..."
+     "signpost": "To jest lepsze niz moja poprzednia religia, poniewaz..."
     },
     {
      "position": "end",
+     "signpost": "Jesli do mnie dolaczysz, moge obiecac ci to..."
+    },
+    {
+     "position": "middle",
      "signpost": "Oto, co bedziemy czcic..."
     },
     {
@@ -5018,7 +5022,7 @@
      "signpost": "Prawda zostala mi objawiona w tej boskiej wizji..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ale uwazaj na tego falszywego proroka..."
     },
     {
@@ -5026,12 +5030,8 @@
      "signpost": "Chwila, wlasnie teraz otrzymuje kolejne swiete objawienie..."
     },
     {
-     "position": "end",
-     "signpost": "Oto nasze najwazniejsze przykazanie..."
-    },
-    {
      "position": "middle",
-     "signpost": "Widze, ze brakuje ci wiary w moja prezentacje, wiec oto moj nastepny punkt..."
+     "signpost": "Oto nasze najwazniejsze przykazanie..."
     }
    ],
    "title": "Zbierzcie sie, moje dzieci: Dlaczego zakladam nowa religie oparta na <BLANK>",
@@ -5047,10 +5047,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Moze nie potrafie pokonac trasy Kessel w dwanascie parsekow, ale MAM kilka interesujacych \"
+     "signpost": "Widze, ze brakuje ci wiary w moja prezentacje, wiec oto moj nastepny punkt..."
     },
     {
      "position": "middle",
+     "signpost": "Moze nie potrafie pokonac trasy Kessel w dwanascie parsekow, ale MAM kilka interesujacych \"fan faktow\""
+    },
+    {
+     "position": "end",
      "signpost": "Strach prowadzi do gniewu. Gniew prowadzi do nienawisci. Nienawisc prowadzi do cierpienia. Tak czy inaczej, wazne jest, aby miec poprawnie cytowane zrodla, takie jak..."
     },
     {
@@ -5066,7 +5070,7 @@
      "signpost": "Szukaj w swoich uczuciach, a poznasz, ze to prawda..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Oto metaforyczna jama Sarlacca, w ktora nie chcesz wpasc..."
     },
     {
@@ -5078,12 +5082,8 @@
      "signpost": "To nie sa fakty, ktorych szukasz..."
     },
     {
-     "position": "middle",
-     "signpost": "Luke i Leia calujacy sie to tak samo zle, jak ten niekonczacy sie problem..."
-    },
-    {
      "position": "end",
-     "signpost": "Porozmawiajmy chwile o tej drugiej druzynie..."
+     "signpost": "Luke i Leia calujacy sie to tak samo zle, jak ten niekonczacy sie problem..."
     }
    ],
    "title": "Prezentacja o <BLANK>, wzbogacona cytatami ze Star Wars, zeby utrzymac wasza uwage",
@@ -5100,14 +5100,18 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Kiedy gralem w futbol, moj trener dal mi pewna rade..."
+     "signpost": "Porozmawiajmy chwile o tej drugiej druzynie..."
+    },
+    {
+     "position": "middle",
+     "signpost": "Kiedy gralem w futbol, moj trener dal mi pewna rade...""
     },
     {
      "position": "middle",
      "signpost": "Jasne... popelnilismy WIELE szalonych bledow w pierwszej polowie. Na przyklad..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "cwiczylem te inspirujaca przemowe przez caly rok!"
     },
     {
@@ -5119,24 +5123,20 @@
      "signpost": "Z drugiej strony, nie mamy szans na wygrana. Wiec oto moj plan ucieczki..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Pamietajcie, nasza druzyna ma tajna bron..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Po prostu pamietajcie o naszej druzynowej maksymie..."
     },
     {
-     "position": "end",
-     "signpost": "Oto, co musisz wiedziec o MVP druzyny przeciwnej..."
-    },
-    {
      "position": "middle",
-     "signpost": "Gdy wygramy, oto jak bedziemy swietowac..."
+     "signpost": ""Oto, co musisz wiedziec o MVP druzyny przeciwnej..."
     },
     {
      "position": "end",
-     "signpost": "Przepraszamy za nastepujaca niedogodnosc..."
+     "signpost": "Gdy wygramy, oto jak bedziemy swietowac..."
     }
    ],
    "title": "Mozemy wrocic i wygrac ten mecz w drugiej polowie, jesli wykonamy moj szalony plan na <BLANK>",
@@ -5152,6 +5152,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Przepraszamy za nastepujaca niedogodnosc..."
+    },
+    {
+     "position": "middle",
      "signpost": "Aby ominac opoznienie, skorzystaj z tej alternatywnej metody podrozy..."
     },
     {
@@ -5159,7 +5163,7 @@
      "signpost": "Zazwyczaj to nie powinno sie zdarzyc, ale ten srodek zapobiegawczy zawiodl..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Dziekujemy za cierpliwosc..."
     },
     {
@@ -5167,7 +5171,7 @@
      "signpost": "Prosimy, przygotuj sie na nagle ruchy w standardowy sposob..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Oto kilka ciekawych faktow, ktore odwroca twoja uwage od tego opoznienia..."
     },
     {
@@ -5179,16 +5183,12 @@
      "signpost": "Zwracamy sie do wszystkich pasazerow, aby wykonali nastepujace kroki..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "W razie potrzeby, mozesz skorzystac z jednej z nastepujacych opcji podrozy..."
     },
     {
      "position": "end",
      "signpost": "O nie! Cos jest w tunelu! To..."
-    },
-    {
-     "position": "end",
-     "signpost": "Chcialbym skierowac twoja uwage na ten obraz mojej emocjonalnej podrozy..."
     }
    ],
    "title": "Uwaga pasazerowie: Nastapilo duze opoznienie pociagu z powodu <BLANK>",
@@ -5204,10 +5204,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Jesli moge, chcialbym wskazac zrodlo tego zachowania..."
+     "signpost": "Chcialbym skierowac twoja uwage na ten obraz mojej emocjonalnej podrozy..."
     },
     {
      "position": "middle",
+     "signpost": "Jesli moge, chcialbym wskazac zrodlo tego zachowania..."
+    },
+    {
+     "position": "end",
      "signpost": "To moze byc oznaka zupelnie innego problemu, na przyklad..."
     },
     {
@@ -5219,7 +5223,7 @@
      "signpost": "Wydaje mi sie, ze przejawiam klasyczny przypadek..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Oczywiscie, ten nastepny problem wynika z mojego dziecinstwa..."
     },
     {
@@ -5231,16 +5235,12 @@
      "signpost": "To przydatne cwiczenie emocjonalne..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Konczy mi sie czas, wiec prosze, rozwaz to..."
     },
     {
      "position": "end",
      "signpost": "Ostatecznie uwazam, ze ten obraz pomaga mi..."
-    },
-    {
-     "position": "end",
-     "signpost": "Och, myslisz, ze to zabawa?! Oto co jest na szali..."
     }
    ],
    "title": "Jak powiedzial moj terapeuta, naprawde musze przestac <BLANK>",
@@ -5268,18 +5268,22 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Och, myslisz, ze to zabawa?! Oto co jest na szali..."
+    },
+    {
+     "position": "middle",
      "signpost": "Oto fakt, ktory natychmiast zetrze ten usmieszek z twojej twarzy..."
     },
     {
      "position": "middle",
-     "signpost": "Kiedy bylem w twoim wieku, tez myslalem, ze to jest \"
+     "signpost": "Kiedy bylem w twoim wieku, tez myslalem, ze jest \"cool\" aby..."
     },
     {
      "position": "middle",
      "signpost": "Tez kiedys bylem taki jak ty i zaplacilem za to wysoka cene..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Mozesz zrobic to lepiej! To mogles byc ty..."
     },
     {
@@ -5288,10 +5292,10 @@
     },
     {
      "position": "end",
-     "signpost": "Nie mozna napisac \"
+     "signpost": "Nie mozna napisac \"Odpowiedzialnosc\" bez..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Oto co stalo sie z kims, kto poszedl ta sciezka..."
     },
     {
@@ -5299,7 +5303,7 @@
      "signpost": "Kiedy jestes mlody, zycie wydaje sie takie..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jesli sie nie ogarniesz, oto gdzie skonczysz..."
     },
     {
@@ -5313,10 +5317,6 @@
     {
      "position": "end",
      "signpost": "Nastepnym razem, gdy cie zobacze, oczekuje tego..."
-    },
-    {
-     "position": "end",
-     "signpost": "Kazdy czarodziej potrzebuje tego zaczarowanego artefaktu..."
     }
    ],
    "title": "Sluchajcie, wy mlodziezowi punki, przyszedlem was przestraszyc, zebyscie nigdy nie <BLANK>",
@@ -5332,6 +5332,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Kazdy czarodziej potrzebuje tego zaczarowanego artefaktu..."
+    },
+    {
+     "position": "middle",
      "signpost": "To zaklecie pojawi sie na tescie..."
     },
     {
@@ -5339,7 +5343,7 @@
      "signpost": "Studenci musza dolaczyc do jednego z tych magicznych domow..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ale uwazaj! W tych murach czyha nadprzyrodzone niebezpieczenstwo!"
     },
     {
@@ -5351,7 +5355,7 @@
      "signpost": "Jesli jestes Wybrancem przeznaczonym do pokonania Mrocznego Wladcy, mam dla ciebie kilka rad..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Czym wlasciwie jest magia? Odpowiedz moze cie zaskoczyc..."
     },
     {
@@ -5375,7 +5379,7 @@
      "signpost": "Zapisz sie do druzyny szkolnej i graj w ten magiczny sport..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jesli musisz wezwac Magiczna Policje, oto co musisz zrobic..."
     },
     {
@@ -5385,10 +5389,6 @@
     {
      "position": "end",
      "signpost": "Zostaniesz wyrzucony ze szkoly, jesli zrobisz to..."
-    },
-    {
-     "position": "end",
-     "signpost": "Powod, dla ktorego to zrobilem, to..."
     }
    ],
    "title": "Witamy w szkole magii! Najwazniejsza zasada czarow to <BLANK>",
@@ -5404,6 +5404,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Powod, dla ktorego to zrobilem, to..."
+    },
+    {
+     "position": "end",
      "signpost": "Jest mi naprawde, naprawde przykro, ale zrobilem tez to..."
     },
     {
@@ -5415,7 +5419,7 @@
      "signpost": "Teraz bylby dobry moment, aby przyznac, ze to tez ja zrobilem..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Nie zrobilem tego sam. Mialem pomoc..."
     },
     {
@@ -5435,7 +5439,7 @@
      "signpost": "Oto dlaczego moje dzialania byly tak zle..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Mam pomysl, jak to wszystko naprawic..."
     },
     {
@@ -5449,10 +5453,6 @@
     {
      "position": "end",
      "signpost": "Wedlug tradycji kara za to jest..."
-    },
-    {
-     "position": "end",
-     "signpost": "Tutaj musze zyc..."
     }
    ],
    "title": "Szukam przebaczenia: To ja, kto <BLANK>",
@@ -5469,11 +5469,15 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Ale pod wieloma wzgledami jestem taki sam jak wszyscy inni. Na przyklad..."
+     "signpost": "Tutaj musze zyc..."
     },
     {
      "position": "end",
-     "signpost": "A jak sie czuje emocjonalnie? Coz, jestem w polowie..."
+     "signpost": "Ale pod wieloma wzgledami jestem taki sam jak wszyscy inni. Na przyklad..."
+    },
+    {
+     "position": "middle",
+     "signpost": "A jak sie czuje emocjonalnie? Coz, jestem w polowie.."
     },
     {
      "position": "middle",
@@ -5484,7 +5488,7 @@
      "signpost": "Dla wiekszosci ludzi to latwe, ale ja mam problem z tym..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Gdybym mogl zmienic jedna rzecz, byloby to..."
     },
     {
@@ -5493,11 +5497,7 @@
     },
     {
      "position": "end",
-     "signpost": "Odrzucony przez dwa swiaty, stworzylem dla siebie nowe miejsce..."
-    },
-    {
-     "position": "end",
-     "signpost": "Na tym nastepnym obrazku jest to super latwe do znalezienia..."
+     "signpost": "Odrzucony przez dwa swiaty, stworzylem dla siebie nowe miejsce...."
     }
    ],
    "title": "To nie jest latwe byc pol czlowiekiem, pol <BLANK>",
@@ -5513,22 +5513,26 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Ten ostatni obrazek zawiera w sobie az piec ukrytych przykladow..."
+     "signpost": "Na tym nastepnym obrazku jest to super latwe do znalezienia..."
     },
     {
      "position": "end",
+     "signpost": "Ten ostatni obrazek zawiera w sobie az piec ukrytych przykladow..."
+    },
+    {
+     "position": "middle",
      "signpost": "Ten nastepny obrazek ma podstepna zagadke... ale jest tam..."
     },
     {
      "position": "middle",
-     "signpost": "Gdy raz to zobaczysz, juz nie bedziesz w stanie tego \"
+     "signpost": "Gdy raz to zobaczysz, juz nie bedziesz w stanie tego odwidziec"
     },
     {
      "position": "middle",
      "signpost": "Przygotuj sie na szok, gdy to zobaczysz..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "To nie tylko na obrazkach. Rozejrzyj sie po pokoju, w ktorym jestes, i zdziw sie..."
     },
     {
@@ -5540,12 +5544,8 @@
      "signpost": "Jaki jest glebszy sens tego? To calkiem proste..."
     },
     {
-     "position": "end",
-     "signpost": "Ale dlaczego, mozesz zapytac, to sie dzieje?"
-    },
-    {
      "position": "middle",
-     "signpost": "Ten nastepny obrazek strasznie mnie zlosci..."
+     "signpost": "Ale dlaczego, mozesz zapytac, to sie dzieje?"
     }
    ],
    "title": "W kazdej z tych ilustracji ukryto <BLANK>",
@@ -5583,18 +5583,22 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Ten nastepny obrazek strasznie mnie zlosci..."
+    },
+    {
+     "position": "end",
      "signpost": "W mojej eksperckiej opinii, ten ostatni obrazek to najlepsza rzecz, jaka kiedykolwiek widzialem..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Czasami obrazek potrafi doprowadzic cie do lez..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jedynym sposobem, by omowic ten ostatni obrazek, jest mowienie glosem malego dziecka. Dla jasnosci, teraz bede mowic jak male niemowle."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Niedoswiadczone oko nigdy nie dostrzeze tego nastepnego szczegolu..."
     },
     {
@@ -5606,7 +5610,7 @@
      "signpost": "Gdy zobaczylem ten nastepny obrazek, obalil on cos, w co wierzylem przez lata..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Czy to przesada powiedziec, ze cala ludzka kultura doprowadzila do tego obrazka? Sam zobacz..."
     },
     {
@@ -5624,10 +5628,6 @@
     {
      "position": "end",
      "signpost": "Ten ostatni obrazek to najgorsza rzecz, jaka kiedykolwiek widzialem..."
-    },
-    {
-     "position": "end",
-     "signpost": "Mam jedna supermoc, ktora jest idealna na te sytuacje..."
     }
    ],
    "title": "Skomentuje teraz te obrazy z perspektywy eksperta od <BLANK>",
@@ -5643,6 +5643,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Mam jedna supermoc, ktora jest idealna na te sytuacje..."
+    },
+    {
+     "position": "middle",
      "signpost": "Ten sprytny gadzet na moim pasie narzedziowym jest dokladnie tym, czego potrzebujemy..."
     },
     {
@@ -5650,7 +5654,7 @@
      "signpost": "Chcialbym pomoc, ale moja jedyna slabosc mnie unieruchamia..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Jesli cos pojdzie nie tak, oto moj plan awaryjny..."
     },
     {
@@ -5662,7 +5666,7 @@
      "signpost": "Nie zapomnijmy o najnowszym rekrucie naszej druzyny superbohaterow..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Pozwolcie, ze przypomne wam, co sie stanie, jesli nie uratujemy dnia..."
     },
     {
@@ -5674,12 +5678,8 @@
      "signpost": "Pamietajmy, dlaczego stworzylismy te druzyne superbohaterow..."
     },
     {
-     "position": "middle",
-     "signpost": "Jesli przegramy, mamy jeszcze jeden as w rekawie..."
-    },
-    {
      "position": "end",
-     "signpost": "Jestesmy naprawde zawstydzeni, ze nie zauwazylismy tego bledu przed startem rakiety..."
+     "signpost": "Jesli przegramy, mamy jeszcze jeden as w rekawie..."
     }
    ],
    "title": "Drodzy superbohaterowie, oto co musimy zrobic, by pokonac <BLANK>",
@@ -5695,6 +5695,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Jestesmy naprawde zawstydzeni, ze nie zauwazylismy tego bledu przed startem rakiety..."
+    },
+    {
+     "position": "middle",
      "signpost": "Nie spodoba ci sie to, ale nie przezyjesz, jesli tego nie zrobisz..."
     },
     {
@@ -5706,7 +5710,7 @@
      "signpost": "Odkrylismy, co powoduje problem w twoim statku kosmicznym..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Oto czego mozesz sie spodziewac po ladowaniu..."
     },
     {
@@ -5716,10 +5720,6 @@
     {
      "position": "end",
      "signpost": "Zapamietaj dwie rzeczy: nie oddychaj za duzo i to..."
-    },
-    {
-     "position": "end",
-     "signpost": "Ale czekaj, bedzie jeszcze lepiej..."
     }
    ],
    "title": "Apollo 13, tu Houston. Aby naprawic wasz uszkodzony statek kosmiczny, musicie <BLANK>",
@@ -5735,10 +5735,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Teraz zaspiewam zupelnie nowy jingiel..."
+     "signpost": "Ale czekaj, bedzie jeszcze lepiej..."
     },
     {
      "position": "end",
+     "signpost": "Teraz zaspiewam zupelnie nowy jingiel..."
+    },
+    {
+     "position": "middle",
      "signpost": "Sluchaj, nie jestem naprawde lekarzem, ale gdybym byl, powiedzialbym..."
     },
     {
@@ -5758,7 +5762,7 @@
      "signpost": "To rozwiazanie duzego problemu, ktory ma kazdy..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Nie zapomnij o zupelnie nowym hasle reklamowym..."
     },
     {
@@ -5772,10 +5776,6 @@
     {
      "position": "end",
      "signpost": "Zanim skoncze, jestem prawnie zobowiazany do podania tego ostrzezenia o bezpieczenstwie..."
-    },
-    {
-     "position": "end",
-     "signpost": "Dla ciebie pozostawili to cenne dziedzictwo..."
     }
    ],
    "title": "Cala moja przemowa to oplacona reklama <BLANK>",
@@ -5791,6 +5791,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Dla ciebie pozostawili to cenne dziedzictwo..."
+    },
+    {
+     "position": "middle",
      "signpost": "Zanim otrzymasz spadek, musisz spelnic pewne warunki..."
     },
     {
@@ -5798,7 +5802,7 @@
      "signpost": "To nastepne postanowienie testamentu jest dziwne, ale calkowicie legalne..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Niespodzianka! Tak naprawde nie umarli. Sfalszowali swoja smierc, aby dowiedziec sie jednej rzeczy..."
     },
     {
@@ -5814,12 +5818,8 @@
      "signpost": "Zmarly chcial, abym przekazal wam te ostatnia wiadomosc..."
     },
     {
-     "position": "end",
-     "signpost": "Zmarly przekazuje ten przedmiot na cele charytatywne..."
-    },
-    {
      "position": "middle",
-     "signpost": "To miejsce wymaga remontu, ale spojrz na ten uroczy detal..."
+     "signpost": "Zmarly przekazuje ten przedmiot na cele charytatywne..."
     }
    ],
    "title": "Teraz odczytam ostatnia wole i testament <BLANK>",
@@ -5835,6 +5835,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "To miejsce wymaga remontu, ale spojrz na ten uroczy detal..."
+    },
+    {
+     "position": "middle",
      "signpost": "To naprawde imponujace udogodnienie..."
     },
     {
@@ -5846,8 +5850,8 @@
      "signpost": "Ta nieruchomosc ma dosc ciekawa historie..."
     },
     {
-     "position": "middle",
-     "signpost": "Dom jest juz umeblowany i zawiera miedzy innymi to..."
+     "position": "end",
+     "signpost": "Dom jest juz umeblowany i zawiera miedzy innymi to...""
     },
     {
      "position": "end",
@@ -5860,10 +5864,6 @@
     {
      "position": "end",
      "signpost": "Pewnie zastanawiasz sie, co stalo sie z poprzednim wlascicielem..."
-    },
-    {
-     "position": "end",
-     "signpost": "To jeden z najwspanialszych eksponatow w naszej kolekcji..."
     }
    ],
    "title": "Czesc, jestem waszym agentem nieruchomosci i oto oprowadze was po <BLANK>",
@@ -5879,6 +5879,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "To jeden z najwspanialszych eksponatow w naszej kolekcji..."
+    },
+    {
+     "position": "middle",
      "signpost": "Ten nastepny eksponat jest niesamowicie cenny i to oczywiste dlaczego..."
     },
     {
@@ -5886,7 +5890,7 @@
      "signpost": "Patrz, ale nie dotykaj, poniewaz ten eksponat jest niezwykle niebezpieczny..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Zajrzyj do sklepu z pamiatkami, gdzie mozesz kupic te niesamowita pamiatke..."
     },
     {
@@ -5894,16 +5898,12 @@
      "signpost": "Podobala ci sie wizyta? Zostan czlonkiem i otrzymasz to..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Ten eksponat wywolal ogromna kontrowersje, gdy po raz pierwszy zostal zaprezentowany..."
     },
     {
-     "position": "middle",
-     "signpost": "Teraz mijasz muzealna kawiarnie, gdzie mozesz skosztowac tego..."
-    },
-    {
      "position": "end",
-     "signpost": "Wszystko zaczelo sie jak kazdy inny dzien..."
+     "signpost": "Teraz mijasz muzealna kawiarnie, gdzie mozesz skosztowac tego..."
     }
    ],
    "title": "Jestem twoim przewodnikiem w muzeum. Oto fascynujaca wystawa o <BLANK>",
@@ -5919,6 +5919,10 @@
    "signposts": [
     {
      "position": "middle",
+     "signpost": "Wszystko zaczelo sie jak kazdy inny dzien..."
+    },
+    {
+     "position": "middle",
      "signpost": "A potem moj ekscentryczny sasiad narobil balaganu, uzywajac tego..."
     },
     {
@@ -5926,7 +5930,7 @@
      "signpost": "Sprobowalem szalonego planu, ktory tylko pogorszyl sytuacje..."
     },
     {
-     "position": "middle",
+     "position": "end",
      "signpost": "Ostatecznie nauczylem sie jednak waznej lekcji zyciowej..."
     },
     {
@@ -5942,12 +5946,8 @@
      "signpost": "Okazalo sie, ze odpowiedz byla w mojej kieszeni przez caly czas..."
     },
     {
-     "position": "end",
-     "signpost": "Mam zwariowana prace. Oto gdzie pracuje..."
-    },
-    {
      "position": "middle",
-     "signpost": "Moje elfy ciezko pracuja, budujac to..."
+     "signpost": "Mam zwariowana prace. Oto gdzie pracuje..."
     }
    ],
    "title": "Jestem postacia z sitcomu i zaraz wyjasnie, jak wpakowalem sie w te absurdalna sytuacje zwiazana z <BLANK>",
@@ -5963,10 +5963,14 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Zamiast san, oto jak podrozuje w tym roku..."
+     "signpost": "Moje elfy ciezko pracuja, budujac to..."
     },
     {
      "position": "middle",
+     "signpost": "Zamiast san, oto jak podrozuje w tym roku..."
+    },
+    {
+     "position": "end",
      "signpost": "Czy to wszystko bylo tylko snem? Gdy sie obudzisz, to bedzie obok twojego lozka, aby udowodnic, ze to wydarzylo sie naprawde..."
     },
     {
@@ -5974,24 +5978,20 @@
      "signpost": "swiateczna magia moze sie wydarzyc tylko wtedy, gdy wierzysz w to..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Wyobraz sobie, ze budzisz sie i znajdujesz skarpete wypelniona TYM..."
     },
     {
-     "position": "middle",
-     "signpost": "Jest tylko jeden sposob, aby pozostac na mojej \"
+     "position": "end",
+     "signpost": "Jest tylko jeden sposob, aby pozostac na mojej liscie grzecznych dzieci w tym roku..."
     },
     {
-     "position": "end",
+     "position": "middle",
      "signpost": "Zamiast oceniac dzieci jako grzeczne lub niegrzeczne, oto jak ich osadzam..."
     },
     {
-     "position": "middle",
-     "signpost": "Wiec lepiej uwazaj, bo przychodze do twojego domu z tym..."
-    },
-    {
      "position": "end",
-          "signpost": "So you better watch out, because I'm coming to your house with this..."
+     "signpost": "Wiec lepiej uwazaj, bo przychodze do twojego domu z tym..."
     }
    ],
    "title": "Ho ho ho, jestem Swietym Mikolajem i w tym roku robie wszystko inaczej dzieki <BLANK>",
