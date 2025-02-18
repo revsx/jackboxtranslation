@@ -3120,9 +3120,9 @@
     },
     {
      "position": "end",
-     "signpost": "Mam takze pomysl na prequel filmu...""
+     "signpost": "Mam takze pomysl na prequel filmu..."
     }
-   ],
+    ],
    "title": "Hollywood boi sie nakrecic moj film o <BLANK>",
    "x": false
   },
@@ -4502,7 +4502,7 @@
     },
     {
      "position": "end",
-     "signpost": Wiem, ze mozemy wygrac, poniewaz mamy..."
+     "signpost": "Wiem, ze mozemy wygrac, poniewaz mamy..."
     }
    ],
    "title": "Mam raport od naszych szpiegow! Plan wroga to <BLANK>",
@@ -4646,7 +4646,7 @@
     },
     {
      "position": "end",
-     "signpost": "AAAAAAAAHHHHHHHHHH!
+     "signpost": "AAAAAAAAHHHHHHHHHH!"
     },
     {
      "position": "end",
@@ -4951,7 +4951,7 @@
    "signposts": [
     {
      "position": "middle",
-     "signpost": "Mam osobista historie zwiazana z tym nastepnym obrazem...""
+     "signpost": "Mam osobista historie zwiazana z tym nastepnym obrazem..."
     },
     {
      "position": "end",
@@ -4959,7 +4959,7 @@
     },
     {
      "position": "end",
-     "signpost": "Potraktuj ten nastepny punkt jako \\"line drive\" do mojego wniosku"
+     "signpost": "Potraktuj ten nastepny punkt jako \"line drive\"  do mojego wniosku"
     },
     {
      "position": "middle",
@@ -5104,7 +5104,7 @@
     },
     {
      "position": "middle",
-     "signpost": "Kiedy gralem w futbol, moj trener dal mi pewna rade...""
+     "signpost": "Kiedy gralem w futbol, moj trener dal mi pewna rade..."
     },
     {
      "position": "middle",
@@ -5132,7 +5132,7 @@
     },
     {
      "position": "middle",
-     "signpost": ""Oto, co musisz wiedziec o MVP druzyny przeciwnej..."
+     "signpost": "Oto, co musisz wiedziec o MVP druzyny przeciwnej..."
     },
     {
      "position": "end",
@@ -5851,7 +5851,7 @@
     },
     {
      "position": "end",
-     "signpost": "Dom jest juz umeblowany i zawiera miedzy innymi to...""
+     "signpost": "Dom jest juz umeblowany i zawiera miedzy innymi to..."
     },
     {
      "position": "end",
