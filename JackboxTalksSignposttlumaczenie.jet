@@ -327,7 +327,7 @@
   {
    "id": "71603",
    "position": "middle",
-   "signpost": "\2Eureka!\" I shouted when I saw this",
+   "signpost": "\"Eureka!\" I shouted when I saw this",
    "x": false
   },
   {
@@ -1245,7 +1245,7 @@
   {
    "id": "72739",
    "position": "middle",
-   "signpost": "Mozesz sie zastanawiac: \2Am I the problem?\" Yes, and here's why...",
+   "signpost": "Mozesz sie zastanawiac: \"Czy to ja jestem problemem?\" Tak, i oto dlaczego...",
    "x": false
   },
   {
@@ -1353,7 +1353,7 @@
   {
    "id": "72947",
    "position": "end",
-   "signpost": "Mozesz sie zastanawiac: \2What can I do?\" First, please stop yelling. Second...",
+   "signpost": "Możesz się zastanawiać: \"Czy to ja jestem problemem?\" Tak, i oto dlaczego...",
    "x": false
   },
   {
@@ -1497,7 +1497,7 @@
   {
    "id": "73980",
    "position": "middle",
-   "signpost": "Odrzucmy \"fakty,\" co tak  \"naprawde\" wiemy?",
+   "signpost": "Odrzucmy \"fakty,\" co tak \"naprawde\" wiemy?",
    "x": false
   }
  ]
